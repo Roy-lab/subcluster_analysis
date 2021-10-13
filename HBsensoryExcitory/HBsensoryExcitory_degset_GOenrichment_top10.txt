@@ -1,0 +1,61 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	20.31	0.00596276	muscle_cell_differentiation	DMD;QKI;SYNE1
+c1	20.31	0.00596276	inhibitory_synapse_assembly	GABRA2;GABRG2;LGI2
+c1	15.23	0.010482	cyclic_nucleotide_biosynthetic_process	ADCY1;ADCY2;GUCY1A2
+c1	9.03	0.010482	positive_regulation_of_axonogenesis	CHODL;METRN;NTRK2;SLIT2
+c1	9.03	0.0272611	motor_neuron_axon_guidance	ALCAM;LHX1;SLIT2
+c1	8.83	0.00596276	neurotransmitter_transport	GABRA2;ICA1;RIMS1;SLC32A1;SV2C
+c1	8.78	0.0106707	regulation_of_neuron_projection_development	CHODL;CTNNA2;RGMA;SFRP2
+c1	8.70	0.0287461	metanephros_development	IRX1;IRX2;LHX1
+c1	8.64	0.00596276	cerebellum_development	ABAT;ATIC;GBX2;LHX1;SSTR2
+c1	8.55	0.010904	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	ALCAM;IGSF21;NLGN1;TENM1
+
+c2	27.29	0.00305518	negative_regulation_of_sodium_ion_transmembrane_transporter_activity	CAMK2D;HECW1;STK39
+c2	16.79	0.00996943	wound_healing,_spreading_of_cells	CD151;PDCD10;TMEFF2
+c2	14.20	1.07611e-05	embryonic_skeletal_system_morphogenesis	HOXA3;HOXA4;HOXA5;HOXB5;HOXB6;HOXB7;HOXB8;HOXB9
+c2	10.11	0.00305518	embryonic_skeletal_system_development	HOXA3;HOXA5;HOXB5;HOXB6;HOXB9
+c2	9.57	0.00305518	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	ALCAM;CBLN1;IGSF21;NLGN1;TENM4
+c2	9.49	0.0348752	synaptic_membrane_adhesion	NLGN1;NRG1;PTPRS
+c2	9.10	0.0361293	regulation_of_focal_adhesion_assembly	EFNA5;EPHA3;LIMCH1
+c2	8.73	0.0361293	behavioral_fear_response	ASIC1;BRINP1;SLC1A1
+c2	8.40	0.0361293	peripheral_nervous_system_development	CITED2;NRG1;SERPINI1
+c2	7.80	0.0387113	regulation_of_neuron_differentiation	EFNA3;NLGN1;ZFHX3
+
+c3	16.28	0.000572168	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH7;CNTN4;FAT4;VSTM2L
+c3	5.50	0.00535553	cell_adhesion	CDH7;CNTN4;FAT4;OPCML;RGMB
+c3	4.55	0.0211464	nervous_system_development	CBLN1;CNTN4;ERBB4;JAG1
+c3	3.17	0.0269978	multicellular_organism_development	CDH7;ERBB4;HOXA4;JAG1;TSHZ1
+
+c4	69.86	0.000205524	positive_regulation_of_mast_cell_chemotaxis	VEGFA;VEGFB;VEGFC
+c4	39.92	0.000103007	vascular_endothelial_growth_factor_signaling_pathway	NRP2;VEGFA;VEGFB;VEGFC
+c4	32.24	0.00094456	induction_of_positive_chemotaxis	VEGFA;VEGFB;VEGFC
+c4	27.94	0.00121676	nerve_development	BDNF;NRP2;SEMA3A
+c4	18.63	0.00093111	sprouting_angiogenesis	RAMP2;VEGFA;VEGFB;VEGFC
+c4	15.10	0.00119793	positive_regulation_of_cell_division	GAREM1;VEGFA;VEGFB;VEGFC
+c4	13.97	0.00552401	regulation_of_presynapse_assembly	NTRK3;SLITRK4;SLITRK5
+c4	13.52	0.00556635	cell-cell_adhesion_via_plasma-membrane_adhesion_molecules	CDH18;CDH7;EPCAM
+c4	13.10	0.00580783	positive_chemotaxis	VEGFA;VEGFB;VEGFC
+c4	11.27	0.00093111	synapse_assembly	BDNF;ERBB4;OBSL1;POU4F1;SPOCK2
+
+c5	145.53	8.28555e-06	axon_extension_involved_in_axon_guidance	ALCAM;NRP2;SEMA3A
+c5	77.62	3.3245e-05	nerve_development	BDNF;NRP2;SEMA3A
+c5	28.40	0.000371917	neural_crest_cell_migration	ERBB4;NRP2;SEMA3A
+c5	18.78	0.00101713	synapse_assembly	BDNF;ERBB4;POU4F1
+c5	15.37	0.00034439	neuron_migration	DRGX;NRP2;NTRK3;SEMA3A
+c5	13.57	0.000116214	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH18;CDH7;FAT4;PCDH11X;PCDH7
+c5	10.58	0.00444416	transmembrane_receptor_protein_tyrosine_kinase_signaling_pathway	BDNF;ERBB4;NTRK3
+c5	9.20	0.000407335	axon_guidance	ALCAM;BDNF;DRGX;NRP2;SEMA3A
+c5	8.07	9.9861e-07	cell_adhesion	ALCAM;CDH18;CDH7;CNTN5;FAT4;NCAM2;NRP2;PCDH11X;PCDH7;PPFIBP1;RND3
+c5	7.97	0.009065	cell-cell_adhesion	CDH18;CDH7;FAT4
+
+c6	36.90	0.000873211	glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIK3
+c6	34.22	0.000196583	ionotropic_glutamate_receptor_signaling_pathway	GRIA1;GRIA3;GRID2;GRIK3
+c6	32.80	0.000947357	chondrocyte_development	CHST11;FGF18;SHOX2
+c6	22.70	0.00195453	synaptic_transmission,_glutamatergic	GRID2;GRIK3;SLC17A6
+c6	20.36	0.00232887	regulation_of_NMDA_receptor_activity	GRIA1;GRIA3;OPRM1
+c6	14.85	0.00115898	positive_regulation_of_synapse_assembly	GRID2;LRRN1;LRRN3;SLITRK1
+c6	12.83	0.00795842	regulation_of_postsynaptic_membrane_potential	GRIA1;GRIA3;GRIK3
+c6	10.54	0.00934366	negative_regulation_of_signal_transduction	MFHAS1;RGS7;SOCS2
+c6	6.79	0.00934366	exocytosis	CADPS2;RAPGEF4;SYT10;SYT16
+c6	6.79	0.00934366	calcium_ion_transmembrane_transport	CACNA2D1;CACNG4;OPRM1;RYR2
+

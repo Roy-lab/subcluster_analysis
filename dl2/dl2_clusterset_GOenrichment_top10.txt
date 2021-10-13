@@ -1,0 +1,111 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset49
+
+clusterset52	175.81	3.74588e-08	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1A;ATP5F1B;ATP5F1C;COX5B
+clusterset52	131.86	4.76282e-06	ATP_synthesis_coupled_proton_transport	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	105.49	5.05703e-06	oxidative_phosphorylation	ATP5F1C;COX5B;COX6B1
+clusterset52	90.94	5.05703e-06	cristae_formation	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	90.94	5.05703e-06	ATP_biosynthetic_process	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	35.88	5.05703e-06	proton_transmembrane_transport	ATP5F1A;ATP5F1B;COX5B;COX6B1
+clusterset52	4.61	0.025234	ion_transport	ATP5F1A;ATP5F1B;ATP5F1C
+
+clusterset53	46.88	7.06403e-05	protein_deneddylation	COPS4;COPS5;COPS6
+clusterset53	36.77	1.85652e-14	regulation_of_cellular_amino_acid_metabolic_process	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	35.52	6.41734e-07	proteasomal_ubiquitin-independent_protein_catabolic_process	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3
+clusterset53	34.10	1.85652e-14	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	30.74	5.36068e-14	NIK/NF-kappaB_signaling	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	29.30	7.96113e-14	regulation_of_hematopoietic_stem_cell_differentiation	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	28.61	1.85652e-14	regulation_of_transcription_from_RNA_polymerase_II_promoter_in_response_to_hypoxia	ELOC;PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	26.79	2.08376e-13	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-dependent	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	23.74	8.20798e-13	regulation_of_mitotic_cell_cycle_phase_transition	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+clusterset53	23.15	9.81723e-13	anaphase-promoting_complex-dependent_catabolic_process	PSMA1;PSMA4;PSMA5;PSMB2;PSMB3;PSMC5;PSMC6;PSMD13;PSMD14;PSMD2;PSMD7;SEM1
+
+clusterset54
+
+clusterset55
+
+clusterset56
+
+clusterset57	65.93	0.000118792	neuromuscular_junction_development	CACNB2;UNC13C;UTRN
+clusterset57	7.67	0.0329399	response_to_drug	ADRA1A;DRD1;SFRP2
+
+clusterset58	66.98	2.99412e-05	toxin_transport	CCT2;CCT8;DNAJA1
+clusterset58	25.37	9.00911e-06	protein_folding	CCT2;CCT8;DNAJA1;HSPA8;PPIA
+clusterset58	20.74	0.000603757	regulation_of_mRNA_stability	HSPA8;PSMB1;SET
+clusterset58	10.15	1.02838e-05	viral_process	HNRNPK;HSPA8;PPIA;PSMB1;RAN;SET;YWHAE
+clusterset58	10.04	0.000200708	neutrophil_degranulation	CCT2;CCT8;HSPA8;PPIA;PSMB1
+clusterset58	8.03	0.00764713	RNA_splicing	HNRNPK;HSPA8;STRAP
+clusterset58	6.39	0.0122813	mRNA_processing	HNRNPK;HSPA8;STRAP
+clusterset58	4.50	0.0272465	negative_regulation_of_transcription,_DNA-templated	EIF4G2;HSPA8;SET
+
+clusterset59	71.12	1.15161e-43	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL10;RPL10A;RPL13;RPL13A;RPL18;RPL18A;RPL21;RPL23A;RPL29;RPL3;RPL32;RPL35A;RPL37A;RPL4;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS18;RPS23;RPS24;RPS3;RPS3A;RPS5;RPS8
+clusterset59	58.07	3.18545e-41	viral_transcription	RPL10;RPL10A;RPL13;RPL13A;RPL18;RPL18A;RPL21;RPL23A;RPL29;RPL3;RPL32;RPL35A;RPL37A;RPL4;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS18;RPS23;RPS24;RPS3;RPS3A;RPS5;RPS8
+clusterset59	54.10	1.83442e-40	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL10;RPL10A;RPL13;RPL13A;RPL18;RPL18A;RPL21;RPL23A;RPL29;RPL3;RPL32;RPL35A;RPL37A;RPL4;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS18;RPS23;RPS24;RPS3;RPS3A;RPS5;RPS8
+clusterset59	50.96	1.51223e-07	ribosomal_large_subunit_assembly	RPL10;RPL23A;RPL3;RPL5;RPL6
+clusterset59	46.88	2.17994e-11	cytoplasmic_translation	RPL10A;RPL18;RPL18A;RPL29;RPL32;RPL35A;RPL6;RPS23
+clusterset59	46.22	4.36915e-40	translational_initiation	EIF4A2;RPL10;RPL10A;RPL13;RPL13A;RPL18;RPL18A;RPL21;RPL23A;RPL29;RPL3;RPL32;RPL35A;RPL37A;RPL4;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS18;RPS23;RPS24;RPS3;RPS3A;RPS5;RPS8
+clusterset59	23.85	6.81924e-33	translation	EEF2;EIF4A2;RPL10;RPL10A;RPL13;RPL13A;RPL18;RPL18A;RPL21;RPL23A;RPL29;RPL3;RPL32;RPL35A;RPL37A;RPL4;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS18;RPS23;RPS24;RPS3;RPS3A;RPS5;RPS8
+clusterset59	11.53	0.0077981	cellular_oxidant_detoxification	GPX4;MGST3;TXN
+clusterset59	9.50	0.00982241	positive_regulation_of_translation	CIRBP;EEF2;RPL5
+clusterset59	8.90	0.0106466	negative_regulation_of_translation	CIRBP;RPL13A;RPS3
+
+clusterset60
+
+clusterset61	83.97	5.59939e-06	positive_regulation_of_establishment_of_protein_localization_to_telomere	CCT3;CCT6A;CCT7;TCP1
+clusterset61	76.34	5.59939e-06	positive_regulation_of_protein_localization_to_Cajal_body	CCT3;CCT6A;CCT7;TCP1
+clusterset61	55.98	1.52207e-05	positive_regulation_of_telomerase_RNA_localization_to_Cajal_body	CCT3;CCT6A;CCT7;TCP1
+clusterset61	41.99	3.1839e-05	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1D;ATP5MF;ATP5PB;ATP5PO
+clusterset61	31.49	0.000328997	ATP_synthesis_coupled_proton_transport	ATP5F1D;ATP5PB;ATP5PO
+clusterset61	28.96	7.55628e-05	cristae_formation	ATP5F1D;ATP5MF;ATP5PB;ATP5PO
+clusterset61	28.96	7.55628e-05	ATP_biosynthetic_process	ATP5F1D;ATP5MF;ATP5PB;ATP5PO
+clusterset61	28.63	0.000407022	proteasomal_ubiquitin-independent_protein_catabolic_process	PSMA3;PSMB5;PSMB6
+clusterset61	27.99	7.89783e-05	translational_elongation	EEF1B2;EIF5A;RPLP1;TUFM
+clusterset61	25.45	9.16667e-05	positive_regulation_of_telomere_maintenance_via_telomerase	CCT3;CCT6A;CCT7;TCP1
+
+clusterset62
+
+clusterset63
+
+clusterset64
+
+clusterset65	11.44	0.000190586	regulation_of_transcription,_DNA-templated	DLX1;DLX6;EBF2;TFAP2D
+clusterset65	11.32	0.00128276	multicellular_organism_development	DLX1;DLX6;EBF2
+clusterset65	10.75	0.00128276	positive_regulation_of_transcription_by_RNA_polymerase_II	DLX1;EBF2;TFAP2D
+clusterset65	10.11	0.000190586	regulation_of_transcription_by_RNA_polymerase_II	DLX1;DLX6;EBF2;TFAP2D
+
+clusterset66	5.01	0.0401432	G_protein-coupled_receptor_signaling_pathway	ADCY8;ADRB1;CGA
+clusterset66	4.78	0.00815668	positive_regulation_of_transcription_by_RNA_polymerase_II	BCL11B;CGA;FOSB;HOXD10;NPAS4
+clusterset66	4.04	0.00815668	regulation_of_transcription_by_RNA_polymerase_II	BCL11B;CGA;FOSB;HOXD10;KIT;NPAS4
+
+clusterset67
+
+clusterset68
+
+clusterset69
+
+clusterset70
+
+clusterset71
+
+clusterset72
+
+clusterset73
+
+clusterset76
+
+clusterset77
+
+clusterset78
+
+clusterset79
+
+clusterset82
+
+clusterset83
+
+clusterset84
+
+clusterset87
+
+clusterset89
+

@@ -1,0 +1,73 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset20
+
+clusterset25	54.78	0.000129499	mitochondrial_acetyl-CoA_biosynthetic_process_from_pyruvate	DLD;MPC2;PDHA1
+clusterset25	34.24	0.000528897	box_C/D_snoRNP_assembly	PIH1D1;RUVBL2;TAF9
+clusterset25	27.70	1.95698e-30	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL10;RPL10A;RPL11;RPL13;RPL13A;RPL14;RPL19;RPL28;RPL3;RPL37;RPL37A;RPL38;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS15;RPS16;RPS23;RPS24;RPS3;RPS5;RPS9;SRP72;SRP9
+clusterset25	27.39	0.000991288	protein_deneddylation	COPS2;COPS4;COPS6
+clusterset25	26.08	0.000129499	ribosomal_small_subunit_assembly	MRPS7;RPS14;RPS15;RPS5
+clusterset25	22.82	0.000198393	formation_of_cytoplasmic_translation_initiation_complex	EIF3G;EIF3K;EIF3L;EIF3M
+clusterset25	22.82	3.65295e-06	ribosomal_large_subunit_assembly	RPL10;RPL11;RPL3;RPL5;RPL6;RSL24D1
+clusterset25	21.48	0.00024008	cytoplasmic_translational_initiation	EIF3G;EIF3K;EIF3L;EIF3M
+clusterset25	20.94	4.38526e-25	viral_transcription	RPL10;RPL10A;RPL11;RPL13;RPL13A;RPL14;RPL19;RPL28;RPL3;RPL37;RPL37A;RPL38;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS15;RPS16;RPS23;RPS24;RPS3;RPS5;RPS9
+clusterset25	20.12	1.57628e-25	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	NCBP2;RPL10;RPL10A;RPL11;RPL13;RPL13A;RPL14;RPL19;RPL28;RPL3;RPL37;RPL37A;RPL38;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS15;RPS16;RPS23;RPS24;RPS3;RPS5;RPS9
+
+clusterset26	28.28	0.00122896	proteasomal_ubiquitin-independent_protein_catabolic_process	PSMA5;PSMB3;PSMB4
+clusterset26	21.60	0.00019729	mitochondrial_electron_transport,_NADH_to_ubiquinone	NDUFA2;NDUFC2;NDUFS2;NDUFS4;NDUFS7
+clusterset26	18.03	0.00104169	proteolysis_involved_in_cellular_protein_catabolic_process	CLPP;PSMA5;PSMB3;PSMB4
+clusterset26	16.59	0.00115915	regulation_of_cellular_amino_acid_metabolic_process	PSMA5;PSMB3;PSMB4;PSMC6
+clusterset26	15.48	0.000518308	mitochondrial_respiratory_chain_complex_I_assembly	NDUFA2;NDUFC2;NDUFS2;NDUFS4;NDUFS7
+clusterset26	15.08	0.00122896	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMA5;PSMB3;PSMB4;PSMC6
+clusterset26	13.60	0.00136328	NIK/NF-kappaB_signaling	PSMA5;PSMB3;PSMB4;PSMC6
+clusterset26	12.57	0.00155595	regulation_of_hematopoietic_stem_cell_differentiation	PSMA5;PSMB3;PSMB4;PSMC6
+clusterset26	11.78	0.00104169	Wnt_signaling_pathway,_planar_cell_polarity_pathway	AP2B1;PSMA5;PSMB3;PSMB4;PSMC6
+clusterset26	11.68	0.00170759	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-dependent	PSMA5;PSMB3;PSMB4;PSMC6
+
+clusterset27	22.40	0.000118583	proteasome_assembly	ADRM1;PSMD13;PSMD4;PSMG2
+clusterset27	20.16	0.00151983	positive_regulation_of_establishment_of_protein_localization_to_telomere	CCT4;CCT5;CCT7
+clusterset27	19.20	3.47442e-06	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1B;ATP5F1C;ATP5MC3;ATP5PB;ATP5PO;COX5B
+clusterset27	18.33	0.00201387	positive_regulation_of_protein_localization_to_Cajal_body	CCT4;CCT5;CCT7
+clusterset27	16.13	3.41783e-10	regulation_of_cellular_amino_acid_metabolic_process	PSMA1;PSMB2;PSMB5;PSMB6;PSMC1;PSMC5;PSMD13;PSMD2;PSMD3;PSMD4;PSMD6;PSMD7
+clusterset27	16.00	6.66909e-05	ATP_synthesis_coupled_proton_transport	ATP5F1B;ATP5F1C;ATP5MC3;ATP5PB;ATP5PO
+clusterset27	15.51	1.26478e-05	oxidative_phosphorylation	ATP5F1C;COX5A;COX5B;COX6C;UQCRC2;UQCRH
+clusterset27	15.51	0.0030267	mitochondrial_electron_transport,_ubiquinol_to_cytochrome_c	UQCRC2;UQCRFS1;UQCRH
+clusterset27	14.66	6.94262e-10	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMA1;PSMB2;PSMB5;PSMB6;PSMC1;PSMC5;PSMD13;PSMD2;PSMD3;PSMD4;PSMD6;PSMD7
+clusterset27	14.32	3.41783e-10	NIK/NF-kappaB_signaling	PPP4C;PSMA1;PSMB2;PSMB5;PSMB6;PSMC1;PSMC5;PSMD13;PSMD2;PSMD3;PSMD4;PSMD6;PSMD7
+
+clusterset28	15.12	0.00364933	proteasome-mediated_ubiquitin-dependent_protein_catabolic_process	PSMA3;PSMA4;STUB1
+clusterset28	10.51	0.00364933	MAPK_cascade	PSMA3;PSMA4;RASGRP1
+clusterset28	10.35	0.00364933	protein_polyubiquitination	PSMA3;PSMA4;STUB1
+clusterset28	10.01	0.00364933	ubiquitin-dependent_protein_catabolic_process	PSMA3;PSMA4;STUB1
+clusterset28	6.61	0.00364933	viral_process	C1QBP;PSMA3;PSMA4;VPS29
+
+clusterset29	18.73	0.00349627	interleukin-1-mediated_signaling_pathway	IL1RAP;PSMA7;PSMB1
+clusterset29	16.28	0.00349627	Fc-epsilon_receptor_signaling_pathway	MAP3K1;PSMA7;PSMB1
+clusterset29	8.97	0.00349627	MAPK_cascade	DUSP6;MAP3K1;PSMA7;PSMB1
+clusterset29	8.46	0.00349627	positive_regulation_of_apoptotic_process	ALDH1A2;DUSP6;GAL;PHLDA2;STK17A
+clusterset29	8.29	0.00373514	inflammatory_response	GAL;HRH1;IFI16;IL1RAP
+clusterset29	6.22	0.0298283	response_to_drug	DUSP6;GAL;LGALS1
+clusterset29	5.44	0.0365286	post-translational_protein_modification	LGALS1;PSMA7;PSMB1
+clusterset29	4.70	0.0418561	negative_regulation_of_cell_population_proliferation	ALDH1A2;GAL;SERPINE2
+clusterset29	3.73	0.0386813	apoptotic_process	IFI16;LGALS1;PHLDA2;STK17A
+
+clusterset31
+
+clusterset32	100.81	2.55411e-07	mitochondrial_electron_transport,_NADH_to_ubiquinone	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset32	72.22	4.98845e-07	mitochondrial_respiratory_chain_complex_I_assembly	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset32	7.54	0.00235278	oxidation-reduction_process	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset32	4.31	0.0360718	cell_differentiation	MDK;SLIT2;SYT1
+clusterset32	3.67	0.0435264	multicellular_organism_development	MDK;NNAT;SLIT2
+
+clusterset33	13.35	0.00651885	chemical_synaptic_transmission	OPRK1;SLC18A3;TAC1
+clusterset33	5.22	0.044672	ion_transport	CLIC1;HCN1;TMC3
+
+clusterset34
+
+clusterset36	870.96	1.17635e-08	electron_transport_coupled_proton_transport	MT-CO1;MT-CYB;MT-ND5
+clusterset36	256.17	3.98226e-07	respiratory_electron_transport_chain	MT-CO1;MT-CO3;MT-CYB
+clusterset36	217.74	4.44593e-07	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	MT-CO1;MT-CO2;MT-CO3
+clusterset36	42.69	4.87508e-05	proton_transmembrane_transport	MT-CO1;MT-CO2;MT-CO3
+clusterset36	9.04	0.000642892	oxidation-reduction_process	MT-CO1;MT-CO2;MT-CYB;MT-ND5
+
+clusterset40
+

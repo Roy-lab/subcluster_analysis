@@ -1,0 +1,66 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset32	20.89	0.000344094	chordate_embryonic_development	BRCA1;BRCA2;CENPU;TRIP6
+clusterset32	17.41	0.000754333	pulmonary_artery_morphogenesis	HEY2;JAG1;LRP2;STRA6
+clusterset32	17.41	0.000754333	prostate_gland_epithelium_morphogenesis	AR;FOXA1;NOTCH1;TNC
+clusterset32	15.67	0.00537324	negative_regulation_of_plasminogen_activation	CTSZ;SERPINE1;SERPINF2
+clusterset32	15.67	0.00537324	regulation_of_striated_muscle_tissue_development	CENPF;SMAD3;TGFB1
+clusterset32	15.67	0.00537324	positive_regulation_of_exit_from_mitosis	CDCA5;TGFB1;UBE2C
+clusterset32	13.06	0.00791291	regulation_of_keratinocyte_proliferation	YAP1;ZFP36;ZFP36L1
+clusterset32	13.06	0.00224705	response_to_laminar_fluid_shear_stress	ABCA1;ETS1;SMAD6;TGFB1
+clusterset32	13.06	0.00791291	kinetochore_organization	CDT1;NDC80;NUF2
+clusterset32	13.06	0.00224705	notochord_development	COL2A1;ID3;TEAD2;YAP1
+
+clusterset33	12.22	0.0230892	actomyosin_contractile_ring_assembly	ANLN;KIF23;RTKN
+clusterset33	12.22	0.0230892	positive_regulation_of_microglial_cell_migration	CSF1;CX3CL1;P2RX4
+clusterset33	12.22	0.0230892	chronic_inflammatory_response	CXCL13;THBS1;VCAM1
+clusterset33	12.22	0.0230892	axonemal_central_apparatus_assembly	HYDIN;SPAG17;SPEF1
+clusterset33	12.22	0.0230892	apoptotic_process_involved_in_morphogenesis	CRYAB;LEF1;SCRIB
+clusterset33	11.64	0.00971626	positive_regulation_of_cytokine_production_involved_in_immune_response	SLC7A5;TNFRSF14;TRIM6;WNT5A
+clusterset33	10.72	1.19494e-06	outer_dynein_arm_assembly	CCDC114;CCDC151;CCDC63;DAW1;DNAAF1;DNAAF5;DNAI1;DNAI2;LRRC6;ZMYND10
+clusterset33	10.18	0.0302219	establishment_of_T_cell_polarity	CCR7;MYH9;SCRIB
+clusterset33	10.18	0.0302219	glomerular_visceral_epithelial_cell_migration	ANLN;KANK1;KANK2
+clusterset33	10.18	0.0302219	positive_regulation_of_DNA_topoisomerase_(ATP-hydrolyzing)_activity	NCAPH;PLSCR1;UHRF1
+
+clusterset34	41.03	0.000684974	regulation_of_postsynaptic_neurotransmitter_receptor_activity	DLGAP3;NPTX1;SHISA6
+clusterset34	26.26	0.00136587	gamma-aminobutyric_acid_signaling_pathway	GABRA2;GABRB1;GABRR1
+clusterset34	24.31	0.00147919	synaptic_transmission,_glutamatergic	CDH8;GRIK1;SLC17A6
+clusterset34	17.86	0.000758222	regulation_of_postsynaptic_membrane_potential	GABRA2;GABRB1;GABRR1;GRIK1
+clusterset34	14.59	0.000483849	modulation_of_chemical_synaptic_transmission	GRIK1;LRFN2;NTNG1;RELN;TNR
+clusterset34	14.59	0.00477224	long-term_synaptic_potentiation	GRIN2B;RELN;TNR
+clusterset34	13.97	0.00477224	inner_ear_development	ESRRB;LHX3;PCDH15
+clusterset34	13.97	0.00477224	nervous_system_process	GABRA2;GABRB1;GABRR1
+clusterset34	9.95	0.0109755	chloride_transport	GABRA2;GABRB1;GABRR1
+clusterset34	8.84	0.00477224	regulation_of_membrane_potential	GABRA2;GABRB1;GABRR1;SLC39A8
+
+clusterset35
+
+clusterset37	7.50	0.00369215	signal_transduction	GDNF;NTS;SUCNR1
+
+clusterset38
+
+clusterset39
+
+clusterset43
+
+clusterset44	16.56	0.000674884	cytokine-mediated_signaling_pathway	MMP2;TIMP1;VIM
+
+clusterset45	25.91	0.00157918	neuropeptide_signaling_pathway	CALCA;OPRK1;TAC3
+
+clusterset46
+
+clusterset49	5.14	0.0367182	positive_regulation_of_transcription,_DNA-templated	BRPF1;SALL1;SREBF1
+clusterset49	4.41	0.0367182	positive_regulation_of_transcription_by_RNA_polymerase_II	ADIRF;SALL1;SREBF1;ZNF395
+clusterset49	3.10	0.0445212	regulation_of_transcription_by_RNA_polymerase_II	POU3F4;SALL1;SREBF1;ZNF395
+
+clusterset50
+
+clusterset51	109.41	1.04519e-07	mitochondrial_electron_transport,_NADH_to_ubiquinone	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset51	78.38	2.04343e-07	mitochondrial_respiratory_chain_complex_I_assembly	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset51	8.24	0.000965144	oxidation-reduction_process	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+
+clusterset53
+
+clusterset54
+
+clusterset55
+

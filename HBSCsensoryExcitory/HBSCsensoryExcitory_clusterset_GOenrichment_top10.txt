@@ -1,0 +1,71 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset11	27.96	0.0177247	regulation_of_insulin-like_growth_factor_receptor_signaling_pathway	GHRHR;IGFBP3;IGFBP6
+clusterset11	14.91	0.0268726	phospholipid_homeostasis	APOA1;FABP3;TLCD1
+clusterset11	9.62	0.0268726	regulation_of_angiogenesis	EPHA2;GPNMB;HMOX1;HTATIP2
+clusterset11	9.04	0.0268726	negative_regulation_of_cytokine_production	AXL;CIDEA;EPHA2;GPNMB
+clusterset11	7.65	0.0278121	cell_death	CIDEA;FOSL2;HMOX1;PJVK
+clusterset11	6.78	0.0392166	intrinsic_apoptotic_signaling_pathway_in_response_to_DNA_damage	CHEK2;EPHA2;HMOX1;TNFRSF1A
+clusterset11	6.11	0.0278121	cell_chemotaxis	ACKR2;CCL25;CCR7;CXCL14;EPHA2
+clusterset11	5.97	0.0480855	type_I_interferon_signaling_pathway	GBP2;IFI6;ISG20;MX1
+clusterset11	4.66	0.0480855	circadian_rhythm	ATOH7;BHLHE40;NR1D1;NTRK1;SERPINE1
+clusterset11	4.07	0.0463657	platelet_degranulation	APOA1;ECM1;FLNA;PHACTR2;SERPINE1;TAGLN2
+
+clusterset12
+
+clusterset13	19.84	0.00378987	negative_regulation_of_neuron_projection_development	ITM2C;MDM2;NR2F1
+clusterset13	13.36	0.00547483	anterior/posterior_pattern_specification	HES6;HOXB6;HOXB8
+clusterset13	7.89	0.0173148	neuron_differentiation	ID1;IER2;ITM2C
+clusterset13	5.07	0.0180595	positive_regulation_of_apoptotic_process	CLU;GADD45A;GADD45G;UBC
+clusterset13	4.97	0.00533705	nervous_system_development	EFNB3;ENC1;HES6;MDK;NR2F1;SERPINE2
+clusterset13	4.73	0.000184544	multicellular_organism_development	CADM1;EFNB3;ENC1;GADD45G;HES6;HOXB6;HOXB8;HOXC8;ID1;MDK;SERPINE2
+clusterset13	4.14	0.0288255	positive_regulation_of_gene_expression	CLU;HMGB2;ID1;MDM2
+clusterset13	4.04	0.00378987	cell_differentiation	CADM1;EFNB3;GADD45G;HES6;ID1;MDK;NR2F1;SERPINE2
+clusterset13	3.72	0.00713708	negative_regulation_of_transcription_by_RNA_polymerase_II	GADD45A;HES6;HOXB8;ID1;MDM2;NR2F1;UBC
+clusterset13	3.47	0.0285681	apoptotic_process	CADM1;CLU;GADD45A;GADD45G;PPP1R15A
+
+clusterset14
+
+clusterset15
+
+clusterset16
+
+clusterset17	30.91	0.00030651	animal_organ_morphogenesis	LY6H;ONECUT2;PBX3
+clusterset17	5.15	0.0260105	cell_differentiation	ID2;PEG10;SYT4
+
+clusterset18
+
+clusterset19	11.56	3.50641e-07	protein_deneddylation	COPS2;COPS3;COPS4;COPS5;COPS6;COPS8;GPS1;TOR1A
+clusterset19	11.56	0.00104432	mitochondrial_acetyl-CoA_biosynthetic_process_from_pyruvate	DLD;MPC2;PDHA1;PDHB
+clusterset19	9.63	7.24521e-24	mitochondrial_electron_transport,_NADH_to_ubiquinone	DLD;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA6;NDUFA8;NDUFA9;NDUFB1;NDUFB10;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB7;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS2;NDUFS3;NDUFS4;NDUFS5;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV2;NDUFV3
+clusterset19	8.89	7.32758e-06	mitochondrial_electron_transport,_ubiquinol_to_cytochrome_c	CYC1;UQCR11;UQCRB;UQCRC1;UQCRC2;UQCRFS1;UQCRH;UQCRQ
+clusterset19	8.67	0.000210691	positive_regulation_of_establishment_of_protein_localization_to_telomere	CCT3;CCT4;CCT5;CCT6A;CCT7;TCP1
+clusterset19	8.67	0.0184254	protein_transport_to_vacuole_involved_in_ubiquitin-dependent_protein_catabolic_process_via_the_multivesicular_body_sorting_pathway	SNF8;VPS25;VPS28
+clusterset19	8.67	0.0184254	negative_regulation_of_protein_neddylation	COPS9;RPL11;RPL5
+clusterset19	8.67	0.0184254	mitochondrial_electron_transport,_succinate_to_ubiquinone	SDHA;SDHAF2;SDHC
+clusterset19	8.67	0.000210691	protein_insertion_into_ER_membrane_by_stop-transfer_membrane-anchor_sequence	EMC10;EMC2;EMC3;EMC4;EMC6;EMC7
+clusterset19	8.67	1.94462e-06	positive_regulation_of_telomerase_RNA_localization_to_Cajal_body	CCT3;CCT4;CCT5;CCT6A;CCT7;NHP2;NOP10;RUVBL2;TCP1
+
+clusterset20
+
+clusterset21	222.59	6.67857e-07	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1B;ATP5MC3;COX5B
+clusterset21	57.63	6.67857e-07	proton_transmembrane_transport	ATP5F1B;ATP5MC3;COX5B;COX6C
+clusterset21	7.33	0.00658863	ion_transport	ATP5F1B;ATP5MC3;CACNA2D1
+
+clusterset22	26.50	0.000127454	response_to_drug	GAD1;JUN;PNP
+
+clusterset4	3.66	0.0466147	transmembrane_transport	SLC13A1;SLC25A45;SLC35D2
+
+clusterset5
+
+clusterset6
+
+clusterset7
+
+clusterset8
+
+clusterset9	14.45	0.00490111	response_to_drug	B2M;IGFBP2;SST
+clusterset9	5.31	0.00813924	multicellular_organism_development	B2M;CRABP1;HOXD9;POU6F2
+clusterset9	4.92	0.0199981	negative_regulation_of_transcription_by_RNA_polymerase_II	HOXD9;ID4;NR2F2
+clusterset9	4.55	0.00682787	regulation_of_transcription_by_RNA_polymerase_II	HOXD9;NR2F2;PDLIM1;POU5F1B;POU6F2
+clusterset9	4.13	0.0149207	regulation_of_transcription,_DNA-templated	HOXD9;NR2F2;POU5F1B;POU6F2
+

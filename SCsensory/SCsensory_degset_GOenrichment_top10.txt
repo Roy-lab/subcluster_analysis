@@ -1,0 +1,45 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	19.88	0.00840315	regulation_of_extrinsic_apoptotic_signaling_pathway_via_death_domain_receptors	CFLAR;FAS;TNFRSF10B
+c1	13.83	0.0140679	positive_regulation_of_apoptotic_signaling_pathway	FAS;ING5;NGFR
+c1	13.25	0.0143705	response_to_cadmium_ion	B2M;GSS;PCNA
+c1	12.85	0.00835479	negative_regulation_of_extrinsic_apoptotic_signaling_pathway_via_death_domain_receptors	CFLAR;FAS;HMGB2;TNFRSF10B
+c1	10.60	0.0212779	associative_learning	BTG2;CLN8;NPTX2
+c1	9.64	0.0227593	protein_localization_to_nucleus	BANP;LMNA;MDM2
+c1	9.64	0.0109634	lysosome_organization	CLN5;CLN8;GAA;GRN
+c1	9.64	0.0227593	platelet_aggregation	CLIC1;HSPB1;RAP2B
+c1	9.47	0.00835479	DNA_damage_response,_signal_transduction_by_p53_class_mediator_resulting_in_cell_cycle_arrest	BTG2;MDM2;PCNA;PIDD1;PLK2
+c1	9.35	0.0233329	cellular_response_to_estradiol_stimulus	CFLAR;FAM210B;ZNF703
+
+c2	44.02	0.00193729	positive_regulation_of_binding	ANXA2;RARA;S100A10
+c2	22.01	0.00193729	negative_regulation_of_TORC1_signaling	ATM;FNIP1;SESN1;SESN2
+c2	16.51	0.0199556	regulation_of_extrinsic_apoptotic_signaling_pathway_via_death_domain_receptors	CFLAR;FAS;TNFRSF10B
+c2	10.67	0.0175307	negative_regulation_of_extrinsic_apoptotic_signaling_pathway_via_death_domain_receptors	CFLAR;FAS;HMGB2;TNFRSF10B
+c2	10.56	0.0358542	intrinsic_apoptotic_signaling_pathway_by_p53_class_mediator	EDA2R;JMY;PERP
+c2	9.11	0.0378756	regulation_of_transcription_involved_in_G1/S_transition_of_mitotic_cell_cycle	BACH1;PCNA;TYMS
+c2	8.80	0.0378756	associative_learning	BTG2;CLN8;NPTX2
+c2	8.00	0.035191	cellular_response_to_amino_acid_starvation	FAS;SESN1;SESN2;SLC38A2
+c2	8.00	0.044424	protein_localization_to_nucleus	BANP;LMNA;MDM2
+c2	7.86	0.0175307	DNA_damage_response,_signal_transduction_by_p53_class_mediator_resulting_in_cell_cycle_arrest	ATM;BTG2;MDM2;PCNA;PLK2
+
+c3	20.55	0.00492537	optic_nerve_morphogenesis	EPHB1;EPHB2;PAX2
+c3	20.55	0.00492537	regulation_of_synapse_structural_plasticity	CAMK2B;CTNNA2;PPP1R9A
+c3	17.13	0.00667188	neuron_projection_guidance	ARHGAP35;EPHA4;PLXNA1
+c3	13.70	0.00326826	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;PRKCB;RIMS1;SYT2
+c3	12.85	0.000279782	glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIK1;GRIN2A;GRIN2B;PLCB1
+c3	11.42	0.0174957	protein_K6-linked_ubiquitination	ANKRD39;UBE2D4;UBE2T
+c3	11.42	0.0174957	negative_regulation_of_cAMP-dependent_protein_kinase_activity	PKIG;PRKAG2;PRKAR1B
+c3	9.79	0.0076048	dendritic_spine_development	EPHB1;EPHB2;IQSEC1;NCK2
+c3	9.34	0.00124775	regulation_of_axonogenesis	ARHGAP35;BRSK2;EPHA4;EPHB2;LRRC4C;PAK1
+c3	9.34	0.0263976	regulation_of_postsynaptic_density_assembly	GRID2;LRRC4B;PTPRD
+
+c4	45.87	0.000341986	optic_nerve_morphogenesis	EPHB1;EPHB2;PAX2
+c4	27.80	0.000208022	regulation_of_postsynaptic_density_assembly	GRID2;LRFN1;PTPRD;PTPRS
+c4	25.48	0.00158839	postsynaptic_membrane_assembly	EPHB2;NLGN1;NLGN4X
+c4	23.89	5.3934e-05	glutamate_receptor_signaling_pathway	GRID2;GRIK1;GRIN2A;GRIN2B;PLCB1
+c4	22.93	0.00188773	presynaptic_membrane_assembly	NLGN1;NLGN4X;PTPRD
+c4	22.93	0.00188773	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;PRKCB;RIMS1
+c4	22.48	6.29979e-05	retinal_ganglion_cell_axon_guidance	EPHB1;EPHB2;PTPRM;SLIT1;SLIT2
+c4	19.11	2.44569e-05	retina_layer_formation	ATP8A2;FAT3;HIPK2;LHX1;PTPRM;SLC1A1
+c4	17.64	0.00373838	neurotransmitter_biosynthetic_process	GAD1;GAD2;NOS1
+c4	16.62	0.000214262	ionotropic_glutamate_receptor_signaling_pathway	GRIA1;GRID2;GRIK1;GRIN2A;GRIN2B
+

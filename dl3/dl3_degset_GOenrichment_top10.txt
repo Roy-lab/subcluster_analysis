@@ -1,0 +1,56 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	29.10	0.0070833	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-independent	B2M;HLA-B;HLA-C
+c1	25.87	0.00789313	fructose_1,6-bisphosphate_metabolic_process	ALDOA;ALDOC;PFKP
+c1	21.17	0.0101413	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;SYT2;SYT7
+c1	17.25	0.00670339	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT17;SYT2;SYT7
+c1	16.63	0.0118588	positive_regulation_of_T_cell_mediated_cytotoxicity	B2M;HLA-B;HLA-DRB1
+c1	16.63	0.0118588	endothelial_cell_differentiation	HOXB5;MESP1;PTN
+c1	13.70	0.0139338	eye_photoreceptor_cell_development	OLFM3;TH;VEGFA
+c1	13.70	0.0139338	mammary_gland_alveolus_development	DDR1;HOXA5;VEGFA
+c1	13.70	0.0139338	response_to_pain	DBH;GCH1;RET
+c1	11.64	0.0192994	cellular_response_to_glucocorticoid_stimulus	HEY1;SSTR2;STC1
+
+c2	24.20	0.00485753	cellular_response_to_leucine_starvation	SESN1;SESN2;SESN3
+c2	24.20	0.00485753	cellular_response_to_leucine	SESN1;SESN2;SESN3
+c2	18.15	0.0021446	negative_regulation_of_TORC1_signaling	FNIP1;SESN1;SESN2;SESN3
+c2	18.15	0.00793242	positive_regulation_of_transcription_from_RNA_polymerase_II_promoter_in_response_to_endoplasmic_reticulum_stress	ATF3;CEBPB;DDIT3
+c2	15.56	0.0100025	DNA_damage_response,_signal_transduction_by_p53_class_mediator	PPM1D;SESN2;TRIAP1
+c2	13.62	0.012925	positive_regulation_of_amyloid-beta_formation	CASP3;CLU;IFNGR1
+c2	11.71	0.0021446	intrinsic_apoptotic_signaling_pathway_in_response_to_endoplasmic_reticulum_stress	BBC3;CEBPB;DDIT3;PPP1R15A;TNFRSF10B
+c2	11.47	0.018983	negative_regulation_of_release_of_cytochrome_c_from_mitochondria	CLU;LMNA;TRIAP1
+c2	10.89	0.0204074	sterol_transport	NPC2;OSBPL1A;PLTP
+c2	10.76	0.00793242	positive_regulation_of_macroautophagy	SESN1;SESN2;SESN3;TSC1
+
+c3	33.13	1.63507e-05	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT17;SYT2;SYT6;SYT7
+c3	32.52	0.00129543	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;SYT2;SYT7
+c3	27.52	0.0018745	enteric_nervous_system_development	PHOX2A;PHOX2B;RET
+c3	22.08	9.66858e-05	regulation_of_dopamine_secretion	CHRNA4;SYT17;SYT2;SYT6;SYT7
+c3	21.68	0.00058031	dopaminergic_neuron_differentiation	LMX1B;PHOX2A;PHOX2B;VEGFA
+c3	19.88	0.00378436	regulation_of_potassium_ion_transmembrane_transport	DPP10;DPP6;KCNIP1
+c3	16.45	0.00129543	calcium-ion_regulated_exocytosis	SYT17;SYT2;SYT6;SYT7
+c3	15.55	0.00578012	ionotropic_glutamate_receptor_signaling_pathway	GRIA1;GRIK3;GRIN2B
+c3	14.31	0.0066349	behavioral_fear_response	ASIC1;ASIC4;BRINP1
+c3	13.76	0.00708192	outflow_tract_septum_morphogenesis	FGFR2;RARB;ROBO1
+
+c4	14.64	0.0192262	regulation_of_synapse_structural_plasticity	CTNNA2;DRD2;PPP1R9A
+c4	12.20	0.0288082	negative_regulation_of_lens_fiber_cell_differentiation	SPRED1;SPRED2;SPRY2
+c4	10.85	0.0123531	negative_regulation_of_sodium_ion_transmembrane_transporter_activity	CAMK2D;HECW1;PRKCE;STK39
+c4	10.46	0.0358468	secretion	PRKCI;PTGES2;RIMS1
+c4	9.39	0.00806491	epithelial_cell-cell_adhesion	CAMSAP3;CTNNA1;CTNNA2;KIFC3;VCL
+c4	9.15	0.0395576	L-aspartate_transmembrane_transport	SLC1A1;SLC25A12;SLC25A13
+c4	9.15	0.0395576	apical_junction_assembly	CTNNA1;RHOC;VCL
+c4	8.87	0.02064	adherens_junction_assembly	PIP5K1C;RAMP2;TBCD;VCL
+c4	8.14	0.0466721	microvillus_assembly	RAPGEF2;SLC9A3R1;TNIK
+c4	8.14	0.0466721	negative_regulation_of_vascular_endothelial_growth_factor_signaling_pathway	DAB2IP;SEMA6A;SPRY2
+
+c5	101.86	2.86154e-05	neural_crest_cell_migration_involved_in_autonomic_nervous_system_development	NRP2;PHOX2B;SEMA3A
+c5	67.91	9.51343e-05	sympathetic_ganglion_development	NRP2;PHOX2B;SEMA3A
+c5	54.33	1.78303e-05	sympathetic_nervous_system_development	PHOX2A;PHOX2B;SEMA3A;TFAP2B
+c5	33.95	0.000728563	regulation_of_potassium_ion_transmembrane_transport	DPP10;KCNIP1;KCNIP4
+c5	27.78	0.00104122	dopaminergic_neuron_differentiation	LMX1B;PHOX2A;PHOX2B
+c5	25.47	0.00120788	regulation_of_focal_adhesion_assembly	EFNA5;EPHA3;LIMCH1
+c5	14.91	0.00539327	negative_chemotaxis	EFNA5;NRP2;SEMA3A
+c5	13.58	0.00573677	regulation_of_cell_differentiation	TFAP2A;TFAP2B;UNCX
+c5	13.29	0.00573677	regulation_of_G_protein-coupled_receptor_signaling_pathway	ADCYAP1;KCTD8;PLCB1
+c5	13.00	0.00573677	inner_ear_development	LIN7A;PHOX2B;POU3F4
+

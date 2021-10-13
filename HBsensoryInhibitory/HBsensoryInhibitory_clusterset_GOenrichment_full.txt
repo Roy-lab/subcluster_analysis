@@ -1,0 +1,66 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset18	30.53	2.20897e-09	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS15;RPS18;RPS4X
+clusterset18	24.93	5.0304e-09	viral_transcription	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS15;RPS18;RPS4X
+clusterset18	23.69	0.00069293	substantia_nigra_development	ACTB;BASP1;CALM2
+clusterset18	23.22	6.65828e-09	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS15;RPS18;RPS4X
+clusterset18	21.52	2.20897e-09	translational_initiation	EIF1;RPL10;RPL13;RPL3;RPL41;RPLP1;RPS15;RPS18;RPS4X
+clusterset18	11.96	2.45714e-08	translation	EEF1A1;EIF1;RPL10;RPL13;RPL3;RPL41;RPLP1;RPS15;RPS18;RPS4X
+clusterset18	11.20	0.00541218	axonogenesis	ACTB;MAP1B;STMN1
+clusterset18	7.84	0.0114039	neuron_projection_development	HMGB1;STMN1;VAPA
+clusterset18	7.66	0.0114039	microtubule_cytoskeleton_organization	CALM2;CRMP1;MAP1B
+clusterset18	5.39	0.000278395	nervous_system_development	APLP1;CRMP1;DCX;EVL;MAP1B;PAFAH1B3;RTN4;STMN1
+clusterset18	3.76	0.00954304	viral_process	HMGB1;HNRNPA1;KLC1;RANBP1;VAPA;VIM
+
+clusterset19
+
+clusterset20
+
+clusterset23	87.03	3.17549e-09	cytoplasmic_translation	RPL29;RPL32;RPL35A;RPS23;TMA7
+clusterset23	62.58	1.6733e-12	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23
+clusterset23	51.10	4.43169e-12	viral_transcription	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23
+clusterset23	47.60	5.27056e-12	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23
+clusterset23	39.22	1.90722e-11	translational_initiation	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23
+clusterset23	19.61	3.22633e-09	translation	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23
+clusterset23	4.38	0.029528	proteolysis	PSMD8;SPCS1;SPCS2
+
+clusterset24	40.95	0.000274176	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1A;ATP5F1E;ATP5MF
+clusterset24	33.74	5.65021e-13	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL19;RPL21;RPL27;RPL38;RPLP2;RPS11;RPS25;RPS26;RPS28;RPS5;UBA52
+clusterset24	28.24	0.000667808	cristae_formation	ATP5F1A;ATP5F1E;ATP5MF
+clusterset24	28.24	0.000667808	ATP_biosynthetic_process	ATP5F1A;ATP5F1E;ATP5MF
+clusterset24	27.55	1.87672e-12	viral_transcription	RPL19;RPL21;RPL27;RPL38;RPLP2;RPS11;RPS25;RPS26;RPS28;RPS5;UBA52
+clusterset24	27.30	8.38284e-05	cytoplasmic_translation	RPL19;RPL38;RPS26;RPS28
+clusterset24	25.67	3.11591e-12	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL19;RPL21;RPL27;RPL38;RPLP2;RPS11;RPS25;RPS26;RPS28;RPS5;UBA52
+clusterset24	24.82	0.000888212	ATP_metabolic_process	ATP5F1A;ATP5MF;HSPA8
+clusterset24	23.07	1.69638e-12	translational_initiation	COPS5;RPL19;RPL21;RPL27;RPL38;RPLP2;RPS11;RPS25;RPS26;RPS28;RPS5;UBA52
+clusterset24	11.54	2.44192e-09	translation	COPS5;RPL19;RPL21;RPL27;RPL38;RPLP2;RPS11;RPS25;RPS26;RPS28;RPS5;UBA52
+clusterset24	11.26	0.00148668	proton_transmembrane_transport	ATP5F1A;ATP5MF;ATP6V1G1;COX7A2L
+clusterset24	7.18	0.0244587	regulation_of_mRNA_stability	HSPA8;PSMA7;UBA52
+clusterset24	6.30	0.0324385	membrane_organization	ARPC3;HSPA8;UBA52
+clusterset24	5.42	0.0396013	cellular_protein_metabolic_process	BMP4;IGFBP2;UBA52
+clusterset24	5.32	0.0396013	protein_folding	DNAJA1;HSPA8;PPIA
+clusterset24	4.99	0.0426861	rRNA_processing	RPL27;RPS25;RPS28
+clusterset24	4.96	0.0426861	positive_regulation_of_protein_phosphorylation	BMP4;PPIA;RAC1
+clusterset24	4.22	0.00391365	negative_regulation_of_apoptotic_process	BMP4;COPS5;DNAJA1;HNRNPK;TPT1;UBA52;VDAC1
+clusterset24	3.55	0.0327081	neutrophil_degranulation	HSPA8;PDAP1;PPIA;RAB5C;RAC1
+clusterset24	3.02	0.0327756	viral_process	HNRNPK;HSPA8;PPIA;PSMA7;RTRAF;VDAC1
+
+clusterset25
+
+clusterset26
+
+clusterset27
+
+clusterset28
+
+clusterset29
+
+clusterset30
+
+clusterset31
+
+clusterset32
+
+clusterset33	40.45	1.69216e-06	aging	MT-ATP6;MT-CO1;PAX5;PENK
+
+clusterset34	7.62	0.0118283	G_protein-coupled_receptor_signaling_pathway	GRM4;OXTR;PDE3A
+

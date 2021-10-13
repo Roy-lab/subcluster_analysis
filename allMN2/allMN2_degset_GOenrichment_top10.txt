@@ -1,0 +1,95 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	19.74	0.00484969	calcium_ion_transmembrane_import_into_cytosol	ATP2B4;GRIN2A;GRIN2B
+c1	15.36	0.00826359	excitatory_chemical_synaptic_transmission	GRIN2A;GRIN2B;PTCHD1
+c1	14.02	3.10275e-05	synaptic_membrane_adhesion	GPC6;LRFN5;LRRC4C;NLGN1;PCDH17;SLITRK1;SLITRK2
+c1	13.55	0.000831704	axonal_fasciculation	CNR1;CNTN4;NCAM2;SEMA3A;TNFRSF21
+c1	12.56	0.0124075	ganglioside_biosynthetic_process	ST8SIA2;ST8SIA3;ST8SIA4
+c1	11.52	0.00484969	neuron_cell-cell_adhesion	CNTN4;NCAM2;NLGN1;NRXN3
+c1	11.52	0.00484969	glutamate_receptor_signaling_pathway	GRIA4;GRIN2A;GRIN2B;KCNB1
+c1	11.52	0.0140589	regulation_of_long-term_synaptic_potentiation	CALB1;CYP46A1;SHANK3
+c1	10.63	0.0164858	positive_regulation_of_glycogen_biosynthetic_process	DYRK2;IRS1;IRS2
+c1	10.24	0.00672837	sialylation	ST6GAL2;ST8SIA2;ST8SIA3;ST8SIA4
+
+c2	6.08	0.000999905	sterol_biosynthetic_process	CYP51A1;DHCR24;DHCR7;INSIG1;INSIG2;MVD;MVK;NSDHL;PRKAA1;SC5D
+c2	5.57	0.000999905	cholesterol_biosynthetic_process	CYP51A1;DHCR24;DHCR7;HSD17B7;INSIG1;INSIG2;LSS;MVD;MVK;NSDHL;PRKAA1
+c2	4.66	0.00374536	cellular_amino_acid_biosynthetic_process	ADI1;ALDH18A1;ASL;ENOPH1;GPT2;MTHFD1;MTR;PSAT1;PYCR1;RIMKLA;RIMKLB
+c2	2.03	0.0132015	protein_phosphopantetheinylation	ABHD12;ASPH;ATG10;ATG16L1;B4GALT7;BRCC3;DESI2;GALNT13;GALNT2;GALNT9;GALNTL6;GGT7;GLRX2;MGAT2;MGAT4C;STAMBPL1;TPST1;UBA5;UBE2F;UBL4A;UCHL3;USP12;USP24;USP32;USP37;VCPIP1;YKT6;ZDHHC12;ZDHHC14;ZDHHC16;ZDHHC21;ZDHHC5;ZDHHC6
+c2	1.80	0.00518262	lipid_metabolic_process	AACS;ABHD12;ACAA1;ACACA;ACER3;AKR1C2;ALDH3A2;APOC1;B4GALT5;CHKA;CPNE7;CYP51A1;DHCR24;DHCR7;ELOVL5;FAAH;FABP6;FADS2;FADS3;FAR2;GDE1;GPAT4;HSD17B7;INSIG1;INSIG2;JAZF1;KBTBD2;LCLAT1;LDLR;LPIN1;LRP8;LSS;MTMR6;MVD;MVK;NFE2L1;NSDHL;NUS1;PCYT2;PLBD2;PLCB1;PLCXD3;PNPLA6;PRKAA1;SAMD8;SC5D;SLC27A4;SMPD3;SPTLC2;SRD5A3;STS;XBP1
+
+c3	32.02	0.00228656	retinal_ganglion_cell_axon_guidance	EPHB1;ISL2;SLIT1
+c3	23.67	0.00228656	ionotropic_glutamate_receptor_signaling_pathway	GRIA2;GRIA4;GRIN2A
+c3	18.77	0.00293297	regulation_of_NMDA_receptor_activity	GRIA2;GRIA4;GRIN2A
+c3	17.56	0.00306664	regulation_of_presynapse_assembly	GPC6;NTRK3;SLITRK1
+c3	15.12	0.00402675	positive_regulation_of_axonogenesis	CHODL;ROBO1;SLITRK1
+c3	13.20	0.00228656	positive_regulation_of_synapse_assembly	ASIC2;CLSTN2;EPHB1;SLITRK1
+c3	10.52	0.00293297	neuron_projection_morphogenesis	MNX1;NTF3;NYAP2;SLIT1
+c3	10.08	0.0106223	neurogenesis	EPHB1;GRIN2A;SPOCK1
+c3	9.65	0.00228656	axonogenesis	CTNNA2;DCC;ISL2;SLIT1;SLITRK1
+c3	9.55	0.0110072	negative_regulation_of_neuron_differentiation	IRX3;ISL2;ZNF536
+
+c4	12.96	0.000189697	keratan_sulfate_catabolic_process	GALNS;GLB1;GNS;HEXA;HEXB;LUM
+c4	11.66	0.020548	mammary_gland_duct_morphogenesis	LRP5;NTN1;SCRIB
+c4	11.66	0.020548	Wnt_signaling_pathway_involved_in_midbrain_dopaminergic_neuron_differentiation	FZD1;RYK;WNT5A
+c4	11.66	0.020548	cell-substrate_junction_assembly	FN1;ITGA6;TLN1
+c4	11.66	0.020548	glycolipid_transport	GLTP;NPC2;PLTP
+c4	10.80	0.00261285	cellular_response_to_leucine_starvation	IMPACT;RRAGD;SESN1;SESN2;SESN3
+c4	9.72	0.0275717	cellular_response_to_UV-C	C9orf116;IMPACT;MDM2
+c4	9.72	0.0275717	pulmonary_artery_morphogenesis	CITED2;JAG1;LRP2
+c4	9.72	0.0275717	DNA_methylation-dependent_heterochromatin_assembly	HDAC1;MBD2;MBD3
+c4	9.72	0.00974571	peptidyl-lysine_hydroxylation	FKBP10;P3H4;PLOD1;PLOD2
+
+c5	34.50	0.00271812	peristalsis	GDNF;P2RX3;SSTR2
+c5	21.23	0.00196698	enteric_nervous_system_development	GDNF;PHOX2A;PHOX2B;RET
+c5	18.82	0.00850079	antigen_processing_and_presentation_of_peptide_or_polysaccharide_antigen_via_MHC_class_II	HLA-DPB1;HLA-DRB1;HLA-DRB5
+c5	16.23	0.00298997	response_to_pain	RET;SLC6A2;TAC1;TSPO
+c5	15.33	0.00298997	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT17;SYT4;SYT7
+c5	15.33	0.00298997	positive_regulation_of_calcium_ion-dependent_exocytosis	DOC2B;STX1A;SYT4;SYT7
+c5	13.80	0.0149725	sympathetic_nervous_system_development	GDNF;PHOX2A;PHOX2B
+c5	12.18	0.0193265	glial_cell_differentiation	DTX1;NFIB;PHOX2B
+c5	11.50	0.0195037	negative_regulation_of_focal_adhesion_assembly	BCAS3;DLC1;DMTN
+c5	11.50	0.0195037	regulation_of_potassium_ion_transmembrane_transport	DPP6;KCNIP1;KCNIP4
+
+c6	68.35	0.000124319	sympathetic_nervous_system_development	PHOX2A;PHOX2B;PLXNA4
+c6	42.72	0.000246292	endocrine_pancreas_development	NKX6-1;NKX6-2;ONECUT1
+c6	41.01	0.000246292	pancreas_development	MET;NKX6-1;ONECUT1
+c6	37.97	8.39028e-05	semaphorin-plexin_signaling_pathway	MET;PLXNA2;PLXNA4;SEMA3D
+c6	25.01	0.000709838	negative_chemotaxis	EPHA7;FLRT3;SEMA3D
+c6	13.14	0.000709838	neuron_migration	CXCR4;GPM6A;NKX6-1;PHOX2B
+c6	12.06	0.00312033	positive_regulation_of_neuron_differentiation	IRX3;NKX6-1;PHOX2B
+c6	8.44	0.00215378	neuron_differentiation	HDAC9;IRX3;MET;PHOX2B
+c6	7.80	0.00104434	axon_guidance	CXCR4;EPHA7;FLRT3;PLXNA4;SEMA3D
+c6	7.77	0.00104434	positive_regulation_of_cell_migration	CXCR4;MGAT5;ONECUT1;SEMA3D;ZNF703
+
+c7	14.38	0.0113825	regulation_of_T_cell_differentiation_in_thymus	CAMK4;SOS1;SOS2
+c7	11.99	0.0158373	regulation_of_voltage-gated_sodium_channel_activity	FGF12;FGF14;SLMAP
+c7	10.27	0.0218951	regulation_of_sodium_ion_transmembrane_transport	ATP2B4;FGF12;SLMAP
+c7	10.27	0.0218951	negative_regulation_of_cytoplasmic_translation	CPEB2;CPEB3;FMR1
+c7	10.27	0.0218951	negative_regulation_of_collateral_sprouting	DCC;PTPRS;RGMA
+c7	8.99	0.0015309	neuron_cell-cell_adhesion	ASTN1;CNTN4;NCAM2;NLGN4X;NRXN3;TNR
+c7	8.99	0.0015309	glutamate_receptor_signaling_pathway	FMR1;GRIA3;GRIA4;GRIK1;GRIN2A;KCNB1
+c7	8.72	0.0122566	Golgi_to_lysosome_transport	ANKFY1;AP1G1;GAK;SORT1
+c7	8.56	0.00474411	glycerolipid_metabolic_process	DGKB;DGKD;DGKE;DGKH;DGKI
+c7	8.56	0.00474411	diacylglycerol_metabolic_process	DGKB;DGKD;DGKE;DGKH;DGKI
+
+c8	24.32	7.92977e-07	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB6;HOXB7;HOXB8;HOXB9
+c8	21.71	3.78116e-05	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXB6;HOXB9;HOXC6
+c8	21.56	0.000251478	regulation_of_NMDA_receptor_activity	DAPK1;GRIA2;GRIA4;GRIN2A
+c8	20.39	0.00169625	ionotropic_glutamate_receptor_signaling_pathway	GRIA2;GRIA4;GRIN2A
+c8	19.54	0.00177402	glycosaminoglycan_catabolic_process	GPC3;GPC6;SDC2
+c8	19.54	0.000308995	cell-cell_adhesion_via_plasma-membrane_adhesion_molecules	CDH10;CDH11;CDH12;CDH7
+c8	18.95	0.000308995	cell-cell_junction_assembly	CDH10;CDH11;CDH12;CDH7
+c8	16.90	0.000448305	calcium-dependent_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CDH10;CDH11;CDH12;CDH7
+c8	15.25	0.000622247	adherens_junction_organization	CDH10;CDH11;CDH12;CDH7
+c8	14.21	0.00431732	positive_regulation_of_bone_mineralization	NELL1;PTN;WNT4
+
+c9	15.23	0.00132257	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT17;SYT4;SYT6;SYT7
+c9	14.96	0.0244787	antigen_processing_and_presentation_of_peptide_or_polysaccharide_antigen_via_MHC_class_II	HLA-DPB1;HLA-DRB1;HLA-DRB5
+c9	12.19	0.0104412	positive_regulation_of_calcium_ion-dependent_exocytosis	DOC2B;STX1A;SYT4;SYT7
+c9	11.35	0.00132257	calcium-ion_regulated_exocytosis	STX1A;SYN2;SYT17;SYT4;SYT6;SYT7
+c9	9.79	0.00653342	cellular_response_to_hormone_stimulus	FOS;RAMP1;RAMP2;ROBO2;SOCS2
+c9	8.12	0.0310052	regulation_of_dopamine_secretion	SYT17;SYT4;SYT6;SYT7
+c9	7.56	0.0346148	positive_regulation_of_reactive_oxygen_species_metabolic_process	CDKN1A;GADD45A;RNF41;TSPO
+c9	5.96	0.0310052	neurotransmitter_transport	SLC29A1;SLC29A4;SLC6A15;SLC6A2;STX1A
+c9	5.29	0.00653342	cellular_response_to_calcium_ion	CPNE7;DMTN;FOS;HPCA;SYT17;SYT4;SYT6;SYT7
+c9	3.36	0.0244787	protein_glycosylation	ALG3;C1GALT1;FUT9;GALNTL6;MPI;SRD5A3;ST6GALNAC5;ST8SIA1;TMTC1;TMTC2
+

@@ -1,0 +1,89 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	42.23	0.000135616	peristalsis	DRD2;GDNF;P2RX3;SSTR2
+c1	31.67	0.00211043	neural_crest_cell_migration_involved_in_autonomic_nervous_system_development	NRP1;NRP2;PHOX2B
+c1	21.11	0.00599027	sympathetic_ganglion_development	NRP1;NRP2;PHOX2B
+c1	21.11	0.00133541	enteric_nervous_system_development	GDNF;PHOX2A;PHOX2B;RET
+c1	18.10	0.00175609	sympathetic_nervous_system_development	GDNF;PHOX2A;PHOX2B;PLXNA4
+c1	17.28	0.00869421	behavioral_response_to_pain	P2RX3;SCN9A;TSPO
+c1	15.84	0.00982769	commissural_neuron_axon_guidance	GDNF;NFIB;NRP1
+c1	14.90	0.00301692	response_to_pain	RET;SLC6A2;TAC1;TSPO
+c1	13.57	0.0122423	protein_homotrimerization	ASIC1;P2RX3;SIGMAR1
+c1	13.57	0.0122423	endothelial_cell_differentiation	CXCR4;HOXB5;SCUBE1
+
+c2	18.90	0.000595515	neuron_cell-cell_adhesion	ASTN2;NCAM2;NRXN3;TNR
+c2	16.44	0.000166343	synaptic_membrane_adhesion	LRRC4;NTNG1;PCDH17;PTPRD;SLITRK1
+c2	14.18	0.00668552	glutamate_receptor_signaling_pathway	GRIA4;GRIK1;GRIN2B
+c2	13.50	0.000409287	adult_behavior	GABRG2;NRXN3;PCDH17;SLC1A2;SLITRK1
+c2	13.15	0.00207294	proximal/distal_pattern_formation	HOXA9;HOXB9;HOXC9;HOXD9
+c2	12.60	0.0087232	chondrocyte_development	FGF18;SFRP2;SULF2
+c2	12.60	0.00012367	embryonic_skeletal_system_development	HOXA9;HOXB9;HOXC6;HOXC9;HOXD9;SULF2
+c2	12.03	4.01526e-05	embryonic_skeletal_system_morphogenesis	HOXA7;HOXA9;HOXB7;HOXB8;HOXB9;HOXC9;HOXD9
+c2	9.86	0.0159541	ionotropic_glutamate_receptor_signaling_pathway	GRIA4;GRIK1;GRIN2B
+c2	9.45	0.0173887	regulation_of_synapse_organization	CDH8;GPM6A;SLITRK1
+
+c3	23.93	7.48978e-07	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB6;HOXB7;HOXB8;HOXB9
+c3	20.89	4.86439e-05	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXB6;HOXB9;HOXC6
+c3	20.51	0.00138645	positive_regulation_of_vascular_endothelial_growth_factor_production	IL6ST;ISL1;RORA
+c3	18.80	0.00033025	cell-cell_junction_assembly	CDH10;CDH11;CDH12;CDH7
+c3	18.80	0.00033025	cell-cell_adhesion_via_plasma-membrane_adhesion_molecules	CDH10;CDH11;CDH12;CDH7
+c3	16.26	0.000532184	calcium-dependent_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CDH10;CDH11;CDH12;CDH7
+c3	14.68	0.000726911	adherens_junction_organization	CDH10;CDH11;CDH12;CDH7
+c3	12.94	4.72343e-06	anterior/posterior_pattern_specification	HOXA6;HOXA7;HOXA9;HOXB6;HOXB7;HOXB8;HOXB9;HOXC6
+c3	12.54	0.00110799	adult_locomotory_behavior	FGF12;HOXB8;SEZ6;TMOD1
+c3	10.94	0.00156763	positive_regulation_of_synapse_assembly	ASIC2;CLSTN2;LRRN1;SLITRK1
+
+c4	123.79	2.30598e-05	sympathetic_nervous_system_development	PHOX2A;PHOX2B;PLXNA4
+c4	17.16	0.00188582	neuron_migration	CXCR4;NKX6-1;PHOX2B
+c4	9.32	0.00188582	brain_development	CXCR4;POU3F1;PTPRG;ZFHX3
+c4	8.17	0.00989191	axon_guidance	CXCR4;FLRT3;PLXNA4
+c4	5.16	9.76427e-05	positive_regulation_of_transcription_by_RNA_polymerase_II	HOXB4;MAFA;MET;NKX6-1;NR2F1;PHOX2A;PHOX2B;TOX2;ZFHX3
+c4	4.57	9.76427e-05	regulation_of_transcription,_DNA-templated	HOXB4;MAFA;NKX6-1;NKX6-2;NR2F1;PHOX2A;PHOX2B;POU3F1;ZFHX3;ZFHX4
+c4	4.43	7.4955e-05	regulation_of_transcription_by_RNA_polymerase_II	HOXB4;MAFA;NKX6-1;NKX6-2;NR2F1;PHOX2A;PHOX2B;POU3F1;TOX2;ZFHX3;ZFHX4
+c4	4.16	0.00202264	multicellular_organism_development	CDH6;FLRT3;HOXB4;MET;NKX6-1;NKX6-2;PHOX2B
+c4	3.59	0.0154877	negative_regulation_of_transcription_by_RNA_polymerase_II	HOXB4;NKX6-1;NKX6-2;NR2F1;ZFHX3
+c4	2.80	0.0146323	signal_transduction	CXCR4;DLC1;HTR3A;MET;NR2F1;PLXNA4;TENM3
+
+c5	16.86	0.0151611	glycolipid_transport	GLTP;NPC2;PLTP
+c5	16.86	0.0151611	cellular_response_to_xenobiotic_stimulus	MCM7;PCNA;RB1
+c5	16.86	0.0151611	response_to_antineoplastic_agent	ADAM10;ADAM9;PTGR1
+c5	14.05	0.0192708	negative_regulation_of_epithelial_cell_proliferation_involved_in_prostate_gland_development	SERPINF1;STK11;WDR77
+c5	14.05	0.0192708	ganglioside_catabolic_process	HEXA;HEXB;NEU1
+c5	14.05	0.0192708	DNA_methylation-dependent_heterochromatin_assembly	HDAC1;MBD2;MBD3
+c5	12.04	0.0259594	monocyte_activation	ADAM10;ADAM9;FOXP1
+c5	11.24	0.0151611	hepatocyte_apoptotic_process	GSN;KRT18;KRT8;RB1
+c5	10.81	0.00871185	cardiac_septum_morphogenesis	CITED2;DHRS3;HEY1;JAG1;MDM2
+c5	10.54	0.0305769	regulation_of_neurotransmitter_receptor_localization_to_postsynaptic_specialization_membrane	ADAM10;DAG1;GPC6
+
+c6	13.44	0.0169312	regulation_of_presynapse_assembly	GPC6;NTRK3;SLITRK1
+c6	11.57	0.0190706	positive_regulation_of_axonogenesis	CHODL;ROBO1;SLITRK1
+c6	9.26	0.0289356	adenylate_cyclase-modulating_G_protein-coupled_receptor_signaling_pathway	ADCY2;CNR1;GRK5
+c6	8.96	0.0169312	learning	GRIN2A;JUN;NRXN3;PTN
+c6	8.68	0.0289356	adult_locomotory_behavior	FGF12;SEZ6;TMOD1
+c6	8.17	0.0169312	negative_regulation_of_neuron_projection_development	DCC;EFNB2;PTPRG;SPOCK1
+c6	7.71	0.0346729	negative_regulation_of_neuron_differentiation	IRX3;ISL2;ZNF536
+c6	7.57	0.0346729	positive_regulation_of_synapse_assembly	ASIC2;CLSTN2;SLITRK1
+c6	7.51	0.0190706	memory	CNR1;GRIN2A;NTF3;PTN
+c6	6.41	0.0446151	calcium-mediated_signaling	CHRM3;GRIN2A;RCAN2
+
+c7	17.57	0.00763125	regulation_of_voltage-gated_sodium_channel_activity	FGF11;FGF12;FGF14
+c7	15.62	0.00332402	excitatory_chemical_synaptic_transmission	GRIN2A;GRIN2B;PDLIM4;SHISA6
+c7	13.18	0.0153568	glial_cell-derived_neurotrophic_factor_receptor_signaling_pathway	GFRA1;GFRA2;SULF2
+c7	10.54	0.0270326	calcium_ion-regulated_exocytosis_of_neurotransmitter	PRKCB;RIMS3;STX1B
+c7	8.78	0.0130381	neuron_cell-cell_adhesion	ASTN2;NCAM2;NRXN3;TNR
+c7	8.78	0.0130381	glutamate_receptor_signaling_pathway	GRIA4;GRIK1;GRIN2A;GRIN2B
+c7	8.78	0.000648701	adult_behavior	GABRG2;NRXN3;PCDH17;SHANK2;SLC1A2;SLITRK1;SLITRK5
+c7	8.78	0.0399749	inhibitory_synapse_assembly	GABRA2;GABRG2;LGI2
+c7	8.78	0.0399749	regulation_of_cardiac_muscle_cell_contraction	ATP1A1;PDE4B;STC1
+c7	8.11	0.044551	dopamine_metabolic_process	GRIN2A;SNCAIP;SNCB
+
+c8	25.97	0.0168311	peristalsis	DRD2;GDNF;SSTR2
+c8	14.17	0.0283176	antigen_processing_and_presentation_of_peptide_or_polysaccharide_antigen_via_MHC_class_II	HLA-DPB1;HLA-DRB1;HLA-DRB5
+c8	12.99	0.0283176	commissural_neuron_axon_guidance	GDNF;NFIB;NRP1
+c8	12.47	0.00156237	outflow_tract_septum_morphogenesis	ISL1;NRP1;NRP2;RARB;ROBO2;TBX2
+c8	12.22	0.0198451	retinal_ganglion_cell_axon_guidance	EPHA7;ISL1;NRP1;ROBO2
+c8	11.13	0.0321426	endothelial_cell_differentiation	CXCR4;HOXB5;SCUBE1
+c8	9.74	0.0408531	negative_regulation_of_protein_secretion	DRD2;FRMD4A;SERGEF
+c8	9.17	0.0444611	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT17;SYT7
+c8	9.17	0.0444611	response_to_pain	RET;SLC6A2;TSPO
+c8	8.66	0.0283176	negative_regulation_of_stress_fiber_assembly	CORO2B;DLC1;MET;TMEFF2
+

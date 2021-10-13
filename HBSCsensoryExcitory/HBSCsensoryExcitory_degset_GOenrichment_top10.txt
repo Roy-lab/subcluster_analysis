@@ -1,0 +1,45 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	18.78	0.0207084	response_to_xenobiotic_stimulus	GSS;RHBDD3;TIGAR
+c1	15.65	0.00784291	negative_regulation_of_TORC1_signaling	ATM;FNIP1;SESN1;SESN2
+c1	13.42	0.0338513	positive_regulation_of_DNA_damage_response,_signal_transduction_by_p53_class_mediator	ATM;SPRED1;SPRED3
+c1	13.42	0.0338513	DNA_damage_response,_signal_transduction_by_p53_class_mediator	PPM1D;SESN2;TRIAP1
+c1	12.52	0.0339098	definitive_hemopoiesis	CBFB;HOXB4;SP3
+c1	11.74	0.0339098	regulation_of_extrinsic_apoptotic_signaling_pathway_via_death_domain_receptors	CFLAR;FAS;TNFRSF10B
+c1	10.44	0.0207084	inactivation_of_MAPK_activity	DUSP14;DUSP3;SPRED1;SPRED3
+c1	7.69	0.00513631	DNA_damage_response,_signal_transduction_by_p53_class_mediator_resulting_in_cell_cycle_arrest	ATM;BTG2;GADD45A;PCNA;PLK2;PLK3;TRIAP1
+c1	5.40	0.036225	mRNA_3'-end_processing	CSTF3;PCF11;RPRD1A;SRSF1;SYMPK
+c1	3.26	0.0339098	positive_regulation_of_I-kappaB_kinase/NF-kappaB_signaling	CFLAR;EDA2R;MIB2;PLK2;RHOC;S100A13;SLC20A1;TNFRSF10B;TRIM52
+
+c2	33.73	9.92624e-05	axon_extension_involved_in_axon_guidance	ALCAM;NRP2;SEMA3A;SLIT2
+c2	22.48	0.00665716	excitatory_chemical_synaptic_transmission	GRIN2B;GRIN2D;SHISA6
+c2	20.61	1.35392e-10	embryonic_skeletal_system_development	HOXA3;HOXA5;HOXA6;HOXA9;HOXB5;HOXB6;HOXB9;HOXC6;HOXC9;HOXD9;SULF2
+c2	19.06	6.12021e-12	embryonic_skeletal_system_morphogenesis	HOXA3;HOXA4;HOXA5;HOXA6;HOXA7;HOXA9;HOXB5;HOXB6;HOXB7;HOXB8;HOXB9;HOXC9;HOXD9
+c2	13.49	0.0168818	pulmonary_valve_morphogenesis	HEY1;ROBO2;SLIT2
+c2	11.90	0.0174241	retinal_ganglion_cell_axon_guidance	ALCAM;ROBO2;SLIT2
+c2	11.90	0.0174241	mammary_gland_alveolus_development	ERBB4;HOXA5;VEGFA
+c2	11.90	0.0174241	negative_regulation_of_actin_filament_polymerization	FHOD3;MYADM;SLIT2
+c2	11.70	6.12021e-12	anterior/posterior_pattern_specification	HEY1;HOXA3;HOXA4;HOXA5;HOXA6;HOXA7;HOXA9;HOXB5;HOXB6;HOXB7;HOXB8;HOXB9;HOXC6;HOXC9;HOXD9;LHX1;TSHZ1
+c2	11.24	0.0185048	positive_regulation_of_branching_involved_in_ureteric_bud_morphogenesis	HOXB7;LHX1;VEGFA
+
+c3	54.69	0.00017561	regulation_of_postsynaptic_density_assembly	CBLN1;GRID2;PTPRD
+c3	50.13	4.02013e-05	glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIK3;PLCB1
+c3	28.65	0.000853526	regulation_of_neuron_death	DHCR24;EPHB1;SNCA
+c3	26.16	0.000902737	ionotropic_glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIK3
+c3	26.16	0.000902737	synaptic_membrane_adhesion	LRRC4C;PCDH17;PTPRD
+c3	23.14	0.00119195	synaptic_transmission,_glutamatergic	CDH8;GRID2;GRIK3
+c3	20.05	0.00168191	regulation_of_presynapse_assembly	CBLN1;PTPRD;SNCA
+c3	18.57	0.000105813	positive_regulation_of_synapse_assembly	CBLN1;EPHB1;FLRT2;GRID2;PTPRD
+c3	17.59	0.000105813	negative_regulation_of_neuron_differentiation	CNTN4;LBX1;MEIS1;TLX3;ZNF536
+c3	13.99	0.0036603	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CBLN1;GRID2;PTPRD
+
+c4	17.25	0.0117438	segment_specification	BMI1;MAFB;MLLT3
+c4	17.25	0.0117438	regulation_of_synaptic_vesicle_fusion_to_presynaptic_active_zone_membrane	CPLX1;CPLX2;GRIK5
+c4	15.69	0.000828402	peripheral_nervous_system_neuron_development	ETV1;HOXD9;ISL1;NTRK2;POU4F1
+c4	12.94	0.0209903	maintenance_of_cell_polarity	CARMIL2;DLG5;PDLIM1
+c4	11.50	0.0247338	postsynaptic_neurotransmitter_receptor_diffusion_trapping	CACNG2;CACNG8;SHISA6
+c4	11.50	0.0247338	negative_regulation_of_sodium_ion_transmembrane_transporter_activity	CAMK2D;PRKCE;STK39
+c4	10.35	0.033347	cardiac_right_ventricle_morphogenesis	ISL1;SEMA3C;TGFB2
+c4	9.41	0.0382119	secondary_heart_field_specification	ISL1;MESP1;SMARCD3
+c4	9.41	0.0019887	regulation_of_AMPA_receptor_activity	CACNG2;CACNG8;NLGN1;SHANK2;SHISA6;SHISA9
+c4	9.41	0.0382119	regulation_of_postsynaptic_density_assembly	GRID2;LRRTM2;NTRK3
+

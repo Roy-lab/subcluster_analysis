@@ -1,0 +1,89 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	66.35	0.0001453	negative_regulation_of_collateral_sprouting	BCL11A;DCC;PTPRS
+c1	66.35	0.0001453	negative_regulation_of_dendrite_development	BCL11A;DCC;FAT3
+c1	38.70	0.000405509	mesonephros_development	BMP7;LHX1;ZBTB16
+c1	33.65	8.37961e-06	synaptic_membrane_adhesion	LRFN5;NLGN1;NRG1;NTNG1;PTPRS
+c1	27.32	0.000841734	neuron_fate_specification	NTRK3;POU3F2;POU4F1
+c1	27.32	0.000841734	myelination_in_peripheral_nervous_system	NRG1;POU3F1;POU3F2
+c1	25.80	0.000181932	retina_layer_formation	DSCAM;FAT3;LHX1;TFAP2A
+c1	20.64	0.000318843	metanephros_development	BMP7;IRX1;IRX2;LHX1
+c1	17.86	0.00246849	embryonic_pattern_specification	BMP7;LHX1;ZBTB16
+c1	16.59	0.00267944	cell_development	BMP7;IRX1;IRX2
+
+c2	9.92	0.0445473	apical_junction_assembly	CTNNA1;RHOC;VCL;WDR1
+c2	9.92	0.0445473	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-independent	B2M;HLA-A;HLA-C;LNPEP
+c2	8.82	0.0479449	cellular_response_to_leucine	RRAGD;SESN1;SESN2;UBR1
+c2	6.62	0.0479449	maintenance_of_protein_location_in_nucleus	BBS4;CHCHD10;SUPT7L;TAF3;TOPORS
+c2	2.80	0.0479449	macroautophagy	ATG5;BECN1;CHMP3;CSNK2A2;MVB12A;PLAA;PRKAB2;PRKAG2;SQSTM1;STAM2;TP53INP2;UBXN6;VPS4B
+c2	2.56	0.0479449	cell_cycle_arrest	ATM;CDKN1A;CGRRF1;DDIT3;GADD45A;ILK;MAP2K1;MAPK12;MLF1;PPP1R15A;PRKAB2;PRKAG2;PRNP;RRAGC;RRAGD;UHMK1
+c2	1.84	0.00336614	apoptotic_process	AEN;APIP;ATG4D;ATG5;ATM;BBC3;BCAP29;BCL10;BCL2L1;BECN1;CASP3;CDIP1;CFLAR;CHMP3;CIB1;CLU;CSNK2A2;DAP3;DAPK3;DDIT3;DPP8;EPB41L3;FAIM;GADD45A;GADD45G;GLRX2;IFI27L2;LGALS1;MAP3K7;MEF2A;NGFR;NHLH2;PDCD6IP;PEA15;PERP;PHLDA1;PHLDA2;PHLDA3;PIM3;PLK3;PPP1R15A;RALB;RPS6KA3;RRAGC;SERPINB9;SHC4;SIAH2;SLK;SQSTM1;SRA1;STK4;TIGAR;TNFAIP1;TNFRSF10B;TRIAP1;XBP1;XIAP;ZMAT3
+c2	1.83	0.0274831	negative_regulation_of_apoptotic_process	ANKLE2;APIP;ATG5;BCL2L1;BECN1;CASP3;CBL;CCND2;CDKN1A;CFLAR;CIB1;CITED2;CLN8;CTNNA1;DNAJC3;EIF2AK2;FAIM;HSPB1;IL6ST;ILK;KLHL20;KRT18;MDM2;NGFR;PCID2;PIM3;PLK2;PLK3;PRKCI;PRNP;PSEN2;RPS6KA3;SERPINB9;SIAH2;SQSTM1;STK40;TIMP1;TOPORS;TRIAP1;UFL1;XBP1;XIAP;YBX3;YME1L1
+c2	1.83	0.0417816	neutrophil_degranulation	ACAA1;ANXA2;B2M;CANT1;CD47;CPNE1;CPNE3;CTSB;CTSD;CYSTM1;DNAJC3;DPP7;FAF2;FUCA2;GRN;GYG1;HEBP2;HGSNAT;HLA-C;LAMP2;NCSTN;NEU1;NIT2;NPC2;NRAS;PDXK;PPIE;PYGB;SDCBP;SLC2A3;SNAP29;SURF4;SVIP;TMEM179B;TMEM30A;TOLLIP;TSPAN14;VCL
+c2	1.67	0.0330734	protein_transport	AP1G1;AP3M2;AP5M1;ARFGEF1;ARL8B;ATG4D;BBS4;BBS7;BCAP29;CCDC93;CHMP1B;CHMP3;CNIH4;COG4;COPG1;DGKD;GCC2;GOLT1B;KLHL20;KPNA1;MCFD2;MVB12A;NMD3;NUP50;NUP54;NUP58;PCID2;PDCD6IP;PGAP1;PLEKHA8;RAB22A;RAB2B;RAB39B;RAB3IP;RAB9A;RANGRF;RILPL1;S100A13;SCAMP4;SDAD1;SEC22B;SEC61A1;SNAP29;SNX9;STAM2;TIMM50;TRAM1;USO1;VPS4B;WASHC3;WASHC4;XBP1;YKT6;ZMAT3
+
+c3	15.55	0.0312924	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-independent	B2M;HLA-A;HLA-B;HLA-C
+c3	15.55	0.0320433	attachment_of_GPI_anchor_to_protein	PGAP1;PIGS;PIGT
+c3	15.55	0.0320433	purine_nucleobase_biosynthetic_process	PAICS;PPAT;SHMT2
+c3	13.33	0.036346	detection_of_bacterium	HLA-A;HLA-B;HLA-DRB1
+c3	11.66	0.036346	fatty_acid_alpha-oxidation	ALDH3A2;PHYH;SLC25A17
+c3	11.66	0.036346	mesenchymal_to_epithelial_transition	CITED1;PELO;WNT4
+c3	10.36	0.036346	L-ascorbic_acid_metabolic_process	GSTO1;SLC2A1;SLC2A3
+c3	10.36	0.036346	regulation_of_oxidative_phosphorylation	AK4;SHMT2;SLC25A23
+c3	10.36	0.036346	cellular_aldehyde_metabolic_process	ALDH3A2;ALDH7A1;ALDH9A1
+c3	9.57	0.0320433	negative_regulation_of_smooth_muscle_cell_migration	IGFBP5;ILK;SEMA6D;SLIT2
+
+c4	13.97	0.00419273	regulation_of_ryanodine-sensitive_calcium-release_channel_activity	CAMK2D;JPH3;NOS1;PDE4D
+c4	13.97	0.00419273	regulation_of_potassium_ion_transmembrane_transport	DPP10;DPP6;KCNIP1;RGS4
+c4	13.66	0.00145063	synaptic_membrane_adhesion	LRFN5;LRRC4C;NLGN1;NRG1;NTNG1
+c4	13.47	0.0193882	calcium_ion_transport_into_cytosol	CACNB3;JPH3;SLC8A1
+c4	9.92	0.0389374	positive_regulation_of_CREB_transcription_factor_activity	ADCY1;CAMK1D;VEGFA
+c4	9.92	0.0389374	regulation_of_release_of_sequestered_calcium_ion_into_cytosol_by_sarcoplasmic_reticulum	CAMK2D;GSTO1;PDE4D
+c4	9.20	0.0015713	negative_chemotaxis	EFNA5;NRG1;NRP2;SEMA6A;SEMA6B;SLIT1
+c4	8.98	0.0398279	regulation_of_neuron_death	DCC;RILPL1;SNCB
+c4	8.98	0.0398279	regulation_of_cardiac_muscle_contraction_by_regulation_of_the_release_of_sequestered_calcium_ion	CAMK2D;GSTO1;SLC8A1
+c4	8.67	0.0180535	positive_regulation_of_filopodium_assembly	AGRN;NLGN1;RIPOR2;TENM2
+
+c5	21.55	5.01847e-06	embryonic_skeletal_system_morphogenesis	HOXA7;HOXA9;HOXB7;HOXB8;HOXB9;HOXC9
+c5	20.85	0.000265845	regulation_of_presynapse_assembly	CBLN2;MDGA1;NTRK3;SLITRK4
+c5	19.39	0.00188048	proximal/distal_pattern_formation	HOXA9;HOXB9;HOXC9
+c5	17.96	0.000364547	embryonic_skeletal_system_development	HOXA9;HOXB9;HOXC6;HOXC9
+c5	16.72	0.00247119	positive_regulation_of_filopodium_assembly	GPM6A;PIK3R1;TENM1
+c5	16.72	0.00247119	regulation_of_NMDA_receptor_activity	GRIN2A;GRIN2B;RELN
+c5	15.39	0.000621561	negative_regulation_of_cell_adhesion	DAB1;DSCAM;PIK3R1;PLXNA2
+c5	14.37	0.000757492	long-term_synaptic_potentiation	GRIN2A;GRIN2B;PTN;RELN
+c5	14.26	0.00341791	positive_regulation_of_bone_mineralization	BMP7;PTN;SLC8A1
+c5	13.85	0.00355988	dendrite_morphogenesis	BTBD3;DSCAM;SDC2
+
+c6	25.18	0.00183034	axon_extension_involved_in_axon_guidance	ALCAM;NRP2;SLIT1;SLIT2
+c6	25.18	0.00497341	regulation_of_cellular_pH	MAFG;MAPK1;MAPK3
+c6	18.32	0.00339771	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;RIMS3;SYT2;SYT7
+c6	16.79	0.0128453	Bergmann_glial_cell_differentiation	MAPK1;MAPK3;VIM
+c6	13.99	0.00207989	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT17;SYT2;SYT6;SYT7
+c6	12.59	0.0204821	negative_regulation_of_substrate_adhesion-dependent_cell_spreading	CORO1C;DMTN;EFNA5
+c6	12.59	0.0204821	regulation_of_fibroblast_migration	CORO1C;FER;GNA12
+c6	11.85	0.00810968	ventricular_system_development	ANP32B;DPCD;MBOAT7;SEMA6D
+c6	11.19	0.00183034	regulation_of_dopamine_secretion	CHRNA4;SNCA;SYT17;SYT2;SYT6;SYT7
+c6	10.79	0.0273548	enteric_nervous_system_development	PHOX2A;PHOX2B;RET
+
+c7	20.60	0.000303269	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CDH4;NECTIN3;PTPRD;TENM1
+c7	16.32	0.00054546	neurogenesis	BTBD3;CXCR4;LHX2;PRDM6
+c7	14.42	0.00332293	embryonic_skeletal_system_morphogenesis	CHST11;HOXA3;HOXB8
+c7	13.52	0.00372396	pattern_specification_process	BMP7;UNCX;ZIC1
+c7	13.11	0.00099812	negative_regulation_of_neuron_projection_development	BCL11A;EFNB2;PTPRO;RIT2
+c7	9.01	0.00332293	anterior/posterior_pattern_specification	HOXA3;HOXB8;HOXC5;TSHZ1
+c7	8.89	0.0101861	cartilage_development	BMP7;CHST11;HOXA3
+c7	8.74	0.00332293	peptidyl-tyrosine_dephosphorylation	PTPRD;PTPRK;PTPRO;PTPRT
+c7	7.83	7.21604e-05	axon_guidance	BMP7;CDH4;CXCR4;EFNB2;LHX2;NRXN3;PTPRO;SEMA6A
+c7	7.11	0.00252181	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH4;NECTIN3;PCDH17;PCDH19;PTPRT
+
+c8	28.42	8.03329e-07	embryonic_skeletal_system_morphogenesis	CHST11;HOXA3;HOXA4;HOXB4;HOXB6;HOXB8
+c8	20.63	0.00124419	regulation_of_presynapse_assembly	GPC6;MDGA1;PTPRD
+c8	20.30	0.000192953	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CDH4;NECTIN3;PTPRD;TENM1
+c8	16.09	0.000397289	neurogenesis	CXCR4;LHX2;PRDM6;RARB
+c8	13.32	0.00391935	pattern_specification_process	BMP7;UNCX;ZIC1
+c8	13.32	3.79024e-05	anterior/posterior_pattern_specification	HOXA3;HOXA4;HOXB4;HOXB6;HOXB8;HOXC5
+c8	12.92	0.000856207	negative_regulation_of_neuron_projection_development	BCL11A;EFNB2;PTPRO;RIT2
+c8	12.06	0.00489414	regulation_of_synaptic_plasticity	CNTN4;GRIN2B;LZTS1
+c8	8.76	0.0102359	cartilage_development	BMP7;CHST11;HOXA3
+c8	7.72	4.97791e-05	axon_guidance	BMP7;CDH4;CNTN4;CXCR4;EFNB2;LHX2;NRXN3;PTPRO
+

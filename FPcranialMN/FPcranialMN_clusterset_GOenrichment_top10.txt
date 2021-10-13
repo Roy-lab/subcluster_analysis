@@ -1,0 +1,344 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset106	99.82	8.8827e-06	meiotic_chromosome_condensation	NCAPD2;NCAPD3;SMC2
+clusterset106	99.82	8.8827e-06	DNA_replication,_synthesis_of_RNA_primer	POLA1;POLA2;PRIM2
+clusterset106	99.82	8.8827e-06	mitotic_DNA_replication_initiation	GINS3;MCM4;POLA1
+clusterset106	76.78	4.65977e-08	DNA_strand_elongation_involved_in_DNA_replication	GINS1;GINS2;GINS3;MCM4;POLA1
+clusterset106	41.59	8.84707e-07	telomere_maintenance_via_semi-conservative_replication	POLA1;POLA2;PRIM2;RFC2;RFC5
+clusterset106	39.93	0.000134501	chromosome_condensation	NCAPD2;NCAPD3;SMC2
+clusterset106	39.93	0.000134501	DNA_double-strand_break_processing	BARD1;MRE11;RBBP8
+clusterset106	37.43	0.000155242	mitotic_chromosome_condensation	NCAPD2;NCAPD3;SMC2
+clusterset106	28.52	4.62462e-06	DNA_replication_initiation	MCM4;ORC1;POLA1;POLA2;PRIM2
+clusterset106	26.04	0.000428359	nucleotide-excision_repair,_DNA_gap_filling	LIG1;RFC2;RFC5
+
+clusterset107	38.66	0.000283558	centriole_replication	CEP152;PLK4;WDR62
+clusterset107	32.21	0.000435692	telomere_maintenance_via_semi-conservative_replication	DNA2;POLE2;RFC3
+clusterset107	20.62	0.000225104	mitotic_spindle_organization	AURKA;CENPE;TACC3;WDR62
+clusterset107	18.86	0.00134404	negative_regulation_of_G1/S_transition_of_mitotic_cell_cycle	EZH2;RBL1;SLFN11
+clusterset107	18.41	0.00134404	regulation_of_cytokinesis	AURKA;PLK4;PRC1
+clusterset107	13.22	0.000850964	DNA_duplex_unwinding	CHTF18;DNA2;RAD54B;RFC3
+clusterset107	12.89	0.000850964	regulation_of_G2/M_transition_of_mitotic_cell_cycle	AURKA;CEP152;HMMR;PLK4
+clusterset107	11.37	0.00450006	cerebral_cortex_development	ARHGAP11B;TACC3;WDR62
+clusterset107	11.20	0.00121044	meiotic_cell_cycle	AURKA;FBXO43;MSH5;SGO2
+clusterset107	10.89	0.000116204	mitotic_cell_cycle	AURKA;CCNO;CENPE;MASTL;MYBL1;PLK4
+
+clusterset108
+
+clusterset110
+
+clusterset111
+
+clusterset114
+
+clusterset117
+
+clusterset119	14.97	0.000297363	multicellular_organism_development	FZD2;NOTCH1;PDPN
+
+clusterset132	39.41	0.00233562	inner_dynein_arm_assembly	CCDC40;LRRC6;TEKT2
+clusterset132	13.48	0.012441	cilium_movement	CCDC40;DNAH9;LRRC6
+clusterset132	11.38	0.00609239	flagellated_sperm_motility	CCDC40;CFAP69;LRRC6;TEKT2
+clusterset132	9.81	0.00340196	lung_development	CCDC40;HEG1;LAMA5;NFIB;TGFBR2
+clusterset132	8.23	0.012441	integrin-mediated_signaling_pathway	CD47;LAMA5;MYH9;TLN1
+clusterset132	7.42	0.0151495	cellular_response_to_insulin_stimulus	CYFIP1;ENPP1;IRS1;TBC1D4
+
+clusterset133	26.41	0.00209354	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-dependent	CYBA;HLA-E;ITGB5
+clusterset133	12.41	0.00697357	defense_response_to_virus	MICA;PARP9;TRIM56
+clusterset133	7.36	0.00697357	innate_immune_response	CYBA;HLA-E;PARP9;TRIM56
+clusterset133	6.29	0.0073967	immune_system_process	HLA-E;MICA;PARP9;TRIM56
+clusterset133	4.79	0.0073967	positive_regulation_of_transcription,_DNA-templated	FOXA2;FOXJ1;PARP9;RREB1;TRIM56
+clusterset133	3.89	0.0143718	negative_regulation_of_transcription_by_RNA_polymerase_II	FOXJ1;PARP9;RREB1;TCF7L2;WWTR1
+clusterset133	3.09	0.0271099	positive_regulation_of_transcription_by_RNA_polymerase_II	FOXA2;FOXJ1;RREB1;TCF7L2;WWTR1
+clusterset133	2.97	0.0193898	regulation_of_transcription,_DNA-templated	EFEMP1;FOXA2;FOXJ1;RREB1;TCF7L1;WWTR1
+
+clusterset134
+
+clusterset135	33.18	4.04509e-06	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL9;RPS2;RPS27A;RPS6;RPSA
+clusterset135	27.09	5.2746e-06	viral_transcription	RPL9;RPS2;RPS27A;RPS6;RPSA
+clusterset135	25.24	5.2746e-06	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL9;RPS2;RPS27A;RPS6;RPSA
+clusterset135	20.80	1.02866e-05	translational_initiation	RPL9;RPS2;RPS27A;RPS6;RPSA
+clusterset135	11.30	0.000663777	cytokine-mediated_signaling_pathway	INPPL1;ITGB1;MUC1;RPS27A
+clusterset135	10.69	0.000717462	extracellular_matrix_organization	ADAMTS1;COL5A3;ITGB1;LAMB1
+clusterset135	10.32	0.000240478	translation	RPL9;RPS2;RPS27A;RPS6;RPSA
+clusterset135	8.74	0.000438075	positive_regulation_of_apoptotic_process	ARHGEF6;CASP8;ITGB1;RPS27A;RPS6
+clusterset135	5.41	0.00256812	cell_adhesion	DSC2;INPPL1;ITGB1;LAMB1;RPSA
+clusterset135	4.34	0.0148534	viral_process	CASP8;ELOB;ITGB1;RPSA
+
+clusterset136	35.32	0.000312109	cell-matrix_adhesion	ADAMTS12;ITGAV;ITGB8
+clusterset136	13.74	0.00178845	extracellular_matrix_organization	ADAMTS12;ITGAV;ITGB8
+clusterset136	12.92	0.00178845	cell_migration	ADAMTS12;ITGAV;ITGB8
+clusterset136	9.27	0.000312109	cell_adhesion	DSG2;ITGAV;ITGB8;MEGF10;PARD3B
+
+clusterset137	24.33	0.00398767	cilium_movement	CFAP100;CFAP70;ZBBX
+clusterset137	9.83	0.0113828	ciliary_basal_body-plasma_membrane_docking	CETN2;NPHP1;TCTN1
+clusterset137	6.70	0.0113828	cell_projection_organization	CFAP46;NPHP1;RPGR;TCTN1
+clusterset137	6.59	0.0113828	cilium_assembly	CCDC96;CFAP70;RPGR;TCTN1
+clusterset137	4.64	0.0113828	spermatogenesis	CETN2;IQCG;NPHP1;SPAG8;SPEF2
+clusterset137	3.05	0.0113828	cell_differentiation	ATRAID;EFNB2;IQCG;MLF1;NPHP1;SPAG8;SPEF2;YES1
+
+clusterset138	57.38	3.1465e-06	cilium_movement	CCDC151;CFAP206;CFAP53;TTC25
+clusterset138	8.89	0.0112294	cell_projection_organization	CCDC151;CFAP206;CFAP65
+
+clusterset139	33.27	0.000105499	mitotic_cell_cycle	MYBL2;PBK;SKA1
+clusterset139	24.29	1.2888e-07	cell_division	AURKB;BIRC5;CENPA;SKA1;SPC24;UBE2C
+clusterset139	15.07	1.09685e-06	cell_cycle	AURKB;BIRC5;CENPA;SKA1;SPC24;UBE2C
+clusterset139	8.38	0.00439823	protein_phosphorylation	AURKB;BIRC5;PBK
+
+clusterset140	22.38	0.00808195	cardiac_muscle_contraction	ATP1B1;NKX2-5;TNNI2
+clusterset140	12.15	0.0159102	negative_regulation_of_peptidase_activity	SLPI;TIMP3;WFIKKN1
+clusterset140	10.22	0.00808195	adaptive_immune_response	CD79B;IL4I1;LAMP3;MICB
+clusterset140	9.78	0.0184876	negative_regulation_of_endopeptidase_activity	SLPI;TIMP3;WFIKKN1
+clusterset140	5.49	0.0499096	neuron_differentiation	FZD10;HES5;NEUROG3
+clusterset140	5.23	0.0245769	immune_response	CD79B;CXCR2;SLPI;TNFSF9
+clusterset140	5.13	0.0245769	extracellular_matrix_organization	COL23A1;COL4A2;ICAM2;MMP3
+clusterset140	4.34	0.0159102	immune_system_process	CD79B;IL4I1;LAMP3;MICB;SLPI;TRIM38
+clusterset140	2.69	0.0231658	multicellular_organism_development	CATSPERB;FZD10;HES5;MSX2;NEUROG3;NKX2-5;NNAT;PRICKLE3;UNC5B
+
+clusterset141
+
+clusterset142
+
+clusterset143	70.87	3.81722e-05	mitotic_sister_chromatid_cohesion	CDC20;DSCC1;HASPIN
+clusterset143	64.43	2.9489e-09	mitotic_sister_chromatid_segregation	CDCA8;CENPK;ESPL1;KIF18A;SGO1;SPAG5
+clusterset143	50.62	9.8024e-05	regulation_of_DNA_replication	CCNA2;DSCC1;FBXO5
+clusterset143	48.88	6.74972e-06	CENP-A_containing_nucleosome_assembly	CENPK;CENPN;MIS18BP1;OIP5
+clusterset143	46.22	0.000117015	regulation_of_mitotic_nuclear_division	CDC25C;FBXO5;PKMYT1
+clusterset143	42.52	0.000128332	mitotic_spindle_assembly_checkpoint	CDC20;MAD2L1;TTK
+clusterset143	31.85	1.25872e-09	chromosome_segregation	CDCA2;CDT1;CENPN;ESPL1;OIP5;SGO1;SPAG5;TTK
+clusterset143	30.03	4.08318e-06	regulation_of_cyclin-dependent_protein_serine/threonine_kinase_activity	BLM;CCNA2;CCNE2;CDC25C;PKMYT1
+clusterset143	27.26	0.000418025	mitotic_metaphase_plate_congression	CDCA8;KIF14;KIF18A
+clusterset143	16.61	0.00169394	activation_of_protein_kinase_activity	CLSPN;KIF14;TPX2
+
+clusterset144	23.98	0.00836635	glomerular_visceral_epithelial_cell_development	IQGAP1;JAG1;MYO1E
+clusterset144	23.98	0.00836635	antigen_processing_and_presentation_of_endogenous_peptide_antigen_via_MHC_class_I	B2M;TAP1;TAPBP
+clusterset144	21.58	0.00836635	mitotic_nuclear_envelope_reassembly	LMNA;REEP3;REEP4
+clusterset144	21.58	0.00836635	peptidyl-proline_hydroxylation_to_4-hydroxy-L-proline	EGLN3;P4HA1;P4HB
+clusterset144	16.60	0.0145012	cardiac_septum_morphogenesis	DHRS3;HEY1;JAG1
+clusterset144	11.36	0.0307465	nuclear_envelope_organization	LMNA;REEP3;REEP4
+clusterset144	10.79	0.0307465	cellular_response_to_glucocorticoid_stimulus	GSTP1;HEY1;ZFP36
+clusterset144	10.79	0.0307465	negative_regulation_of_protein_serine/threonine_kinase_activity	CIB1;HSPB1;LRP5
+clusterset144	10.28	0.0309164	positive_regulation_of_neural_precursor_cell_proliferation	CTSZ;GNAI2;NES
+clusterset144	9.81	0.0309164	neuron_projection_extension	DDR1;IQGAP1;SEMA5B
+
+clusterset145
+
+clusterset146
+
+clusterset147
+
+clusterset148	7.48	0.0022299	multicellular_organism_development	APELA;DPPA4;MDK;NKX2-8
+clusterset148	6.58	0.00832621	cell_differentiation	APELA;MDK;NKX2-8
+
+clusterset149	38.60	4.09125e-07	DNA_replication	FAM111B;MCM10;PCLAF;POLQ;RMI2
+clusterset149	15.30	1.97456e-05	DNA_repair	BRCA2;FANCI;PCLAF;POLQ;RMI2
+clusterset149	12.00	4.25938e-05	cellular_response_to_DNA_damage_stimulus	BRCA2;FANCI;MCM10;PCLAF;POLQ
+clusterset149	7.54	0.00141247	cell_cycle	ASPM;BRCA2;FANCI;ZWINT
+
+clusterset150	7.35	0.0077555	positive_regulation_of_transcription,_DNA-templated	HES1;SMAD3;TEAD2;TGFB1
+clusterset150	5.96	0.00838174	negative_regulation_of_transcription_by_RNA_polymerase_II	HES1;SMAD3;TGFB1;TGIF2
+clusterset150	4.74	0.0126657	positive_regulation_of_transcription_by_RNA_polymerase_II	HES1;SMAD3;TEAD2;TGFB1
+clusterset150	3.80	0.0205337	regulation_of_transcription,_DNA-templated	HES1;SMAD3;TEAD2;TGIF2
+clusterset150	3.35	0.0251383	regulation_of_transcription_by_RNA_polymerase_II	HES1;SMAD3;TEAD2;TGIF2
+
+clusterset151
+
+clusterset152
+
+clusterset153	246.50	1.79162e-08	electron_transport_coupled_proton_transport	MT-CO1;MT-CYB;MT-ND4;MT-ND5
+clusterset153	154.06	1.17563e-05	ATP_synthesis_coupled_electron_transport	MT-CO2;MT-ND4;MT-ND5
+clusterset153	54.38	0.000194915	respiratory_electron_transport_chain	MT-CO1;MT-CO3;MT-CYB
+clusterset153	48.65	0.000221194	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	MT-CO1;MT-CO2;MT-CO3
+clusterset153	29.82	0.000832048	aerobic_respiration	MT-CO1;MT-CO3;MT-ND4
+clusterset153	22.01	0.0017765	epithelial_to_mesenchymal_transition	SOX9;TGFB2;TGFBR3
+clusterset153	15.67	0.00282358	negative_regulation_of_epithelial_cell_proliferation	SOX9;TGFB2;TGFBR3
+clusterset153	12.84	0.004525	female_pregnancy	ITGA5;PTHLH;SLC2A1
+clusterset153	12.33	0.004525	BMP_signaling_pathway	FST;TGFB2;TGFBR3
+clusterset153	10.81	0.000194915	response_to_hypoxia	MT-CYB;MT-ND4;MT-ND5;SLC2A1;TGFB2;TGFBR3
+
+clusterset154	131.24	5.1819e-06	regulation_of_chromosome_segregation	BUB1;KIF2C;MKI67
+clusterset154	107.38	8.87532e-06	attachment_of_mitotic_spindle_microtubules_to_kinetochore	KIF2C;NDC80;NUF2
+clusterset154	98.43	1.05005e-05	metaphase_plate_congression	CENPF;KIF2C;NDC80
+clusterset154	73.82	1.99069e-05	mitotic_chromosome_condensation	CDCA5;NCAPG;NUSAP1
+clusterset154	59.65	8.62531e-08	mitotic_sister_chromatid_segregation	KIF18B;KIFC1;NDC80;NEK2;NUSAP1
+clusterset154	48.66	1.61433e-15	chromosome_segregation	BUB1;CENPF;ESCO2;HJURP;KIF2C;KNL1;NDC80;NEK2;NUF2;SKA3;SPC25
+clusterset154	40.73	0.00010793	CENP-A_containing_nucleosome_assembly	CENPM;HJURP;KNL1
+clusterset154	37.24	3.39288e-09	microtubule-based_movement	KIF11;KIF15;KIF18B;KIF20A;KIF23;KIF2C;KIFC1
+clusterset154	32.14	1.95779e-05	mitotic_cytokinesis	CEP55;KIF20A;KIF23;NUSAP1
+clusterset154	31.50	1.95779e-05	mitotic_spindle_organization	KIF11;NDC80;NUF2;SPC25
+
+clusterset155
+
+clusterset156
+
+clusterset157	4.39	0.0275773	cell_differentiation	LRRK2;TGFB1I1;TWIST1
+
+clusterset158	12.52	0.00437448	cell-cell_adhesion	DSC3;ICAM3;JAM2;KRT18
+
+clusterset159
+
+clusterset160	62.17	0.000126988	positive_regulation_of_substrate_adhesion-dependent_cell_spreading	DOCK1;FLNA;NEDD9
+clusterset160	15.14	0.00212658	cellular_protein_metabolic_process	HSPG2;LAMC1;LTBP1
+clusterset160	13.40	0.000844734	cell_migration	COL5A1;DOCK1;LAMC1;NEDD9
+clusterset160	10.69	0.00461985	extracellular_matrix_organization	COL5A1;HSPG2;LAMC1
+clusterset160	7.21	0.00141019	cell_adhesion	BOC;COL5A1;LAMC1;NEDD9;TRIP6
+clusterset160	6.07	0.0184809	cell_division	CDK6;NEDD9;NEK6
+clusterset160	4.72	0.0308539	lipid_metabolic_process	CUBN;HSPG2;LCAT
+clusterset160	3.77	0.0481929	cell_cycle	CDK6;NEDD9;NEK6
+
+clusterset161	16.19	6.30999e-05	cell_division	ANLN;BUB1B;NCAPG2;NCAPH
+clusterset161	15.07	1.09685e-06	cell_cycle	ANLN;BUB1B;E2F2;NCAPG2;NCAPH;TICRR
+
+clusterset162
+
+clusterset163
+
+clusterset164	186.50	3.53604e-07	cilium_movement	CCDC39;CFAP61;DNAI1
+
+clusterset165	9.98	0.000266371	multicellular_organism_development	HMGA2;NDE1;NOTCH3;ZFP36L2
+
+clusterset166
+
+clusterset168
+
+clusterset169
+
+clusterset170	82.89	2.34124e-05	chromosome_organization	CENPW;PTTG1;SMC4
+clusterset170	33.53	2.34124e-05	chromosome_segregation	BRCA1;CENPW;DSN1;PTTG1
+clusterset170	23.31	0.000539357	G1/S_transition_of_mitotic_cell_cycle	E2F1;MCM5;ORC6
+clusterset170	19.50	0.000133784	DNA_replication	BRCA1;GINS4;MCM5;ORC6
+clusterset170	9.59	0.000308155	cell_division	CENPW;DSN1;MCM5;PTTG1;SMC4
+clusterset170	9.52	8.24841e-06	cell_cycle	BRCA1;CENPW;DSN1;E2F1;MCM5;PTTG1;SMC4;UHRF1
+clusterset170	7.73	0.00260083	DNA_repair	BRCA1;PTTG1;UHRF1;XRCC2
+clusterset170	6.74	0.0124554	spermatogenesis	E2F1;PTTG1;TRIP13
+clusterset170	6.07	0.0055047	cellular_response_to_DNA_damage_stimulus	BRCA1;PTTG1;UHRF1;XRCC2
+clusterset170	5.62	0.0182912	positive_regulation_of_gene_expression	BRCA1;E2F1;PLSCR1
+
+clusterset171
+
+clusterset172
+
+clusterset173	15.54	0.00435061	positive_regulation_of_ERK1_and_ERK2_cascade	ACKR3;CCL18;TREM2
+clusterset173	11.63	0.00500044	positive_regulation_of_cell_migration	AIF1;CLDN4;F3
+clusterset173	10.47	0.00079691	positive_regulation_of_gene_expression	F3;HEY2;NOS3;TREM2;WNT7A
+clusterset173	8.87	0.00861757	regulation_of_gene_expression	AIF1;HEY2;TREM2
+clusterset173	7.22	0.00500044	negative_regulation_of_apoptotic_process	AIF1;TREM2;TSLP;WNT7A
+clusterset173	6.85	0.0146769	negative_regulation_of_cell_population_proliferation	ACKR3;IFITM1;NOS3
+clusterset173	5.65	0.0212572	positive_regulation_of_cell_population_proliferation	AIF1;TSLP;WNT7A
+clusterset173	4.47	0.0344958	G_protein-coupled_receptor_signaling_pathway	ACKR3;CCL18;HTR1D
+
+clusterset174
+
+clusterset175
+
+clusterset176
+
+clusterset177
+
+clusterset178
+
+clusterset179
+
+clusterset180
+
+clusterset181	7.48	0.00510245	multicellular_organism_development	AXL;LFNG;LRP4
+
+clusterset182
+
+clusterset183	56.25	2.94544e-05	negative_regulation_of_cell_migration	CYP1B1;PODN;SERPINE1
+clusterset183	27.49	0.00012497	extracellular_matrix_organization	COL1A1;SERPINE1;THSD4
+
+clusterset184
+
+clusterset185
+
+clusterset186
+
+clusterset187
+
+clusterset188
+
+clusterset191	18.36	0.000377032	DNA_repair	MCM8;POLD1;WDHD1
+
+clusterset192	80.53	9.03257e-06	collagen_fibril_organization	ANXA2;FKBP10;SERPINH1
+clusterset192	54.31	1.89385e-06	negative_regulation_of_endopeptidase_activity	ANXA2;CRB2;ITIH5;SERPINH1
+
+clusterset193	25.72	0.00167354	DNA_damage_response,_signal_transduction_by_p53_class_mediator_resulting_in_cell_cycle_arrest	PCNA;PIDD1;RBM38
+clusterset193	10.86	0.0103036	cell_population_proliferation	CKS1B;CSPG4;MCM7
+clusterset193	3.97	0.04565	cellular_response_to_DNA_damage_stimulus	FANCB;MCM7;PCNA;PIDD1
+
+clusterset194
+
+clusterset195
+
+clusterset196
+
+clusterset197
+
+clusterset199	8.28	0.00436533	protein_transport	CD63;DAB2;MVP
+
+clusterset202
+
+clusterset203
+
+clusterset204
+
+clusterset205	49.91	3.613e-05	rhythmic_process	CDK1;DTL;TOP2A
+clusterset205	46.32	3.613e-05	DNA_replication	CDC45;CDK1;DTL
+clusterset205	11.30	0.00155852	cell_cycle	CDC45;CDK1;DLGAP5
+
+clusterset206	10.85	0.00190587	G_protein-coupled_receptor_signaling_pathway	CXCL3;GNG11;PREX1
+
+clusterset207
+
+clusterset209
+
+clusterset210	9.69	0.00263793	cell_cycle	CCNB1;ECT2;MCM3
+
+clusterset211
+
+clusterset212
+
+clusterset213
+
+clusterset214
+
+clusterset215
+
+clusterset216
+
+clusterset218
+
+clusterset219
+
+clusterset220
+
+clusterset222
+
+clusterset223
+
+clusterset224
+
+clusterset225
+
+clusterset226
+
+clusterset228
+
+clusterset229
+
+clusterset230
+
+clusterset231
+
+clusterset232
+
+clusterset233
+
+clusterset234
+
+clusterset235
+
+clusterset236
+
+clusterset237
+
+clusterset238
+

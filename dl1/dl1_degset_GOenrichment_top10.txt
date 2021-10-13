@@ -1,0 +1,56 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	37.67	0.00066744	regulation_of_respiratory_gaseous_exchange_by_nervous_system_process	NLGN1;PBX3;TSHZ3
+c1	28.26	0.00138877	neuron_cell-cell_adhesion	CNTN4;NLGN1;NRXN3
+c1	17.39	0.00335199	positive_regulation_of_synaptic_transmission,_glutamatergic	CACNG4;NLGN1;TSHZ3
+c1	17.12	0.000286118	embryonic_skeletal_system_morphogenesis	CHST11;HOXA3;HOXA4;HOXB2;HOXB4
+c1	15.59	0.00425656	respiratory_gaseous_exchange_by_respiratory_system	CHST11;MAFB;PBX3
+c1	15.07	0.000360646	neurogenesis	CXCR4;LHX2;NAV2;PRDM6;RARB
+c1	12.56	0.00226221	inner_ear_morphogenesis	ATP8A2;INSIG1;MAFB;ZIC1
+c1	11.90	0.00705939	thymus_development	HOXA3;MAFB;PBX1
+c1	11.90	0.00705939	eye_development	MEIS2;PBX1;PBX3
+c1	11.47	0.000139809	anterior/posterior_pattern_specification	CTNNBIP1;HOXA3;HOXA4;HOXB2;HOXB4;HOXC5;PBX1
+
+c2	16.38	0.000261291	proximal/distal_pattern_formation	HOXA10;HOXA9;HOXB9;HOXC9;HOXD9
+c2	15.07	0.00843235	platelet_formation	CASP3;MEF2C;WDR1
+c2	12.56	0.00417697	retina_layer_formation	AHI1;CALB1;DSCAM;FAT3
+c2	12.56	0.000204471	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXB9;HOXC6;HOXC9;HOXD9
+c2	11.99	7.92263e-05	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB7;HOXB9;HOXC9;HOXD9
+c2	10.39	0.006735	regulation_of_NMDA_receptor_activity	GRIA2;GRIN2A;MEF2C;RELN
+c2	9.83	0.0194296	synaptic_vesicle_exocytosis	CADPS;STX1B;TRIM9
+c2	9.42	0.0203615	regulation_of_synapse_organization	CAMK1;GPM6A;SLITRK4
+c2	9.42	0.00780735	mammary_gland_development	HOXA9;HOXB9;HOXD9;IRS2
+c2	8.37	0.0275601	stem_cell_differentiation	EPCAM;GPM6A;HOXA7
+
+c3	29.49	1.29339e-05	embryonic_skeletal_system_morphogenesis	CHST11;HOXA3;HOXA4;HOXB2;HOXB4
+c3	26.85	0.000699393	respiratory_gaseous_exchange_by_respiratory_system	CHST11;MAFB;PBX3
+c3	21.63	0.00018335	inner_ear_morphogenesis	CHD7;MAFB;MYO6;ZIC1
+c3	20.76	0.000188441	neurogenesis	CXCR4;LHX2;PRDM6;RARB
+c3	20.49	0.001313	thymus_development	HOXA3;MAFB;PBX1
+c3	20.49	0.001313	eye_development	MEIS2;PBX1;PBX3
+c3	16.93	1.72289e-05	anterior/posterior_pattern_specification	HOXA3;HOXA4;HOXB2;HOXB4;HOXC5;PBX1
+c3	13.42	0.00389865	response_to_mechanical_stimulus	IGFBP2;MEIS2;TXNIP
+c3	7.69	0.0045439	animal_organ_morphogenesis	HOXA3;MEIS2;PBX1;PBX3
+c3	7.30	0.000188441	brain_development	ATXN1;CXCR4;LHX2;MEIS2;PBX1;PBX3;ZIC1
+
+c4	25.04	0.00152242	proximal/distal_pattern_formation	HOXA9;HOXB9;HOXC9
+c4	21.82	0.000126838	embryonic_skeletal_system_morphogenesis	HOXA7;HOXA9;HOXB7;HOXB9;HOXC9
+c4	21.33	0.000360522	embryonic_skeletal_system_development	HOXA9;HOXB9;HOXC6;HOXC9
+c4	18.73	0.000486195	negative_regulation_of_cell_adhesion	DAB1;DSCAM;PIK3R1;PLXNA2
+c4	12.52	0.000166305	anterior/posterior_pattern_specification	HOXA7;HOXA9;HOXB7;HOXB9;HOXC6;HOXC9
+c4	11.52	0.000179366	neuron_migration	BARHL1;BARHL2;DAB1;GPM6A;RAPGEF2;RELN
+c4	10.87	0.0090035	substrate_adhesion-dependent_cell_spreading	ATRNL1;PIK3R1;TMEFF2
+c4	10.47	0.00923857	positive_regulation_of_protein_kinase_activity	DAB1;RAPGEF2;RELN
+c4	7.38	0.0213209	positive_regulation_of_phosphatidylinositol_3-kinase_signaling	F2R;PIK3R1;RELN
+c4	6.62	0.00430288	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH18;DSCAM;PCDH7;PCDH8;ROBO2
+
+c5	84.77	5.75666e-05	dorsal_spinal_cord_development	HOXB8;PBX3;UNCX
+c5	21.88	0.00128919	regulation_of_presynapse_assembly	CBLN1;MDGA1;PTPRD
+c5	20.55	0.000324307	embryonic_skeletal_system_morphogenesis	HOXA6;HOXB7;HOXB8;HOXB9
+c5	18.08	0.00042564	neurogenesis	CXCR4;LHX2;PRDM6;SPOCK1
+c5	17.85	0.00215161	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CBLN1;NECTIN3;PTPRD
+c5	14.13	0.0031349	adult_locomotory_behavior	HOXB8;KALRN;PBX3
+c5	14.13	0.000859079	negative_regulation_of_neuron_projection_development	BCL11A;DCC;PTPRO;SPOCK1
+c5	12.80	0.00391859	positive_regulation_of_synapse_assembly	CBLN1;LRRTM3;PTPRD
+c5	12.74	0.00114109	regulation_of_cell_growth	CAMK2D;CRIM1;SPOCK1;TMEM97
+c5	11.30	0.00042564	neuron_migration	AUTS2;CXCR4;DCC;MDGA1;SPOCK1
+

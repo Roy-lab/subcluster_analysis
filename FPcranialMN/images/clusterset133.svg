@@ -1,0 +1,498 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="298.5" height="727.6" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<text xml:space="preserve" x="110.5" y="342.6" font-family="Calibri" font-size="8" text-anchor="end">AGTRAP</text>
+<text xml:space="preserve" x="110.5" y="350.6" font-family="Calibri" font-size="8" text-anchor="end">RREB1</text>
+<text xml:space="preserve" x="110.5" y="358.6" font-family="Calibri" font-size="8" text-anchor="end">CYBA</text>
+<text xml:space="preserve" x="110.5" y="366.6" font-family="Calibri" font-size="8" text-anchor="end">SERPINF1</text>
+<text xml:space="preserve" x="110.5" y="374.6" font-family="Calibri" font-size="8" text-anchor="end">EFEMP1</text>
+<text xml:space="preserve" x="110.5" y="382.6" font-family="Calibri" font-size="8" text-anchor="end">SPARC</text>
+<text xml:space="preserve" x="110.5" y="390.6" font-family="Calibri" font-size="8" text-anchor="end">MICA</text>
+<text xml:space="preserve" x="110.5" y="398.6" font-family="Calibri" font-size="8" text-anchor="end">PARP9</text>
+<text xml:space="preserve" x="110.5" y="406.6" font-family="Calibri" font-size="8" text-anchor="end">FIBIN</text>
+<text xml:space="preserve" x="110.5" y="414.6" font-family="Calibri" font-size="8" text-anchor="end">TRIM56</text>
+<text xml:space="preserve" x="110.5" y="422.6" font-family="Calibri" font-size="8" text-anchor="end">TCF7L2</text>
+<text xml:space="preserve" x="110.5" y="430.6" font-family="Calibri" font-size="8" text-anchor="end">CAPN9</text>
+<text xml:space="preserve" x="110.5" y="438.6" font-family="Calibri" font-size="8" text-anchor="end">FOXJ1</text>
+<text xml:space="preserve" x="110.5" y="446.6" font-family="Calibri" font-size="8" text-anchor="end">VAMP5</text>
+<text xml:space="preserve" x="110.5" y="454.6" font-family="Calibri" font-size="8" text-anchor="end">TCF7L1</text>
+<text xml:space="preserve" x="110.5" y="462.6" font-family="Calibri" font-size="8" text-anchor="end">FLNC</text>
+<text xml:space="preserve" x="110.5" y="470.6" font-family="Calibri" font-size="8" text-anchor="end">CELSR1</text>
+<text xml:space="preserve" x="110.5" y="478.6" font-family="Calibri" font-size="8" text-anchor="end">GRAMD2B</text>
+<text xml:space="preserve" x="110.5" y="486.6" font-family="Calibri" font-size="8" text-anchor="end">HLA-E</text>
+<text xml:space="preserve" x="110.5" y="494.6" font-family="Calibri" font-size="8" text-anchor="end">IQGAP2</text>
+<text xml:space="preserve" x="110.5" y="502.6" font-family="Calibri" font-size="8" text-anchor="end">ITGB5</text>
+<text xml:space="preserve" x="110.5" y="510.6" font-family="Calibri" font-size="8" text-anchor="end">SLC4A4</text>
+<text xml:space="preserve" x="110.5" y="518.6" font-family="Calibri" font-size="8" text-anchor="end">WWTR1</text>
+<text xml:space="preserve" x="110.5" y="526.6" font-family="Calibri" font-size="8" text-anchor="end">FOXA2</text>
+<text xml:space="preserve" x="121.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 121.5 331.6)">c2</text>
+<text xml:space="preserve" x="129.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 129.5 331.6)">c4</text>
+<text xml:space="preserve" x="137.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 137.5 331.6)">c3</text>
+<text xml:space="preserve" x="145.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 145.5 331.6)">c1</text>
+<text xml:space="preserve" x="153.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 153.5 331.6)">c5</text>
+<text xml:space="preserve" x="171.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 171.5 331.6)">c2_mean</text>
+<text xml:space="preserve" x="179.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 179.5 331.6)">c4_mean</text>
+<text xml:space="preserve" x="187.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 187.5 331.6)">c3_mean</text>
+<text xml:space="preserve" x="195.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 195.5 331.6)">c1_mean</text>
+<text xml:space="preserve" x="203.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 203.5 331.6)">c5_mean</text>
+<text xml:space="preserve" x="221.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 221.5 331.6)">transcription_factor</text>
+<text xml:space="preserve" x="229.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 229.5 331.6)">transmembrane_signal_receptor</text>
+<text xml:space="preserve" x="237.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 237.5 331.6)">growth_factor</text>
+<text xml:space="preserve" x="245.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 245.5 331.6)">peptide_hormone</text>
+<text xml:space="preserve" x="253.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 253.5 331.6)">cytoskeletal_protein</text>
+<text xml:space="preserve" x="261.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 261.5 331.6)">ion_channel</text>
+<text xml:space="preserve" x="269.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 269.5 331.6)">integrin</text>
+<text xml:space="preserve" x="277.5" y="331.6" font-family="Calibri" font-size="8" transform="rotate(270 277.5 331.6)">extracellular_matrix_protein</text>
+<polygon points="114.5,335.6 122.5,335.6 122.5,343.6 114.5,343.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="342.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,335.6 130.5,335.6 130.5,343.6 122.5,343.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="342.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,335.6 138.5,335.6 138.5,343.6 130.5,343.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="342.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,335.6 146.5,335.6 146.5,343.6 138.5,343.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="342.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,335.6 154.5,335.6 154.5,343.6 146.5,343.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="342.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,335.6 172.5,335.6 172.5,343.6 164.5,343.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,335.6 180.5,335.6 180.5,343.6 172.5,343.6" fill="rgb(250,194,1)"/>
+<polygon points="180.5,335.6 188.5,335.6 188.5,343.6 180.5,343.6" fill="rgb(234,196,13)"/>
+<polygon points="188.5,335.6 196.5,335.6 196.5,343.6 188.5,343.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,335.6 204.5,335.6 204.5,343.6 196.5,343.6" fill="rgb(223,197,21)"/>
+<polygon points="214.5,335.6 222.5,335.6 222.5,343.6 214.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,335.6 230.5,335.6 230.5,343.6 222.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,335.6 238.5,335.6 238.5,343.6 230.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,335.6 246.5,335.6 246.5,343.6 238.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,335.6 254.5,335.6 254.5,343.6 246.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,335.6 262.5,335.6 262.5,343.6 254.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,335.6 270.5,335.6 270.5,343.6 262.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,335.6 278.5,335.6 278.5,343.6 270.5,343.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,343.6 122.5,343.6 122.5,351.6 114.5,351.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="350.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,343.6 130.5,343.6 130.5,351.6 122.5,351.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="350.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,343.6 138.5,343.6 138.5,351.6 130.5,351.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="350.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,343.6 146.5,343.6 146.5,351.6 138.5,351.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="350.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,343.6 154.5,343.6 154.5,351.6 146.5,351.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="350.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,343.6 172.5,343.6 172.5,351.6 164.5,351.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,343.6 180.5,343.6 180.5,351.6 172.5,351.6" fill="rgb(211,199,29)"/>
+<polygon points="180.5,343.6 188.5,343.6 188.5,351.6 180.5,351.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,343.6 196.5,343.6 196.5,351.6 188.5,351.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,343.6 204.5,343.6 204.5,351.6 196.5,351.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,343.6 222.5,343.6 222.5,351.6 214.5,351.6" fill="rgb(205,0,205)"/>
+<polygon points="222.5,343.6 230.5,343.6 230.5,351.6 222.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,343.6 238.5,343.6 238.5,351.6 230.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,343.6 246.5,343.6 246.5,351.6 238.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,343.6 254.5,343.6 254.5,351.6 246.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,343.6 262.5,343.6 262.5,351.6 254.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,343.6 270.5,343.6 270.5,351.6 262.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,343.6 278.5,343.6 278.5,351.6 270.5,351.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,351.6 122.5,351.6 122.5,359.6 114.5,359.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="358.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,351.6 130.5,351.6 130.5,359.6 122.5,359.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="358.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,351.6 138.5,351.6 138.5,359.6 130.5,359.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="358.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,351.6 146.5,351.6 146.5,359.6 138.5,359.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="358.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,351.6 154.5,351.6 154.5,359.6 146.5,359.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="358.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,351.6 172.5,351.6 172.5,359.6 164.5,359.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,351.6 180.5,351.6 180.5,359.6 172.5,359.6" fill="rgb(215,198,27)"/>
+<polygon points="180.5,351.6 188.5,351.6 188.5,359.6 180.5,359.6" fill="rgb(150,206,73)"/>
+<polygon points="188.5,351.6 196.5,351.6 196.5,359.6 188.5,359.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,351.6 204.5,351.6 204.5,359.6 196.5,359.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,351.6 222.5,351.6 222.5,359.6 214.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,351.6 230.5,351.6 230.5,359.6 222.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,351.6 238.5,351.6 238.5,359.6 230.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,351.6 246.5,351.6 246.5,359.6 238.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,351.6 254.5,351.6 254.5,359.6 246.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,351.6 262.5,351.6 262.5,359.6 254.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,351.6 270.5,351.6 270.5,359.6 262.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,351.6 278.5,351.6 278.5,359.6 270.5,359.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,359.6 122.5,359.6 122.5,367.6 114.5,367.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="366.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,359.6 130.5,359.6 130.5,367.6 122.5,367.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="366.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,359.6 138.5,359.6 138.5,367.6 130.5,367.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="366.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,359.6 146.5,359.6 146.5,367.6 138.5,367.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="366.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,359.6 154.5,359.6 154.5,367.6 146.5,367.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="366.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,359.6 172.5,359.6 172.5,367.6 164.5,367.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,359.6 180.5,359.6 180.5,367.6 172.5,367.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,359.6 188.5,359.6 188.5,367.6 180.5,367.6" fill="rgb(227,197,18)"/>
+<polygon points="188.5,359.6 196.5,359.6 196.5,367.6 188.5,367.6" fill="rgb(193,201,42)"/>
+<polygon points="196.5,359.6 204.5,359.6 204.5,367.6 196.5,367.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,359.6 222.5,359.6 222.5,367.6 214.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,359.6 230.5,359.6 230.5,367.6 222.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,359.6 238.5,359.6 238.5,367.6 230.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,359.6 246.5,359.6 246.5,367.6 238.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,359.6 254.5,359.6 254.5,367.6 246.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,359.6 262.5,359.6 262.5,367.6 254.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,359.6 270.5,359.6 270.5,367.6 262.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,359.6 278.5,359.6 278.5,367.6 270.5,367.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,367.6 122.5,367.6 122.5,375.6 114.5,375.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="374.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,367.6 130.5,367.6 130.5,375.6 122.5,375.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="374.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,367.6 138.5,367.6 138.5,375.6 130.5,375.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="374.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,367.6 146.5,367.6 146.5,375.6 138.5,375.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="374.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,367.6 154.5,367.6 154.5,375.6 146.5,375.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="374.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,367.6 172.5,367.6 172.5,375.6 164.5,375.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,367.6 180.5,367.6 180.5,375.6 172.5,375.6" fill="rgb(210,199,30)"/>
+<polygon points="180.5,367.6 188.5,367.6 188.5,375.6 180.5,375.6" fill="rgb(146,207,76)"/>
+<polygon points="188.5,367.6 196.5,367.6 196.5,375.6 188.5,375.6" fill="rgb(157,205,68)"/>
+<polygon points="196.5,367.6 204.5,367.6 204.5,375.6 196.5,375.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,367.6 222.5,367.6 222.5,375.6 214.5,375.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,367.6 230.5,367.6 230.5,375.6 222.5,375.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,367.6 238.5,367.6 238.5,375.6 230.5,375.6" fill="rgb(205,0,205)"/>
+<polygon points="238.5,367.6 246.5,367.6 246.5,375.6 238.5,375.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,367.6 254.5,367.6 254.5,375.6 246.5,375.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,367.6 262.5,367.6 262.5,375.6 254.5,375.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,367.6 270.5,367.6 270.5,375.6 262.5,375.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,367.6 278.5,367.6 278.5,375.6 270.5,375.6" fill="rgb(205,0,205)"/>
+<polygon points="114.5,375.6 122.5,375.6 122.5,383.6 114.5,383.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="382.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,375.6 130.5,375.6 130.5,383.6 122.5,383.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="382.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,375.6 138.5,375.6 138.5,383.6 130.5,383.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="382.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,375.6 146.5,375.6 146.5,383.6 138.5,383.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="382.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,375.6 154.5,375.6 154.5,383.6 146.5,383.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="382.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,375.6 172.5,375.6 172.5,383.6 164.5,383.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,375.6 180.5,375.6 180.5,383.6 172.5,383.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,375.6 188.5,375.6 188.5,383.6 180.5,383.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,375.6 196.5,375.6 196.5,383.6 188.5,383.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,375.6 204.5,375.6 204.5,383.6 196.5,383.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,375.6 222.5,375.6 222.5,383.6 214.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,375.6 230.5,375.6 230.5,383.6 222.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,375.6 238.5,375.6 238.5,383.6 230.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,375.6 246.5,375.6 246.5,383.6 238.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,375.6 254.5,375.6 254.5,383.6 246.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,375.6 262.5,375.6 262.5,383.6 254.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,375.6 270.5,375.6 270.5,383.6 262.5,383.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,375.6 278.5,375.6 278.5,383.6 270.5,383.6" fill="rgb(205,0,205)"/>
+<polygon points="114.5,383.6 122.5,383.6 122.5,391.6 114.5,391.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="390.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,383.6 130.5,383.6 130.5,391.6 122.5,391.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="390.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,383.6 138.5,383.6 138.5,391.6 130.5,391.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="390.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,383.6 146.5,383.6 146.5,391.6 138.5,391.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="390.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,383.6 154.5,383.6 154.5,391.6 146.5,391.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="390.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,383.6 172.5,383.6 172.5,391.6 164.5,391.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,383.6 180.5,383.6 180.5,391.6 172.5,391.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,383.6 188.5,383.6 188.5,391.6 180.5,391.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,383.6 196.5,383.6 196.5,391.6 188.5,391.6" fill="rgb(233,196,14)"/>
+<polygon points="196.5,383.6 204.5,383.6 204.5,391.6 196.5,391.6" fill="rgb(234,196,13)"/>
+<polygon points="214.5,383.6 222.5,383.6 222.5,391.6 214.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,383.6 230.5,383.6 230.5,391.6 222.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,383.6 238.5,383.6 238.5,391.6 230.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,383.6 246.5,383.6 246.5,391.6 238.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,383.6 254.5,383.6 254.5,391.6 246.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,383.6 262.5,383.6 262.5,391.6 254.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,383.6 270.5,383.6 270.5,391.6 262.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,383.6 278.5,383.6 278.5,391.6 270.5,391.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,391.6 122.5,391.6 122.5,399.6 114.5,399.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="398.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,391.6 130.5,391.6 130.5,399.6 122.5,399.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="398.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,391.6 138.5,391.6 138.5,399.6 130.5,399.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="398.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,391.6 146.5,391.6 146.5,399.6 138.5,399.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="398.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,391.6 154.5,391.6 154.5,399.6 146.5,399.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="398.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,391.6 172.5,391.6 172.5,399.6 164.5,399.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,391.6 180.5,391.6 180.5,399.6 172.5,399.6" fill="rgb(135,208,84)"/>
+<polygon points="180.5,391.6 188.5,391.6 188.5,399.6 180.5,399.6" fill="rgb(207,199,32)"/>
+<polygon points="188.5,391.6 196.5,391.6 196.5,399.6 188.5,399.6" fill="rgb(215,198,27)"/>
+<polygon points="196.5,391.6 204.5,391.6 204.5,399.6 196.5,399.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,391.6 222.5,391.6 222.5,399.6 214.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,391.6 230.5,391.6 230.5,399.6 222.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,391.6 238.5,391.6 238.5,399.6 230.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,391.6 246.5,391.6 246.5,399.6 238.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,391.6 254.5,391.6 254.5,399.6 246.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,391.6 262.5,391.6 262.5,399.6 254.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,391.6 270.5,391.6 270.5,399.6 262.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,391.6 278.5,391.6 278.5,399.6 270.5,399.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,399.6 122.5,399.6 122.5,407.6 114.5,407.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="406.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,399.6 130.5,399.6 130.5,407.6 122.5,407.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="406.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,399.6 138.5,399.6 138.5,407.6 130.5,407.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="406.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,399.6 146.5,399.6 146.5,407.6 138.5,407.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="406.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,399.6 154.5,399.6 154.5,407.6 146.5,407.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="406.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,399.6 172.5,399.6 172.5,407.6 164.5,407.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,399.6 180.5,399.6 180.5,407.6 172.5,407.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,399.6 188.5,399.6 188.5,407.6 180.5,407.6" fill="rgb(185,202,48)"/>
+<polygon points="188.5,399.6 196.5,399.6 196.5,407.6 188.5,407.6" fill="rgb(208,199,31)"/>
+<polygon points="196.5,399.6 204.5,399.6 204.5,407.6 196.5,407.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,399.6 222.5,399.6 222.5,407.6 214.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,399.6 230.5,399.6 230.5,407.6 222.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,399.6 238.5,399.6 238.5,407.6 230.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,399.6 246.5,399.6 246.5,407.6 238.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,399.6 254.5,399.6 254.5,407.6 246.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,399.6 262.5,399.6 262.5,407.6 254.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,399.6 270.5,399.6 270.5,407.6 262.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,399.6 278.5,399.6 278.5,407.6 270.5,407.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,407.6 122.5,407.6 122.5,415.6 114.5,415.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="414.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,407.6 130.5,407.6 130.5,415.6 122.5,415.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="414.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,407.6 138.5,407.6 138.5,415.6 130.5,415.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="414.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,407.6 146.5,407.6 146.5,415.6 138.5,415.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="414.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,407.6 154.5,407.6 154.5,415.6 146.5,415.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="414.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,407.6 172.5,407.6 172.5,415.6 164.5,415.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,407.6 180.5,407.6 180.5,415.6 172.5,415.6" fill="rgb(147,206,75)"/>
+<polygon points="180.5,407.6 188.5,407.6 188.5,415.6 180.5,415.6" fill="rgb(212,198,29)"/>
+<polygon points="188.5,407.6 196.5,407.6 196.5,415.6 188.5,415.6" fill="rgb(239,195,9)"/>
+<polygon points="196.5,407.6 204.5,407.6 204.5,415.6 196.5,415.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,407.6 222.5,407.6 222.5,415.6 214.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,407.6 230.5,407.6 230.5,415.6 222.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,407.6 238.5,407.6 238.5,415.6 230.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,407.6 246.5,407.6 246.5,415.6 238.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,407.6 254.5,407.6 254.5,415.6 246.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,407.6 262.5,407.6 262.5,415.6 254.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,407.6 270.5,407.6 270.5,415.6 262.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,407.6 278.5,407.6 278.5,415.6 270.5,415.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,415.6 122.5,415.6 122.5,423.6 114.5,423.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="422.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,415.6 130.5,415.6 130.5,423.6 122.5,423.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="422.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,415.6 138.5,415.6 138.5,423.6 130.5,423.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="422.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,415.6 146.5,415.6 146.5,423.6 138.5,423.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="422.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,415.6 154.5,415.6 154.5,423.6 146.5,423.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="422.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,415.6 172.5,415.6 172.5,423.6 164.5,423.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,415.6 180.5,415.6 180.5,423.6 172.5,423.6" fill="rgb(220,197,23)"/>
+<polygon points="180.5,415.6 188.5,415.6 188.5,423.6 180.5,423.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,415.6 196.5,415.6 196.5,423.6 188.5,423.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,415.6 204.5,415.6 204.5,423.6 196.5,423.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,415.6 222.5,415.6 222.5,423.6 214.5,423.6" fill="rgb(205,0,205)"/>
+<polygon points="222.5,415.6 230.5,415.6 230.5,423.6 222.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,415.6 238.5,415.6 238.5,423.6 230.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,415.6 246.5,415.6 246.5,423.6 238.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,415.6 254.5,415.6 254.5,423.6 246.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,415.6 262.5,415.6 262.5,423.6 254.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,415.6 270.5,415.6 270.5,423.6 262.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,415.6 278.5,415.6 278.5,423.6 270.5,423.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,423.6 122.5,423.6 122.5,431.6 114.5,431.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="430.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,423.6 130.5,423.6 130.5,431.6 122.5,431.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="430.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,423.6 138.5,423.6 138.5,431.6 130.5,431.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="430.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,423.6 146.5,423.6 146.5,431.6 138.5,431.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="430.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,423.6 154.5,423.6 154.5,431.6 146.5,431.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="430.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,423.6 172.5,423.6 172.5,431.6 164.5,431.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,423.6 180.5,423.6 180.5,431.6 172.5,431.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,423.6 188.5,423.6 188.5,431.6 180.5,431.6" fill="rgb(239,195,9)"/>
+<polygon points="188.5,423.6 196.5,423.6 196.5,431.6 188.5,431.6" fill="rgb(166,204,61)"/>
+<polygon points="196.5,423.6 204.5,423.6 204.5,431.6 196.5,431.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,423.6 222.5,423.6 222.5,431.6 214.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,423.6 230.5,423.6 230.5,431.6 222.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,423.6 238.5,423.6 238.5,431.6 230.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,423.6 246.5,423.6 246.5,431.6 238.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,423.6 254.5,423.6 254.5,431.6 246.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,423.6 262.5,423.6 262.5,431.6 254.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,423.6 270.5,423.6 270.5,431.6 262.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,423.6 278.5,423.6 278.5,431.6 270.5,431.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,431.6 122.5,431.6 122.5,439.6 114.5,439.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="438.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,431.6 130.5,431.6 130.5,439.6 122.5,439.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="438.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,431.6 138.5,431.6 138.5,439.6 130.5,439.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="438.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,431.6 146.5,431.6 146.5,439.6 138.5,439.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="438.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,431.6 154.5,431.6 154.5,439.6 146.5,439.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="438.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,431.6 172.5,431.6 172.5,439.6 164.5,439.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,431.6 180.5,431.6 180.5,439.6 172.5,439.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,431.6 188.5,431.6 188.5,439.6 180.5,439.6" fill="rgb(181,202,51)"/>
+<polygon points="188.5,431.6 196.5,431.6 196.5,439.6 188.5,439.6" fill="rgb(238,195,10)"/>
+<polygon points="196.5,431.6 204.5,431.6 204.5,439.6 196.5,439.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,431.6 222.5,431.6 222.5,439.6 214.5,439.6" fill="rgb(205,0,205)"/>
+<polygon points="222.5,431.6 230.5,431.6 230.5,439.6 222.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,431.6 238.5,431.6 238.5,439.6 230.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,431.6 246.5,431.6 246.5,439.6 238.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,431.6 254.5,431.6 254.5,439.6 246.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,431.6 262.5,431.6 262.5,439.6 254.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,431.6 270.5,431.6 270.5,439.6 262.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,431.6 278.5,431.6 278.5,439.6 270.5,439.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,439.6 122.5,439.6 122.5,447.6 114.5,447.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="446.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,439.6 130.5,439.6 130.5,447.6 122.5,447.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="446.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,439.6 138.5,439.6 138.5,447.6 130.5,447.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="446.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,439.6 146.5,439.6 146.5,447.6 138.5,447.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="446.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,439.6 154.5,439.6 154.5,447.6 146.5,447.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="446.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,439.6 172.5,439.6 172.5,447.6 164.5,447.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,439.6 180.5,439.6 180.5,447.6 172.5,447.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,439.6 188.5,439.6 188.5,447.6 180.5,447.6" fill="rgb(234,196,13)"/>
+<polygon points="188.5,439.6 196.5,439.6 196.5,447.6 188.5,447.6" fill="rgb(172,203,58)"/>
+<polygon points="196.5,439.6 204.5,439.6 204.5,447.6 196.5,447.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,439.6 222.5,439.6 222.5,447.6 214.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,439.6 230.5,439.6 230.5,447.6 222.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,439.6 238.5,439.6 238.5,447.6 230.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,439.6 246.5,439.6 246.5,447.6 238.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,439.6 254.5,439.6 254.5,447.6 246.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,439.6 262.5,439.6 262.5,447.6 254.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,439.6 270.5,439.6 270.5,447.6 262.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,439.6 278.5,439.6 278.5,447.6 270.5,447.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,447.6 122.5,447.6 122.5,455.6 114.5,455.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="454.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,447.6 130.5,447.6 130.5,455.6 122.5,455.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="454.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,447.6 138.5,447.6 138.5,455.6 130.5,455.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="454.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,447.6 146.5,447.6 146.5,455.6 138.5,455.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="454.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,447.6 154.5,447.6 154.5,455.6 146.5,455.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="454.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,447.6 172.5,447.6 172.5,455.6 164.5,455.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,447.6 180.5,447.6 180.5,455.6 172.5,455.6" fill="rgb(207,199,32)"/>
+<polygon points="180.5,447.6 188.5,447.6 188.5,455.6 180.5,455.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,447.6 196.5,447.6 196.5,455.6 188.5,455.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,447.6 204.5,447.6 204.5,455.6 196.5,455.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,447.6 222.5,447.6 222.5,455.6 214.5,455.6" fill="rgb(205,0,205)"/>
+<polygon points="222.5,447.6 230.5,447.6 230.5,455.6 222.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,447.6 238.5,447.6 238.5,455.6 230.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,447.6 246.5,447.6 246.5,455.6 238.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,447.6 254.5,447.6 254.5,455.6 246.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,447.6 262.5,447.6 262.5,455.6 254.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,447.6 270.5,447.6 270.5,455.6 262.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,447.6 278.5,447.6 278.5,455.6 270.5,455.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,455.6 122.5,455.6 122.5,463.6 114.5,463.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="462.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,455.6 130.5,455.6 130.5,463.6 122.5,463.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="462.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,455.6 138.5,455.6 138.5,463.6 130.5,463.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="462.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,455.6 146.5,455.6 146.5,463.6 138.5,463.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="462.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,455.6 154.5,455.6 154.5,463.6 146.5,463.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="462.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,455.6 172.5,455.6 172.5,463.6 164.5,463.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,455.6 180.5,455.6 180.5,463.6 172.5,463.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,455.6 188.5,455.6 188.5,463.6 180.5,463.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,455.6 196.5,455.6 196.5,463.6 188.5,463.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,455.6 204.5,455.6 204.5,463.6 196.5,463.6" fill="rgb(246,194,4)"/>
+<polygon points="214.5,455.6 222.5,455.6 222.5,463.6 214.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,455.6 230.5,455.6 230.5,463.6 222.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,455.6 238.5,455.6 238.5,463.6 230.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,455.6 246.5,455.6 246.5,463.6 238.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,455.6 254.5,455.6 254.5,463.6 246.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,455.6 262.5,455.6 262.5,463.6 254.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,455.6 270.5,455.6 270.5,463.6 262.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,455.6 278.5,455.6 278.5,463.6 270.5,463.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,463.6 122.5,463.6 122.5,471.6 114.5,471.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="470.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,463.6 130.5,463.6 130.5,471.6 122.5,471.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="470.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,463.6 138.5,463.6 138.5,471.6 130.5,471.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="470.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,463.6 146.5,463.6 146.5,471.6 138.5,471.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="470.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,463.6 154.5,463.6 154.5,471.6 146.5,471.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="470.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,463.6 172.5,463.6 172.5,471.6 164.5,471.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,463.6 180.5,463.6 180.5,471.6 172.5,471.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,463.6 188.5,463.6 188.5,471.6 180.5,471.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,463.6 196.5,463.6 196.5,471.6 188.5,471.6" fill="rgb(154,206,70)"/>
+<polygon points="196.5,463.6 204.5,463.6 204.5,471.6 196.5,471.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,463.6 222.5,463.6 222.5,471.6 214.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,463.6 230.5,463.6 230.5,471.6 222.5,471.6" fill="rgb(205,0,205)"/>
+<polygon points="230.5,463.6 238.5,463.6 238.5,471.6 230.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,463.6 246.5,463.6 246.5,471.6 238.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,463.6 254.5,463.6 254.5,471.6 246.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,463.6 262.5,463.6 262.5,471.6 254.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,463.6 270.5,463.6 270.5,471.6 262.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,463.6 278.5,463.6 278.5,471.6 270.5,471.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,471.6 122.5,471.6 122.5,479.6 114.5,479.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="478.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,471.6 130.5,471.6 130.5,479.6 122.5,479.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="478.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,471.6 138.5,471.6 138.5,479.6 130.5,479.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="478.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,471.6 146.5,471.6 146.5,479.6 138.5,479.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="478.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,471.6 154.5,471.6 154.5,479.6 146.5,479.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="478.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,471.6 172.5,471.6 172.5,479.6 164.5,479.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,471.6 180.5,471.6 180.5,479.6 172.5,479.6" fill="rgb(228,196,17)"/>
+<polygon points="180.5,471.6 188.5,471.6 188.5,479.6 180.5,479.6" fill="rgb(188,201,46)"/>
+<polygon points="188.5,471.6 196.5,471.6 196.5,479.6 188.5,479.6" fill="rgb(219,198,24)"/>
+<polygon points="196.5,471.6 204.5,471.6 204.5,479.6 196.5,479.6" fill="rgb(222,197,22)"/>
+<polygon points="214.5,471.6 222.5,471.6 222.5,479.6 214.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,471.6 230.5,471.6 230.5,479.6 222.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,471.6 238.5,471.6 238.5,479.6 230.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,471.6 246.5,471.6 246.5,479.6 238.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,471.6 254.5,471.6 254.5,479.6 246.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,471.6 262.5,471.6 262.5,479.6 254.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,471.6 270.5,471.6 270.5,479.6 262.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,471.6 278.5,471.6 278.5,479.6 270.5,479.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,479.6 122.5,479.6 122.5,487.6 114.5,487.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="486.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,479.6 130.5,479.6 130.5,487.6 122.5,487.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="486.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,479.6 138.5,479.6 138.5,487.6 130.5,487.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="486.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,479.6 146.5,479.6 146.5,487.6 138.5,487.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="486.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,479.6 154.5,479.6 154.5,487.6 146.5,487.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="486.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,479.6 172.5,479.6 172.5,487.6 164.5,487.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,479.6 180.5,479.6 180.5,487.6 172.5,487.6" fill="rgb(224,197,20)"/>
+<polygon points="180.5,479.6 188.5,479.6 188.5,487.6 180.5,487.6" fill="rgb(188,201,46)"/>
+<polygon points="188.5,479.6 196.5,479.6 196.5,487.6 188.5,487.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,479.6 204.5,479.6 204.5,487.6 196.5,487.6" fill="rgb(220,197,23)"/>
+<polygon points="214.5,479.6 222.5,479.6 222.5,487.6 214.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,479.6 230.5,479.6 230.5,487.6 222.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,479.6 238.5,479.6 238.5,487.6 230.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,479.6 246.5,479.6 246.5,487.6 238.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,479.6 254.5,479.6 254.5,487.6 246.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,479.6 262.5,479.6 262.5,487.6 254.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,479.6 270.5,479.6 270.5,487.6 262.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,479.6 278.5,479.6 278.5,487.6 270.5,487.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,487.6 122.5,487.6 122.5,495.6 114.5,495.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="494.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,487.6 130.5,487.6 130.5,495.6 122.5,495.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="494.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,487.6 138.5,487.6 138.5,495.6 130.5,495.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="494.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,487.6 146.5,487.6 146.5,495.6 138.5,495.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="494.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,487.6 154.5,487.6 154.5,495.6 146.5,495.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="494.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,487.6 172.5,487.6 172.5,495.6 164.5,495.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,487.6 180.5,487.6 180.5,495.6 172.5,495.6" fill="rgb(120,210,94)"/>
+<polygon points="180.5,487.6 188.5,487.6 188.5,495.6 180.5,495.6" fill="rgb(128,209,88)"/>
+<polygon points="188.5,487.6 196.5,487.6 196.5,495.6 188.5,495.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,487.6 204.5,487.6 204.5,495.6 196.5,495.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,487.6 222.5,487.6 222.5,495.6 214.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,487.6 230.5,487.6 230.5,495.6 222.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,487.6 238.5,487.6 238.5,495.6 230.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,487.6 246.5,487.6 246.5,495.6 238.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,487.6 254.5,487.6 254.5,495.6 246.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,487.6 262.5,487.6 262.5,495.6 254.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,487.6 270.5,487.6 270.5,495.6 262.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,487.6 278.5,487.6 278.5,495.6 270.5,495.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,495.6 122.5,495.6 122.5,503.6 114.5,503.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="502.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,495.6 130.5,495.6 130.5,503.6 122.5,503.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="502.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,495.6 138.5,495.6 138.5,503.6 130.5,503.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="502.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,495.6 146.5,495.6 146.5,503.6 138.5,503.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="502.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,495.6 154.5,495.6 154.5,503.6 146.5,503.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="502.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,495.6 172.5,495.6 172.5,503.6 164.5,503.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,495.6 180.5,495.6 180.5,503.6 172.5,503.6" fill="rgb(224,197,20)"/>
+<polygon points="180.5,495.6 188.5,495.6 188.5,503.6 180.5,503.6" fill="rgb(197,200,39)"/>
+<polygon points="188.5,495.6 196.5,495.6 196.5,503.6 188.5,503.6" fill="rgb(181,202,51)"/>
+<polygon points="196.5,495.6 204.5,495.6 204.5,503.6 196.5,503.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,495.6 222.5,495.6 222.5,503.6 214.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,495.6 230.5,495.6 230.5,503.6 222.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,495.6 238.5,495.6 238.5,503.6 230.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,495.6 246.5,495.6 246.5,503.6 238.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,495.6 254.5,495.6 254.5,503.6 246.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,495.6 262.5,495.6 262.5,503.6 254.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,495.6 270.5,495.6 270.5,503.6 262.5,503.6" fill="rgb(205,0,205)"/>
+<polygon points="270.5,495.6 278.5,495.6 278.5,503.6 270.5,503.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,503.6 122.5,503.6 122.5,511.6 114.5,511.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="510.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,503.6 130.5,503.6 130.5,511.6 122.5,511.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="510.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,503.6 138.5,503.6 138.5,511.6 130.5,511.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="510.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,503.6 146.5,503.6 146.5,511.6 138.5,511.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="510.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,503.6 154.5,503.6 154.5,511.6 146.5,511.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="510.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,503.6 172.5,503.6 172.5,511.6 164.5,511.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,503.6 180.5,503.6 180.5,511.6 172.5,511.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,503.6 188.5,503.6 188.5,511.6 180.5,511.6" fill="rgb(157,205,68)"/>
+<polygon points="188.5,503.6 196.5,503.6 196.5,511.6 188.5,511.6" fill="rgb(252,194,1)"/>
+<polygon points="196.5,503.6 204.5,503.6 204.5,511.6 196.5,511.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,503.6 222.5,503.6 222.5,511.6 214.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="222.5,503.6 230.5,503.6 230.5,511.6 222.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,503.6 238.5,503.6 238.5,511.6 230.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,503.6 246.5,503.6 246.5,511.6 238.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,503.6 254.5,503.6 254.5,511.6 246.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,503.6 262.5,503.6 262.5,511.6 254.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,503.6 270.5,503.6 270.5,511.6 262.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,503.6 278.5,503.6 278.5,511.6 270.5,511.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,511.6 122.5,511.6 122.5,519.6 114.5,519.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="518.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,511.6 130.5,511.6 130.5,519.6 122.5,519.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="518.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,511.6 138.5,511.6 138.5,519.6 130.5,519.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="518.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,511.6 146.5,511.6 146.5,519.6 138.5,519.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="518.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,511.6 154.5,511.6 154.5,519.6 146.5,519.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="518.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,511.6 172.5,511.6 172.5,519.6 164.5,519.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,511.6 180.5,511.6 180.5,519.6 172.5,519.6" fill="rgb(252,194,1)"/>
+<polygon points="180.5,511.6 188.5,511.6 188.5,519.6 180.5,519.6" fill="rgb(252,194,1)"/>
+<polygon points="188.5,511.6 196.5,511.6 196.5,519.6 188.5,519.6" fill="rgb(224,197,20)"/>
+<polygon points="196.5,511.6 204.5,511.6 204.5,519.6 196.5,519.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,511.6 222.5,511.6 222.5,519.6 214.5,519.6" fill="rgb(205,0,205)"/>
+<polygon points="222.5,511.6 230.5,511.6 230.5,519.6 222.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,511.6 238.5,511.6 238.5,519.6 230.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,511.6 246.5,511.6 246.5,519.6 238.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,511.6 254.5,511.6 254.5,519.6 246.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,511.6 262.5,511.6 262.5,519.6 254.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,511.6 270.5,511.6 270.5,519.6 262.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,511.6 278.5,511.6 278.5,519.6 270.5,519.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,519.6 122.5,519.6 122.5,527.6 114.5,527.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="118.5" y="526.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="122.5,519.6 130.5,519.6 130.5,527.6 122.5,527.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="126.5" y="526.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="130.5,519.6 138.5,519.6 138.5,527.6 130.5,527.6" fill="rgb(230,127,0)"/><text xml:space="preserve" x="134.5" y="526.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4</text>
+<polygon points="138.5,519.6 146.5,519.6 146.5,527.6 138.5,527.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="142.5" y="526.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="146.5,519.6 154.5,519.6 154.5,527.6 146.5,527.6" fill="rgb(205,0,0)"/><text xml:space="preserve" x="150.5" y="526.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5</text>
+<polygon points="164.5,519.6 172.5,519.6 172.5,527.6 164.5,527.6" fill="rgb(252,194,1)"/>
+<polygon points="172.5,519.6 180.5,519.6 180.5,527.6 172.5,527.6" fill="rgb(128,209,88)"/>
+<polygon points="180.5,519.6 188.5,519.6 188.5,527.6 180.5,527.6" fill="rgb(196,200,40)"/>
+<polygon points="188.5,519.6 196.5,519.6 196.5,527.6 188.5,527.6" fill="rgb(250,194,1)"/>
+<polygon points="196.5,519.6 204.5,519.6 204.5,527.6 196.5,527.6" fill="rgb(252,194,1)"/>
+<polygon points="214.5,519.6 222.5,519.6 222.5,527.6 214.5,527.6" fill="rgb(205,0,205)"/>
+<polygon points="222.5,519.6 230.5,519.6 230.5,527.6 222.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="230.5,519.6 238.5,519.6 238.5,527.6 230.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="238.5,519.6 246.5,519.6 246.5,527.6 238.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="246.5,519.6 254.5,519.6 254.5,527.6 246.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="254.5,519.6 262.5,519.6 262.5,527.6 254.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="262.5,519.6 270.5,519.6 270.5,527.6 262.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="270.5,519.6 278.5,519.6 278.5,527.6 270.5,527.6" fill="rgb(255,255,255)"/>
+<polygon points="114.5,335.6 154.5,335.6 154.5,527.6 114.5,527.6" fill="none" stroke="black" stroke-width="1"/>
+<polygon points="164.5,335.6 204.5,335.6 204.5,527.6 164.5,527.6" fill="none" stroke="black" stroke-width="1"/>
+<polygon points="214.5,335.6 278.5,335.6 278.5,527.6 214.5,527.6" fill="none" stroke="black" stroke-width="1"/>
+<text xml:space="preserve" x="149.25" y="560.6" font-family="Calibri" font-size="8" text-anchor="middle">ClusterAssignment</text>
+<polygon points="99.25,567.6 119.25,567.6 119.25,587.6 99.25,587.6" fill="rgb(0,205,0)"/><polygon points="99.25,567.6 119.25,567.6 119.25,587.6 99.25,587.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="109.25" y="580.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">1.0</text>
+<polygon points="119.25,567.6 139.25,567.6 139.25,587.6 119.25,587.6" fill="rgb(127,230,0)"/><polygon points="119.25,567.6 139.25,567.6 139.25,587.6 119.25,587.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="129.25" y="580.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">2.0</text>
+<polygon points="139.25,567.6 159.25,567.6 159.25,587.6 139.25,587.6" fill="rgb(255,255,0)"/><polygon points="139.25,567.6 159.25,567.6 159.25,587.6 139.25,587.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="149.25" y="580.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">3.0</text>
+<polygon points="159.25,567.6 179.25,567.6 179.25,587.6 159.25,587.6" fill="rgb(230,127,0)"/><polygon points="159.25,567.6 179.25,567.6 179.25,587.6 159.25,587.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="169.25" y="580.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">4.0</text>
+<polygon points="179.25,567.6 199.25,567.6 199.25,587.6 179.25,587.6" fill="rgb(205,0,0)"/><polygon points="179.25,567.6 199.25,567.6 199.25,587.6 179.25,587.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="189.25" y="580.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">5.0</text>
+<text xml:space="preserve" x="149.25" y="620.6" font-family="Calibri" font-size="8" text-anchor="middle">Expression</text>
+<polygon points="99.25,627.6 119.25,627.6 119.25,647.6 99.25,647.6" fill="rgb(0,27,135)"/><polygon points="99.25,627.6 119.25,627.6 119.25,647.6 99.25,647.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="109.25" y="640.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">0.0</text>
+<polygon points="119.25,627.6 139.25,627.6 139.25,647.6 119.25,647.6" fill="rgb(24,123,140)"/><polygon points="119.25,627.6 139.25,627.6 139.25,647.6 119.25,647.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="129.25" y="640.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">0.8</text>
+<polygon points="139.25,627.6 159.25,627.6 159.25,647.6 139.25,647.6" fill="rgb(49,219,146)"/><polygon points="139.25,627.6 159.25,627.6 159.25,647.6 139.25,647.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="149.25" y="640.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">1.5</text>
+<polygon points="159.25,627.6 179.25,627.6 179.25,647.6 159.25,647.6" fill="rgb(150,206,73)"/><polygon points="159.25,627.6 179.25,627.6 179.25,647.6 159.25,647.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="169.25" y="640.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">2.2</text>
+<polygon points="179.25,627.6 199.25,627.6 199.25,647.6 179.25,647.6" fill="rgb(252,194,1)"/><polygon points="179.25,627.6 199.25,627.6 199.25,647.6 179.25,647.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="189.25" y="640.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">3.0</text>
+<text xml:space="preserve" x="149.25" y="680.6" font-family="Calibri" font-size="8" text-anchor="middle">PANTHERclass</text>
+<polygon points="99.25,687.6 119.25,687.6 119.25,707.6 99.25,707.6" fill="rgb(255,255,255)"/><polygon points="99.25,687.6 119.25,687.6 119.25,707.6 99.25,707.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="109.25" y="700.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">0.0</text>
+<polygon points="119.25,687.6 139.25,687.6 139.25,707.6 119.25,707.6" fill="rgb(242,191,242)"/><polygon points="119.25,687.6 139.25,687.6 139.25,707.6 119.25,707.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="129.25" y="700.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">0.2</text>
+<polygon points="139.25,687.6 159.25,687.6 159.25,707.6 139.25,707.6" fill="rgb(230,127,230)"/><polygon points="139.25,687.6 159.25,687.6 159.25,707.6 139.25,707.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="149.25" y="700.433" font-family="Calibri" font-size="7.5" fill="rgb(0,0,0)" text-anchor="middle">0.5</text>
+<polygon points="159.25,687.6 179.25,687.6 179.25,707.6 159.25,707.6" fill="rgb(217,63,217)"/><polygon points="159.25,687.6 179.25,687.6 179.25,707.6 159.25,707.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="169.25" y="700.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">0.8</text>
+<polygon points="179.25,687.6 199.25,687.6 199.25,707.6 179.25,707.6" fill="rgb(205,0,205)"/><polygon points="179.25,687.6 199.25,687.6 199.25,707.6 179.25,707.6" fill="none" stroke="black" stroke-width="1"/><text xml:space="preserve" x="189.25" y="700.433" font-family="Calibri" font-size="7.5" fill="rgb(255,255,255)" text-anchor="middle">1.0</text>
+</svg>

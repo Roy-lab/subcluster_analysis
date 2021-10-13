@@ -1,0 +1,54 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	46.68	0.000878744	facial_nerve_structural_organization	HOXB2;NRP2;SEMA3A
+c1	14.09	0.000254236	positive_regulation_of_synapse_assembly	ADGRL2;CLSTN2;LRRN1;LRRTM3;NTRK2;SLITRK5
+c1	13.34	0.0101613	adult_behavior	GABRG2;PCDH17;SLITRK5
+c1	13.10	0.00251922	negative_chemotaxis	EFNA5;NRP2;SEMA3A;SEMA4D
+c1	11.85	0.00319444	embryonic_skeletal_system_morphogenesis	HOXA4;HOXB2;HOXB4;HOXB5
+c1	10.67	0.0158535	dendrite_morphogenesis	SEMA3A;SLITRK5;VLDLR
+c1	10.37	0.0158535	glycosaminoglycan_biosynthetic_process	AGRN;HS3ST5;HS6ST2
+c1	10.37	0.0158535	skeletal_system_morphogenesis	ARID5B;HOXB2;HOXB4
+c1	8.68	0.0210476	neural_crest_cell_migration	NRP2;SEMA3A;SEMA4D
+c1	7.78	0.0268646	regulation_of_postsynaptic_membrane_potential	GABRA2;GABRG2;GRIA1
+
+c2	69.40	4.9725e-05	negative_chemotaxis	EFNA5;NRP2;SEMA6D
+c2	12.38	0.00414456	axon_guidance	EFNA5;NRP2;SEMA6D
+c2	5.15	0.0235716	nervous_system_development	EFNA5;NRP2;SEMA6D
+c2	3.77	0.0235716	multicellular_organism_development	EFNA5;GREB1L;NRP2;SEMA6D
+
+c3	97.67	1.52199e-05	endocardial_cushion_formation	BMP7;ROBO1;ROBO2
+c3	36.18	1.84392e-06	metanephros_development	BMP7;IRX1;IRX2;LHX1;ROBO2
+c3	27.91	6.468e-07	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB7;HOXB8;HOXB9
+c3	25.48	0.000648173	outflow_tract_septum_morphogenesis	RARB;ROBO1;ROBO2
+c3	22.98	0.0001161	ureteric_bud_development	BMP7;LHX1;RARB;ROBO2
+c3	22.54	0.000885794	cell_development	BMP7;IRX1;IRX2
+c3	22.20	5.20601e-10	anterior/posterior_pattern_specification	HOXA6;HOXA7;HOXA9;HOXB7;HOXB8;HOXB9;HOXC6;HOXD8;LHX1;TSHZ1
+c3	21.71	0.000123818	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXB9;HOXC6
+c3	21.71	0.000123818	positive_regulation_of_axonogenesis	PLXNA4;ROBO1;ROBO2;SLITRK1
+c3	20.93	0.00104639	ventricular_septum_morphogenesis	CITED2;ROBO1;ROBO2
+
+c4	20.68	0.0111515	positive_regulation_of_vascular_permeability	FGFBP3;PTP4A3;VEGFA
+c4	13.79	0.00835171	glutamate_receptor_signaling_pathway	FMR1;GRID2;GRIK1;PLCB1
+c4	13.79	0.0184151	muscle_cell_differentiation	ASF1A;QKI;WNT5B
+c4	12.54	0.00418065	proximal/distal_pattern_formation	HOXA10;HOXA9;HOXB9;HOXC9;HOXD9
+c4	11.03	0.0231123	negative_regulation_of_cAMP-mediated_signaling	PDE10A;PDE4D;RGS2
+c4	10.72	0.000685505	embryonic_skeletal_system_development	HOXA9;HOXB9;HOXC6;HOXC9;HOXD9;PCSK5;SULF2
+c4	10.34	0.0231123	response_to_corticosterone	CDKN1A;FOS;TH
+c4	10.34	0.0231123	positive_regulation_of_dendrite_development	BMP7;DAB2IP;LRP8
+c4	10.34	0.0231123	regulation_of_release_of_sequestered_calcium_ion_into_cytosol_by_sarcoplasmic_reticulum	CAMK2D;GSTO1;PDE4D
+c4	10.34	0.0231123	regulation_of_ARF_protein_signal_transduction	IQSEC1;IQSEC3;PSD
+
+c5	5.72	0.00916946	regulation_of_transcription,_DNA-templated	HOXB4;HOXC5;MYC;ZNF703
+c5	5.66	0.0189336	multicellular_organism_development	EPHA3;HOXB4;HOXC5
+c5	3.79	0.0369619	regulation_of_transcription_by_RNA_polymerase_II	HOXB4;HOXC5;MYC
+
+c6	26.44	0.000241966	glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIN2A;PLCB1
+c6	24.40	0.00209555	presynapse_assembly	CNTN5;EFNB2;NLGN1
+c6	21.88	8.032e-06	regulation_of_NMDA_receptor_activity	DAPK1;DLG2;GRIA3;GRIN2A;NLGN1;OPRM1
+c6	19.23	0.000581637	proximal/distal_pattern_formation	HOXA10;HOXA9;HOXC9;HOXD9
+c6	15.11	6.01495e-05	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB7;HOXC9;HOXD9
+c6	14.69	0.000330724	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXC6;HOXC9;HOXD9
+c6	13.79	0.00756827	ionotropic_glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIN2A
+c6	13.79	0.00756827	synaptic_membrane_adhesion	NLGN1;NTNG1;SLITRK1
+c6	12.20	0.0102432	motor_neuron_axon_guidance	PLXNA4;SEMA3A;SLIT2
+c6	12.02	9.32512e-07	anterior/posterior_pattern_specification	HOXA10;HOXA6;HOXA7;HOXA9;HOXB7;HOXC6;HOXC9;HOXD9;NR2F2;ZBTB16
+

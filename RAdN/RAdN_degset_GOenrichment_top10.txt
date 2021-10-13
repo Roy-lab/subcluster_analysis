@@ -1,0 +1,67 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	27.93	0.0012292	axon_extension_involved_in_axon_guidance	ALCAM;NRP2;SEMA3A;SLIT2
+c1	20.31	0.00256234	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;RIMS1;RIMS2;RIMS3
+c1	14.90	0.00434162	pulmonary_valve_morphogenesis	HEY1;ROBO1;ROBO2;SLIT2
+c1	12.41	0.00777441	positive_regulation_of_synaptic_transmission	KCTD13;RIMS1;RIMS2;RIMS3
+c1	10.47	0.023706	regulation_of_ARF_protein_signal_transduction	IQSEC1;PSD;PSD3
+c1	9.86	0.023706	retinal_ganglion_cell_axon_guidance	ALCAM;ROBO2;SLIT2
+c1	9.86	0.023706	mammary_gland_alveolus_development	ERBB4;SOCS2;VEGFA
+c1	9.86	0.023706	axonal_fasciculation	NCAM2;NRCAM;SEMA3A
+c1	9.86	0.023706	mRNA_destabilization	CNOT6L;FTO;MEX3D
+c1	9.31	0.0250661	positive_regulation_of_branching_involved_in_ureteric_bud_morphogenesis	HOXB7;LHX1;VEGFA
+
+c2	18.60	0.00240672	pattern_specification_process	APC2;BMP7;UNCX
+c2	15.61	0.00345082	negative_regulation_of_neuron_differentiation	BMP7;CNTN4;MEIS1
+c2	10.48	0.000960557	central_nervous_system_development	DNER;GRIK1;SERPINI1;SH3GL2;VCAN
+c2	9.46	0.00116529	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH4;CNTN4;PCDH17;PCDH8;PTPRT
+c2	8.83	0.0112043	anterior/posterior_pattern_specification	HOXA4;HOXB4;TSHZ1
+c2	7.82	0.00486364	animal_organ_morphogenesis	BMP7;FGF9;MEIS1;TLE3
+c2	6.29	0.0208487	cell_population_proliferation	HOXB4;LHX9;PAK5
+c2	5.25	0.0151705	axon_guidance	BMP7;CDH4;CNTN4;EPHB1
+c2	5.11	0.0153589	chemical_synaptic_transmission	GRIK1;GRIN2B;PCDH8;TAC1
+c2	4.98	0.000855706	nervous_system_development	APC2;BTBD3;CNTN4;EPHB1;GRIK1;MYT1L;RBFOX1;UNCX;ZNF423
+
+c3	27.77	0.000550088	tetrahydrofolate_interconversion	MTHFD2;MTHFD2L;SHMT2;TYMS
+c3	26.04	0.00393011	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-independent	B2M;HLA-C;LNPEP
+c3	23.14	0.00424187	cellular_response_to_leucine_starvation	RRAGD;SESN1;SESN2
+c3	23.14	0.00424187	tetrahydrofolate_metabolic_process	MTHFD2;SHMT2;TYMS
+c3	23.14	0.00424187	cellular_response_to_leucine	RRAGD;SESN1;SESN2
+c3	20.83	0.00549589	response_to_xenobiotic_stimulus	GSS;RHBDD3;TIGAR
+c3	17.36	0.00222701	negative_regulation_of_TORC1_signaling	ATM;FNIP1;SESN1;SESN2
+c3	17.36	0.00752329	positive_regulation_of_transcription_from_RNA_polymerase_II_promoter_in_response_to_endoplasmic_reticulum_stress	ATF3;CEBPB;DDIT3
+c3	14.88	0.00958541	DNA_damage_response,_signal_transduction_by_p53_class_mediator	PPM1D;SESN2;TRIAP1
+c3	13.02	0.0118486	regulation_of_extrinsic_apoptotic_signaling_pathway_via_death_domain_receptors	CFLAR;FAS;TNFRSF10B
+
+c4	8.16	0.014523	chorio-allantoic_fusion	BMP5;BMP7;LEF1;ZFP36L1
+c4	8.16	0.014523	melanosome_assembly	HPS1;RAB32;RAB38;TRAPPC6A
+c4	7.65	0.00314393	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-independent	B2M;HLA-A;HLA-B;HLA-C;HLA-E;LNPEP
+c4	6.80	0.0258712	cellular_response_to_UV-C	C9orf116;IMPACT;MDM2;TP53
+c4	6.80	0.0258712	negative_regulation_of_cardiac_muscle_hypertrophy_in_response_to_stress	ATP2B4;FOXO1;LMNA;SMAD3
+c4	6.80	0.0258712	DNA_methylation-dependent_heterochromatin_assembly	HDAC1;HELLS;MBD2;MBD3
+c4	6.80	0.0258712	regulation_of_removal_of_superoxide_radicals	BMP7;DHFR;FBLN5;NFE2L2
+c4	6.38	0.0144367	apical_junction_assembly	CTNNA1;PKN2;RHOC;VCL;WDR1
+c4	6.38	0.0144367	peptidyl-lysine_hydroxylation	FKBP10;P3H3;P3H4;PLOD1;PLOD2
+c4	5.83	0.0376649	cell_morphogenesis_involved_in_differentiation	CTNNB1;FAT3;LAMB2;MYH9
+
+c5	15.65	0.0223902	regulation_of_lipid_biosynthetic_process	ABCA3;FAM3A;MID1IP1
+c5	13.69	0.0223902	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-independent	HLA-A;HLA-B;HLA-C
+c5	13.69	0.0223902	detection_of_bacterium	HLA-A;HLA-B;HLA-DRB1
+c5	13.28	0.00903525	calcium_ion-regulated_exocytosis_of_neurotransmitter	DOC2B;RIMS3;SYT2;SYT7
+c5	12.17	0.0261416	fructose_1,6-bisphosphate_metabolic_process	ALDOC;PFKP;TIGAR
+c5	12.17	0.0261416	L-ascorbic_acid_metabolic_process	GSTO1;SLC2A1;SLC2A3
+c5	11.23	0.016064	neurotransmitter_biosynthetic_process	ACHE;ALDH9A1;SLC5A7;TH
+c5	10.14	0.00903525	regulation_of_calcium_ion-dependent_exocytosis	DOC2B;SYT13;SYT17;SYT2;SYT7
+c5	9.96	0.0394354	synapse_maturation	IGSF21;SEZ6;SYBU
+c5	9.96	0.0394354	suckling_behavior	CNTFR;GLS;POU4F1
+
+c6	15.32	0.00432351	L-aspartate_transmembrane_transport	SLC1A1;SLC1A2;SLC1A6;SLC25A12
+c6	15.32	0.0144682	segment_specification	BMI1;MAFB;MLLT3
+c6	13.93	0.001256	peripheral_nervous_system_neuron_development	ETV1;HOXD9;ISL1;NTRK2;POU4F1
+c6	13.13	0.0183721	positive_regulation_of_axon_extension_involved_in_axon_guidance	NRP1;SEMA5A;VEGFA
+c6	11.14	0.00942346	regulation_of_postsynaptic_density_assembly	GRID2;LRFN1;LRRTM2;NTRK3
+c6	10.21	0.00444598	L-glutamate_transmembrane_transport	SLC17A6;SLC1A1;SLC1A2;SLC1A6;SLC25A12
+c6	10.21	0.0282324	postsynaptic_neurotransmitter_receptor_diffusion_trapping	CACNG2;CACNG8;SHISA6
+c6	10.21	0.0282324	negative_regulation_of_sodium_ion_transmembrane_transporter_activity	CAMK2D;PRKCE;STK39
+c6	10.21	0.0282324	L-glutamate_import_across_plasma_membrane	SLC1A1;SLC1A2;SLC1A6
+c6	9.57	0.00450637	neuron_fate_specification	ISL1;MYT1L;NTRK3;POU4F1;TLX3
+

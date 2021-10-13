@@ -1,0 +1,26 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	24.36	0.0143899	negative_regulation_of_collateral_sprouting	BCL11A;DCC;EPHA7
+c1	12.18	0.045531	synaptic_transmission,_GABAergic	GABRA2;GABRA3;GABRG3
+c1	11.37	0.0481531	positive_regulation_of_neuron_migration	RAPGEF2;SEMA6A;SRGAP2C
+c1	9.88	0.0341565	cell_development	IRX3;IRX4;IRX5;MAF
+c1	4.37	0.0376615	axonogenesis	DCC;FGFR2;NTNG1;RTN4R;SLITRK1;SLITRK4;SLITRK5
+c1	3.48	0.0376615	neuron_differentiation	ASCL1;ATP2B2;IRX3;IRX4;IRX5;LHX5;MAP2K1;TRAPPC9;WNT5B
+c1	2.71	0.00153963	nervous_system_development	ASCL1;BEND6;CAMK1;CHRDL1;CHRM2;DCC;DPF3;EPHA7;GFRA1;LIMK1;MTR;NAV3;NELL1;NGFR;NTNG1;RAPGEF2;ROBO1;SEMA6A;SLITRK1;SRGAP2;SRGAP2C;TIMM8A;TRIM3;TRNP1
+
+c2
+
+c3	8.27	0.0159773	response_to_drug	BCHE;S100A10;TYMS
+c3	4.36	0.0319407	nervous_system_development	GBX2;MAB21L2;NES
+c3	3.22	0.0319407	multicellular_organism_development	CHST2;EDIL3;MAB21L2;NES
+
+c4	29.01	0.00176825	glutamate_receptor_signaling_pathway	GRIA3;GRIK1;GRIN2A
+c4	21.10	0.00364247	bone_morphogenesis	EXT1;FGFR2;TFAP2A
+c4	20.18	0.00379027	ionotropic_glutamate_receptor_signaling_pathway	GRIA3;GRIK1;GRIN2A
+c4	19.34	0.00395225	digestive_tract_development	FGFR2;KIT;LGR4
+c4	18.57	0.00403816	neuronal_action_potential	CACNA1G;KCNA2;KCND2
+c4	16.82	0.000558554	regulation_of_postsynaptic_membrane_potential	GABRG3;GRIA3;GRIK1;GRIN2A;KCND2
+c4	16.00	0.00462534	regulation_of_NMDA_receptor_activity	GRIA3;GRIN2A;RASGRF1
+c4	16.00	0.00462534	cellular_response_to_BMP_stimulus	BMP7;EXT1;SFRP1
+c4	15.47	0.00176825	pattern_specification_process	ASCL1;BMP7;HOXA5;SOSTDC1
+c4	15.47	0.00462534	cellular_response_to_fibroblast_growth_factor_stimulus	EXT1;FGFR2;SFRP1
+

@@ -1,0 +1,143 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset29
+
+clusterset30	13.57	0.00217009	positive_regulation_of_potassium_ion_transmembrane_transporter_activity	AKAP9;ANK2;ATP1B1;ATP1B2
+clusterset30	12.21	0.0122347	protein_localization_to_microtubule_plus-end	MAPRE1;MAPRE2;MAPRE3
+clusterset30	12.21	0.0122347	vocal_learning	CNTNAP2;NRXN1;NRXN2
+clusterset30	11.63	0.00389299	regulation_of_synaptic_vesicle_priming	NAPB;RAB3A;STX1B;STXBP1
+clusterset30	10.18	0.0185517	postsynaptic_density_protein_95_clustering	NLGN1;NRXN1;NRXN2
+clusterset30	10.18	0.00168919	neuron_projection_maintenance	APP;ATP1A3;DCTN1;MAP1A;PRNP
+clusterset30	10.18	4.36368e-06	regulation_of_microtubule_polymerization_or_depolymerization	CLASP2;MAPRE1;MAPRE2;MAPRE3;MAPT;STMN1;STMN2;STMN3;STMN4
+clusterset30	10.18	0.0185517	glucocorticoid_receptor_signaling_pathway	ARID1A;CALR;YWHAH
+clusterset30	10.18	0.000468017	negative_regulation_of_microtubule_polymerization	CLIP3;MAP2;MAPRE1;STMN1;STMN2;TUBB4A
+clusterset30	9.05	0.00809154	postsynaptic_neurotransmitter_receptor_internalization	CALY;DNM1;DNM3;EPS15
+
+clusterset31	5.33	0.0025915	positive_regulation_of_transcription_by_RNA_polymerase_II	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	4.26	0.00423575	regulation_of_transcription,_DNA-templated	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	4.17	0.0327465	positive_regulation_of_transcription,_DNA-templated	EBF3;EGR1;POU3F3
+clusterset31	3.75	0.00545003	regulation_of_transcription_by_RNA_polymerase_II	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	3.66	0.025406	multicellular_organism_development	EBF3;HOXC10;HOXD10;POU3F3
+
+clusterset32	8.78	0.00286366	multicellular_organism_development	SHB;TLL2;UNC5A
+
+clusterset33	3.99	0.0346758	multicellular_organism_development	PKDCC;SFRP2;SHROOM3
+
+clusterset34
+
+clusterset37	30.62	2.31387e-05	cytoplasmic_translation	RPL29;RPL32;RPL35A;RPS23;TMA7
+clusterset37	20.41	0.00286806	hormone-mediated_signaling_pathway	CRHR2;NR5A2;THRA
+clusterset37	17.92	0.00349077	tissue_development	BMP4;NR5A2;NTNG1
+clusterset37	13.76	0.000626386	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL29;RPL32;RPL35A;RPL37A;RPS23
+clusterset37	13.61	0.00630491	positive_regulation_of_synapse_assembly	LRTM2;OXTR;THBS2
+clusterset37	11.85	0.0084543	forebrain_development	BMP4;DLC1;SSTR1
+clusterset37	11.24	0.00110438	viral_transcription	RPL29;RPL32;RPL35A;RPL37A;RPS23
+clusterset37	10.47	0.00115867	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL29;RPL32;RPL35A;RPL37A;RPS23
+clusterset37	10.00	0.00349077	ossification	BMP4;CHRDL2;COL13A1;THRA
+clusterset37	8.85	0.01611	retrograde_vesicle-mediated_transport,_Golgi_to_endoplasmic_reticulum	GOLPH3;TMED7;TMEM115
+
+clusterset38
+
+clusterset39
+
+clusterset40
+
+clusterset41	8.42	0.00268027	G_protein-coupled_receptor_signaling_pathway	HTR1F;LGR6;NMS;NPY2R
+clusterset41	4.52	0.00422635	signal_transduction	HTR1F;INHBA;LGR6;NPY2R;WIF1
+clusterset41	3.99	0.0346758	multicellular_organism_development	MAB21L1;SIM1;WIF1
+
+clusterset42	119.80	5.89425e-05	heparan_sulfate_proteoglycan_biosynthetic_process,_polysaccharide_chain_biosynthetic_process	CSGALNACT1;NDST3;NDST4
+clusterset42	95.84	5.89425e-05	peripheral_nervous_system_neuron_development	ETV1;ISL1;POU4F1
+clusterset42	87.13	5.89425e-05	heparin_biosynthetic_process	CSGALNACT1;NDST3;NDST4
+clusterset42	63.90	9.66704e-05	neuron_fate_specification	ISL1;POU4F1;TLX3
+clusterset42	35.50	0.000504422	regulation_of_DNA-binding_transcription_factor_activity	POU4F1;POU4F2;SGK1
+clusterset42	23.96	0.00141941	positive_regulation_of_cell_differentiation	GHR;ISL1;POU4F2
+clusterset42	21.78	0.00146697	positive_regulation_of_tyrosine_phosphorylation_of_STAT_protein	GHR;IL18;ISL1
+clusterset42	21.78	0.00146697	neural_crest_cell_migration	ISL1;KITLG;SEMA3C
+clusterset42	19.17	0.00192841	myelination	ACSBG1;ADGRG6;CMTM8
+clusterset42	13.50	0.00447595	regulation_of_cell_growth	FAM107A;IGFBP5;SGK1
+
+clusterset43	38.71	0.00114734	regulation_of_postsynaptic_neurotransmitter_receptor_activity	DLGAP1;NPTX1;SHISA9
+clusterset43	26.32	0.00151229	negative_regulation_of_axon_extension_involved_in_axon_guidance	NRP1;SEMA3D;SEMA3E
+clusterset43	18.28	0.00323532	semaphorin-plexin_signaling_pathway	NRP1;SEMA3D;SEMA3E
+clusterset43	16.05	0.00415834	negative_chemotaxis	EFNA5;SEMA3D;SEMA3E
+clusterset43	15.13	0.00135626	synapse_organization	GRM5;LRRTM2;PRRT1;SEMA3E
+clusterset43	8.02	0.0241993	positive_regulation_of_peptidyl-tyrosine_phosphorylation	EFNA5;HTR2A;NRP1
+clusterset43	8.01	0.000255755	axon_guidance	ADAMTSL1;DCC;EFNA5;NGFR;NRP1;SEMA3D;SEMA3E;VSTM2L
+clusterset43	7.31	0.02844	cellular_calcium_ion_homeostasis	BCL2;GPR12;HTR2A
+clusterset43	6.52	0.0338382	cellular_protein_modification_process	AP3B1;ST3GAL1;ST8SIA4
+clusterset43	6.45	0.0338382	neuron_migration	DCC;NRP1;NTRK3
+
+clusterset44
+
+clusterset45
+
+clusterset46
+
+clusterset47
+
+clusterset48
+
+clusterset49	11.23	0.00138894	mitochondrial_acetyl-CoA_biosynthetic_process_from_pyruvate	DLD;MPC2;PDHA1;PDHB
+clusterset49	9.83	1.47839e-05	protein_deneddylation	COPS2;COPS3;COPS4;COPS6;COPS8;GPS1;TOR1A
+clusterset49	9.83	1.47839e-05	positive_regulation_of_establishment_of_protein_localization_to_telomere	CCT3;CCT4;CCT5;CCT6A;CCT7;CCT8;TCP1
+clusterset49	9.36	1.45999e-07	positive_regulation_of_telomerase_RNA_localization_to_Cajal_body	CCT3;CCT4;CCT5;CCT6A;CCT7;CCT8;NHP2;NOP10;RUVBL2;TCP1
+clusterset49	8.93	3.66774e-05	positive_regulation_of_protein_localization_to_Cajal_body	CCT3;CCT4;CCT5;CCT6A;CCT7;CCT8;TCP1
+clusterset49	8.77	8.84677e-21	mitochondrial_electron_transport,_NADH_to_ubiquinone	DLD;NDUFA1;NDUFA10;NDUFA11;NDUFA12;NDUFA13;NDUFA2;NDUFA3;NDUFA6;NDUFA8;NDUFA9;NDUFAF1;NDUFB1;NDUFB11;NDUFB2;NDUFB3;NDUFB4;NDUFB5;NDUFB8;NDUFB9;NDUFC1;NDUFC2;NDUFS2;NDUFS3;NDUFS4;NDUFS6;NDUFS7;NDUFS8;NDUFV1;NDUFV3
+clusterset49	8.64	1.04603e-05	mitochondrial_electron_transport,_ubiquinol_to_cytochrome_c	CYC1;UQCR11;UQCRB;UQCRC1;UQCRC2;UQCRFS1;UQCRH;UQCRQ
+clusterset49	8.42	0.0214484	protein_transport_to_vacuole_involved_in_ubiquitin-dependent_protein_catabolic_process_via_the_multivesicular_body_sorting_pathway	SNF8;VPS25;VPS28
+clusterset49	8.42	0.0214484	mitochondrial_electron_transport,_succinate_to_ubiquinone	SDHA;SDHAF2;SDHC
+clusterset49	8.42	0.0214484	regulation_of_anion_transport	AHCYL1;RAB11B;STC1
+
+clusterset50	81.80	3.38452e-05	neurotransmitter_secretion	GAD1;GAD2;SLC32A1
+clusterset50	17.66	0.00164271	chemical_synaptic_transmission	GAD1;GAD2;SLC6A5
+clusterset50	6.30	0.00523937	cell_differentiation	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	4.13	0.0178367	regulation_of_transcription,_DNA-templated	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	3.99	0.0346758	multicellular_organism_development	LBX1;LHX1;PAX2
+clusterset50	3.64	0.0221593	regulation_of_transcription_by_RNA_polymerase_II	LBX1;LHX1;NKX1-1;PAX2
+
+clusterset51	6.27	0.0090334	multicellular_organism_development	GADD45G;HOXB6;TSHZ2
+
+clusterset52	15.03	0.00773686	neuron_differentiation	IRX1;IRX2;LHX5
+clusterset52	10.79	0.0100006	chemical_synaptic_transmission	CDH8;GABRG3;PNOC
+
+clusterset53	30.96	0.00059582	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL19;RPL21;RPLP2
+clusterset53	25.28	0.00059582	viral_transcription	RPL19;RPL21;RPLP2
+clusterset53	23.55	0.00059582	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL19;RPL21;RPLP2
+clusterset53	19.40	0.000789323	translational_initiation	RPL19;RPL21;RPLP2
+clusterset53	9.63	0.00394882	translation	RPL19;RPL21;RPLP2
+clusterset53	7.02	0.00287196	nervous_system_development	EFNB3;OLFM1;SLC1A2;SMARCD3
+
+clusterset54
+
+clusterset55
+
+clusterset56	97.97	1.69065e-07	proximal/distal_pattern_formation	HOXA10;HOXA9;HOXB9;HOXC9
+clusterset56	81.64	1.27027e-08	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXB9;HOXC6;HOXC9
+clusterset56	63.90	3.65325e-08	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB9;HOXC9
+clusterset56	54.54	4.56973e-13	anterior/posterior_pattern_specification	HOXA10;HOXA6;HOXA7;HOXA9;HOXB9;HOXC6;HOXC9;HOXD8;NR2F2
+clusterset56	16.33	0.00131523	transcription,_DNA-templated	HOXA9;HOXB9;HOXC9
+clusterset56	7.61	1.17955e-08	multicellular_organism_development	CDH6;HOXA10;HOXA6;HOXA7;HOXA9;HOXB9;HOXC6;HOXC9;HOXD8;MAB21L2;OTP;SEMA5A;UNCX
+clusterset56	6.36	1.27027e-08	regulation_of_transcription,_DNA-templated	HOXA10;HOXA6;HOXA7;HOXA9;HOXB9;HOXC6;HOXC9;HOXD8;NR2F2;OTP;POU2F2;UNCX;ZFHX2;ZFHX3
+clusterset56	6.02	0.0163021	regulation_of_gene_expression	HOXA10;HOXA9;UNCX
+clusterset56	5.20	3.32554e-07	regulation_of_transcription_by_RNA_polymerase_II	HOXA10;HOXA6;HOXA7;HOXA9;HOXB9;HOXC6;HOXC9;HOXD8;NR2F2;POU2F2;UNCX;ZFHX2;ZFHX3
+clusterset56	4.55	0.000402323	positive_regulation_of_transcription_by_RNA_polymerase_II	HOXA10;HOXA7;HOXA9;HOXB9;HOXD8;NR2F2;POU2F2;ZFHX3
+
+clusterset57
+
+clusterset58	39.06	2.17988e-05	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CDH2;CDH4;IGSF21;NECTIN1
+clusterset58	29.99	0.000311036	adherens_junction_organization	CDH2;CDH4;NECTIN1
+clusterset58	13.90	9.49585e-05	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH2;CDH4;IGSF21;NECTIN1;PTPRT
+clusterset58	10.63	0.000909028	cell-cell_adhesion	CDH2;CDH4;NECTIN1;NEGR1
+clusterset58	10.50	0.00335094	protein-containing_complex_assembly	CHCHD10;RIMS1;WASF3
+clusterset58	4.37	0.00306886	cell_adhesion	AATF;CDH2;CDH4;NECTIN1;NEGR1;PTPRT
+
+clusterset59
+
+clusterset60
+
+clusterset61
+
+clusterset62
+
+clusterset64
+

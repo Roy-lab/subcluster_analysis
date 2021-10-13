@@ -1,0 +1,133 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset35	57.57	0.000381668	metanephros_development	IRX1;IRX2;LHX1
+clusterset35	34.30	0.000791568	cerebellum_development	GBX2;LHX1;LHX5
+clusterset35	18.11	0.00204523	sodium_ion_transmembrane_transport	KCNK1;SLC24A2;SLC6A5
+clusterset35	14.72	0.000791568	cell-cell_signaling	LHX1;LHX5;SFRP2;SST
+clusterset35	14.52	0.000791568	neuron_differentiation	IRX1;IRX2;LHX1;LHX5
+clusterset35	12.79	0.00420062	potassium_ion_transport	KCNF1;KCNK1;SLC24A2
+clusterset35	12.79	0.00420062	potassium_ion_transmembrane_transport	KCNF1;KCNK1;SLC24A2
+clusterset35	7.33	0.0178888	chemical_synaptic_transmission	GAD2;SLC6A5;SST
+clusterset35	6.08	0.0266887	response_to_drug	GAD2;SFRP2;SST
+clusterset35	5.72	0.00204162	ion_transport	CACNA2D3;KCNF1;KCNK1;SLC24A2;SLC30A3;SLC32A1
+
+clusterset36	15.22	0.00428111	protein_folding	DNAJA1;HSPA8;PPIA
+clusterset36	9.58	0.00888249	mRNA_splicing,_via_spliceosome	HNRNPK;HSPA8;UBL5
+clusterset36	8.46	0.00428111	mRNA_processing	AURKAIP1;HNRNPK;HSPA8;SAP18
+clusterset36	8.00	0.00925989	RNA_splicing	HNRNPK;HSPA8;SAP18
+clusterset36	5.73	0.00888249	viral_process	HNRNPK;HSPA8;PPIA;VDAC1
+clusterset36	5.11	0.0260934	negative_regulation_of_apoptotic_process	DNAJA1;HNRNPK;VDAC1
+clusterset36	4.13	0.0388429	ion_transport	ATP5F1A;ATP5F1E;VDAC1
+clusterset36	3.89	0.0394307	apoptotic_process	GAPDH;PPIA;VDAC1
+
+clusterset39	19.83	0.000328172	intracellular_protein_transport	PDCD6;RAB5C;SEC61G
+
+clusterset40	22.85	0.00190342	central_nervous_system_development	GRIK1;RELN;ROBO2
+clusterset40	14.19	0.00382616	axon_guidance	POU4F2;RELN;ROBO2
+clusterset40	5.52	0.0358247	viral_process	CLEC1B;NPM1;RAN
+
+clusterset41	42.26	7.98694e-10	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	34.51	2.24819e-09	viral_transcription	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	32.15	2.77973e-09	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	30.27	7.98694e-10	translational_initiation	COPS5;RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	16.45	0.00103198	proton_transmembrane_transport	ATP5MF;ATP6V1G1;COX7A2L
+clusterset41	15.08	4.94033e-08	translation	COPS5;RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	6.86	0.0104934	protein_deubiquitination	COPS5;PSMA7;UBA52
+
+clusterset42	40.46	9.88058e-05	neuron_differentiation	LMX1B;POU4F1;TLX3
+clusterset42	10.88	9.88058e-05	multicellular_organism_development	EBF1;LMX1B;POU4F1;TLX3;VEGFC
+clusterset42	8.10	0.000159148	regulation_of_transcription,_DNA-templated	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	7.16	0.000216995	regulation_of_transcription_by_RNA_polymerase_II	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	6.15	0.00955698	positive_regulation_of_transcription_by_RNA_polymerase_II	LMX1B;PHOX2A;POU4F1
+
+clusterset43	10.79	0.00364406	protein_polyubiquitination	PSMA3;RBX1;UBE2V2
+clusterset43	6.87	0.00364406	viral_process	PSMA3;RBX1;RTN3;TUFM
+clusterset43	4.54	0.0260016	oxidation-reduction_process	NDUFA12;UQCRB;UQCRH
+
+clusterset44
+
+clusterset45	42.26	1.79706e-09	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS18;RPS4X
+clusterset45	34.51	3.79382e-09	viral_transcription	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS18;RPS4X
+clusterset45	32.15	4.16959e-09	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS18;RPS4X
+clusterset45	26.49	1.21639e-08	translational_initiation	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS18;RPS4X
+clusterset45	13.20	1.15979e-06	translation	RPL10;RPL13;RPL3;RPL41;RPLP1;RPS18;RPS4X
+clusterset45	5.54	0.0209798	RNA_splicing	ARL6IP4;CWC15;HNRNPA1
+clusterset45	5.25	0.00337681	nervous_system_development	APLP1;CRMP1;DCX;EVL;PAFAH1B3
+clusterset45	4.39	0.0336277	mRNA_processing	ARL6IP4;CWC15;HNRNPA1
+
+clusterset46	9.46	0.014507	axon_guidance	BDNF;CNTN4;SEMA3A
+clusterset46	6.50	0.00648016	nervous_system_development	BDNF;CBLN1;CNTN4;SEMA3A;UNCX
+clusterset46	4.21	0.014507	cell_differentiation	RXRG;SEMA3A;TENM3;UNCX;VSTM2A
+
+clusterset47	72.77	2.4581e-05	mitochondrial_electron_transport,_NADH_to_ubiquinone	NDUFA5;NDUFB7;NDUFV2
+clusterset47	52.13	3.37296e-05	mitochondrial_respiratory_chain_complex_I_assembly	NDUFA5;NDUFB7;NDUFV2
+clusterset47	7.57	0.00138681	oxidation-reduction_process	NDUFA5;NDUFB7;NDUFV2;TXNL1
+
+clusterset48
+
+clusterset49
+
+clusterset50
+
+clusterset51	116.42	7.858e-12	cytoplasmic_translation	RPL29;RPL32;RPL35A;RPS23;RPS28;TMA7
+clusterset51	87.21	1.9205e-17	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23;RPS25;RPS28
+clusterset51	71.21	7.9671e-17	viral_transcription	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23;RPS25;RPS28
+clusterset51	66.34	1.10656e-16	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23;RPS25;RPS28
+clusterset51	54.66	6.09968e-16	translational_initiation	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23;RPS25;RPS28
+clusterset51	27.23	5.65784e-13	translation	RPL13A;RPL29;RPL32;RPL35A;RPL37A;RPS13;RPS14;RPS23;RPS25;RPS28
+clusterset51	18.93	4.92621e-05	rRNA_processing	RPL35A;RPS14;RPS25;RPS28
+
+clusterset52	36.96	0.000878438	cell_development	IRX3;IRX4;MAF
+clusterset52	33.26	0.000149013	adherens_junction_organization	CDH10;CDH13;CDH4;EPHA4
+clusterset52	32.19	0.000892463	cell-cell_adhesion_via_plasma-membrane_adhesion_molecules	CDH10;CDH13;CDH4
+clusterset52	17.21	0.00289517	somatic_stem_cell_population_maintenance	KIT;LDB2;PRDM14
+clusterset52	9.30	0.00311037	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH10;CDH13;CDH4;DCHS2
+clusterset52	7.88	0.00252847	axon_guidance	CDH4;CXCR4;EPHA4;LRTM1;UNC5B
+clusterset52	6.84	0.0264701	cell-cell_adhesion	CDH10;CDH13;CDH4
+clusterset52	5.51	0.041851	methylation	PRDM14;PRDM6;TRMT9B
+clusterset52	4.82	0.0442527	positive_regulation_of_cell_migration	CDH13;CXCR4;KIT
+clusterset52	4.54	0.0442527	chemical_synaptic_transmission	GAD1;PNOC;SV2C
+
+clusterset53
+
+clusterset54	8.80	0.0095551	cell_adhesion	AJAP1;EPHA3;VMP1
+clusterset54	6.77	0.00889527	multicellular_organism_development	DACH1;EFNA5;EPHA3;HOXB5
+clusterset54	4.78	0.0258063	positive_regulation_of_transcription_by_RNA_polymerase_II	HOXB5;ONECUT2;ZFHX3
+clusterset54	4.45	0.0137365	regulation_of_transcription_by_RNA_polymerase_II	DACH1;HOXB5;ONECUT2;ZFHX3
+clusterset54	3.78	0.0383493	regulation_of_transcription,_DNA-templated	DACH1;HOXB5;ZFHX3
+
+clusterset55	13.21	0.00198205	cell_adhesion	CDH8;NEGR1;PTPRT
+clusterset55	7.62	0.00485056	multicellular_organism_development	CDH8;MAB21L1;MAB21L2
+
+clusterset56	136.30	1.05864e-07	embryonic_skeletal_system_morphogenesis	HOXB6;HOXB7;HOXB8;HOXB9
+clusterset56	64.23	1.14514e-06	anterior/posterior_pattern_specification	HOXB6;HOXB7;HOXB8;HOXB9
+clusterset56	14.02	0.00208311	positive_regulation_of_GTPase_activity	ADCYAP1;ARHGEF6;PREX2
+clusterset56	7.62	0.000613116	multicellular_organism_development	FSTL4;HOXB6;HOXB7;HOXB8;HOXB9
+clusterset56	7.51	0.00985981	G_protein-coupled_receptor_signaling_pathway	ADCYAP1;ARHGEF6;PREX2
+clusterset56	4.54	0.0109212	regulation_of_transcription,_DNA-templated	HOXB6;HOXB7;HOXB8;HOXB9
+clusterset56	4.30	0.0279896	positive_regulation_of_transcription_by_RNA_polymerase_II	ADCYAP1;HOXB7;HOXB9
+clusterset56	4.01	0.014472	regulation_of_transcription_by_RNA_polymerase_II	HOXB6;HOXB7;HOXB8;HOXB9
+
+clusterset57
+
+clusterset59
+
+clusterset60	203.22	1.0435e-08	oxidative_phosphorylation	ATP5F1C;COX4I1;COX6A1;COX6B1
+clusterset60	200.54	6.98898e-07	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	COX4I1;COX6A1;COX6B1
+clusterset60	38.88	7.06891e-05	proton_transmembrane_transport	COX4I1;COX6A1;COX6B1
+clusterset60	8.26	0.00095771	oxidation-reduction_process	COX4I1;COX6A1;GLRX5;NDUFB11
+
+clusterset61
+
+clusterset62	232.85	2.79203e-07	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1B;ATP5MC3;COX5B
+clusterset62	63.36	2.79203e-07	proton_transmembrane_transport	ATP5F1B;ATP5MC3;COX5B;COX6C
+
+clusterset63
+
+clusterset64
+
+clusterset65
+
+clusterset66
+
+clusterset67
+

@@ -1,0 +1,56 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	16.72	0.0147253	regulation_of_T_cell_differentiation_in_thymus	CAMK4;SOS1;SOS2
+c1	16.72	0.0147253	positive_regulation_of_cAMP-dependent_protein_kinase_activity	ATP2B4;RAPGEF2;SIRT1
+c1	15.93	0.0137159	regulation_of_cell_junction_assembly	RAP1A;RAPGEF1;RAPGEF2;TJP1
+c1	11.95	0.0310733	lymphocyte_homeostasis	BCL2;SOS1;SOS2
+c1	11.15	0.0137159	Rap_protein_signal_transduction	PLK2;RAP1A;RAPGEF1;RAPGEF2
+c1	11.15	0.0137159	hepatocyte_apoptotic_process	GSN;KRT18;KRT8;RB1
+c1	10.45	0.034093	single_strand_break_repair	ERCC6;LIG4;SIRT1
+c1	10.45	0.034093	keratan_sulfate_catabolic_process	GLB1;GNS;HEXA
+c1	10.45	0.034093	RNA_secondary_structure_unwinding	AGO3;AGO4;DDX39B
+c1	10.45	0.034093	regulation_of_protein_export_from_nucleus	PTPN11;UHMK1;XPO5
+
+c2	44.56	0.000579346	embryonic_forelimb_morphogenesis	CRABP2;CTNNB1;HOXA9
+c2	40.11	0.000579346	regulation_of_neuron_differentiation	CASZ1;NTF3;ZFHX3
+c2	15.88	0.000592833	response_to_estradiol	BMP7;CTNNB1;DNMT3A;TXNIP
+c2	9.47	0.0073288	skeletal_system_development	BMP7;CTNNB1;FRZB
+c2	9.05	0.00764578	negative_regulation_of_neuron_apoptotic_process	NTF3;TOX3;VSTM2L
+c2	7.29	0.00442612	regulation_of_apoptotic_process	CTNNB1;HRK;NTF3;TOX3
+c2	7.21	0.00154898	response_to_drug	CTNNB1;DNMT3A;MAP2K6;PLIN2;TXNIP
+c2	7.12	0.000592833	positive_regulation_of_apoptotic_process	BMP7;CTNNB1;FRZB;HRK;MAP2K6;TXNIP
+c2	5.71	0.0081854	regulation_of_gene_expression	CTNNB1;DNMT3A;HOXA9;PHGDH
+c2	5.60	0.0188989	positive_regulation_of_cell_migration	NTF3;ONECUT1;SYNE2
+
+c3	18.51	0.00248142	response_to_corticosterone	CDKN1A;FOS;NTRK3;TRH
+c3	14.81	0.014588	synaptic_transmission,_GABAergic	GABRA2;GABRG3;TPBG
+c3	13.88	0.014588	neuron_cell-cell_adhesion	CNTN4;NCAM2;NLGN1
+c3	13.88	0.014588	interleukin-7-mediated_signaling_pathway	IRS1;IRS2;SOCS2
+c3	13.88	0.014588	response_to_reactive_oxygen_species	NUDT15;PLK3;PTPRN
+c3	13.07	0.0153004	myelination_in_peripheral_nervous_system	CNTNAP1;NTRK2;POU3F1
+c3	12.88	0.00640649	synaptic_membrane_adhesion	LRFN5;NLGN1;PCDH17;SLITRK2
+c3	11.69	0.0183208	negative_regulation_of_cellular_senescence	BCL6;NAMPT;PLK2
+c3	10.89	0.00331679	long-term_memory	ADCY1;CALB1;CAMK4;PTCHD1;RGS14
+c3	10.58	0.0225085	negative_regulation_of_protein_serine/threonine_kinase_activity	CIB1;DAB2IP;HSPB1
+
+c4	16.95	0.00787661	protein_O-linked_glycosylation_via_serine	GALNT13;GALNT2;MGAT5B
+c4	14.83	0.00916053	glial_cell-derived_neurotrophic_factor_receptor_signaling_pathway	GFRA2;RET;SULF2
+c4	11.87	0.0147193	semaphorin-plexin_signaling_pathway_involved_in_axon_guidance	PLXNA1;PLXNA2;PLXNA4
+c4	11.87	0.0147193	calcium_ion-regulated_exocytosis_of_neurotransmitter	PRKCB;RIMS1;SYT7
+c4	10.79	0.0167975	regulation_of_postsynaptic_cytosolic_calcium_ion_concentration	ATP2B2;GRIA1;SLC8A1
+c4	10.79	0.0167975	Golgi_to_lysosome_transport	ANKFY1;GAK;SORT1
+c4	10.55	0.00709211	synaptic_transmission,_GABAergic	GABRA2;GABRA3;GABRG2;GABRG3
+c4	9.89	0.0079119	neuron_cell-cell_adhesion	NCAM2;NRXN3;RET;TNR
+c4	9.89	0.0079119	glutamate_receptor_signaling_pathway	GRIA3;GRID2;GRIK1;KCNB1
+c4	9.89	0.0200259	nerve_growth_factor_signaling_pathway	NTF3;RAPGEF1;SORT1
+
+c5	32.02	2.74403e-09	embryonic_skeletal_system_morphogenesis	HOXA3;HOXA4;HOXA6;HOXA7;HOXA9;HOXB6;HOXB9;HOXC4
+c5	29.35	7.10485e-07	embryonic_skeletal_system_development	HOXA3;HOXA6;HOXA9;HOXB6;HOXB9;HOXC6
+c5	18.73	2.74403e-09	anterior/posterior_pattern_specification	HOXA3;HOXA4;HOXA6;HOXA7;HOXA9;HOXB6;HOXB9;HOXC4;HOXC6;NR2F2
+c5	17.04	0.00437356	cell-cell_adhesion_via_plasma-membrane_adhesion_molecules	CDH11;CDH12;CDH7
+c5	16.51	0.00437356	cell-cell_junction_assembly	CDH11;CDH12;CDH7
+c5	14.67	0.00550558	calcium-dependent_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	CDH11;CDH12;CDH7
+c5	13.21	0.00613229	adherens_junction_organization	CDH11;CDH12;CDH7
+c5	8.80	0.0165672	somatic_stem_cell_population_maintenance	FOXP1;KLF10;LDB1
+c5	7.34	0.0255386	cartilage_development	BMP7;HOXA3;HOXC4
+c5	6.69	0.0280511	cell_morphogenesis	CDH11;CDH12;CDH7
+

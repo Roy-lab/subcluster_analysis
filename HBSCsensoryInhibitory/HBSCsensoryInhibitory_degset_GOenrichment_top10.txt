@@ -1,0 +1,56 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	30.24	1.14561e-05	peripheral_nervous_system_neuron_development	ETV1;HOXD9;ISL1;NTRK2;POU4F1
+c1	25.92	0.00203363	positive_regulation_of_axon_extension_involved_in_axon_guidance	NRP1;SEMA5A;VEGFA
+c1	18.14	0.0044802	cardiac_right_ventricle_morphogenesis	ISL1;SEMA3C;TGFB2
+c1	16.49	0.00560714	regulation_of_postsynaptic_density_assembly	GRID2;LRRTM2;NTRK3
+c1	15.12	0.00657427	negative_regulation_of_cell_motility	CTNNA1;SLC9A3R1;SPOCK3
+c1	15.12	6.19604e-05	outflow_tract_septum_morphogenesis	FGFR2;ISL1;NRP1;ROBO2;SEMA3C;TGFB2
+c1	14.23	0.00203363	regulation_of_postsynaptic_neurotransmitter_receptor_activity	DLGAP1;NPTXR;SHISA6;SHISA9
+c1	14.23	0.00203363	retinal_ganglion_cell_axon_guidance	EPHA7;ISL1;NRP1;ROBO2
+c1	13.96	0.00731313	uterus_development	HOXA9;RBP4;TGFB2
+c1	13.96	0.00731313	regulation_of_cell-cell_adhesion	EFNA5;EPHA7;WNT4
+
+c2	33.59	0.000129642	peripheral_nervous_system_neuron_development	ETV1;HOXD9;ISL1;POU4F1
+c2	25.19	0.00242051	cardiac_right_ventricle_morphogenesis	ISL1;SEMA3C;TGFB2
+c2	22.39	0.000574476	neuron_fate_specification	ISL1;NTRK3;POU4F1;TLX3
+c2	20.99	0.00354277	negative_regulation_of_cell_motility	CTNNA1;SLC9A3R1;SPOCK3
+c2	19.38	0.0040581	uterus_development	HOXA9;RBP4;TGFB2
+c2	18.00	0.00485029	respiratory_system_process	AP3B1;ECEL1;HOXA5
+c2	17.50	0.000224001	outflow_tract_septum_morphogenesis	FGFR2;ISL1;NRP1;SEMA3C;TGFB2
+c2	16.33	1.05192e-05	embryonic_skeletal_system_development	HOXA5;HOXA9;HOXB9;HOXC6;HOXC9;HOXD9;RBP4
+c2	14.60	0.00220137	positive_regulation_of_focal_adhesion_assembly	FERMT2;NRP1;SFRP1;WNT4
+c2	14.60	0.00220137	hair_follicle_morphogenesis	FGFR2;IGFBP5;NGFR;TGFB2
+
+c3	47.10	0.000237796	axon_extension_involved_in_axon_guidance	NRP2;SEMA3A;SLIT2
+c3	37.68	0.000401076	negative_regulation_of_erythrocyte_differentiation	HOXA5;KLF13;LDB1
+c3	33.50	5.56284e-05	pulmonary_valve_morphogenesis	HEY1;ROBO1;ROBO2;SLIT2
+c3	29.55	8.38302e-05	mammary_gland_alveolus_development	ERBB4;HOXA5;SOCS2;VEGFA
+c3	27.91	6.36709e-09	embryonic_skeletal_system_development	HOXA5;HOXA6;HOXA9;HOXB6;HOXB9;HOXC6;HOXC9;HOXD9
+c3	27.31	8.86886e-11	embryonic_skeletal_system_morphogenesis	HOXA5;HOXA6;HOXA7;HOXA9;HOXB6;HOXB7;HOXB8;HOXB9;HOXC9;HOXD9
+c3	20.93	0.000286802	proximal/distal_pattern_formation	HOXA9;HOXB9;HOXC9;HOXD9
+c3	18.84	0.00239006	cell_migration_involved_in_sprouting_angiogenesis	ROBO1;SLIT2;VEGFA
+c3	16.38	0.00344621	positive_regulation_of_focal_adhesion_assembly	S100A10;VEGFA;WNT4
+c3	16.21	0.000625781	ventricular_septum_morphogenesis	HEY1;ROBO1;ROBO2;SLIT2
+
+c4	44.04	0.00060326	mesonephros_development	BMP7;LHX1;PAX2
+c4	22.28	0.00060326	metanephros_development	BMP7;IRX1;IRX2;LHX1
+c4	18.63	0.00444371	embryonic_pattern_specification	BMP7;ERBB4;LHX1
+c4	17.30	0.00493261	cell_development	BMP7;IRX1;IRX2
+c4	11.01	0.0111671	cellular_response_to_epidermal_growth_factor_stimulus	ERBB4;GAREM1;PAX2
+c4	10.53	0.011864	embryonic_skeletal_system_morphogenesis	HOXA4;HOXB2;HOXB4
+c4	9.99	0.00060326	anterior/posterior_pattern_specification	HOXA4;HOXB2;HOXB4;HOXC5;LHX1;TSHZ1
+c4	9.89	0.0119649	neurotransmitter_secretion	GAD2;SLC32A1;SYT2
+c4	9.89	0.0119649	cardiac_conduction	CACNA2D3;KCND2;KCNK1
+c4	9.89	0.0119649	regulation_of_postsynaptic_membrane_potential	GABRR1;GRIK1;KCND2
+
+c5	11.35	0.0330176	calcium_import_into_the_mitochondrion	AFG3L2;MCU;MCUR1
+c5	11.35	0.0330176	mesonephros_development	BMP7;LHX1;PAX2
+c5	10.41	0.0346156	negative_regulation_of_calcium_ion_transport	ADRA2A;NOS1;STC1
+c5	10.41	0.0199254	glutamate_receptor_signaling_pathway	GRIA3;GRIK1;GRIN2A;GRIN2B
+c5	9.80	0.0199254	phosphate-containing_compound_metabolic_process	ACYP2;IMPA1;PTPRD;SLC20A1
+c5	9.61	0.0346156	muscle_fiber_development	AFG3L2;DMD;NEBL
+c5	9.61	0.0346156	neurotransmitter_biosynthetic_process	GAD1;GAD2;NOS1
+c5	9.61	0.0346156	purine_ribonucleoside_monophosphate_biosynthetic_process	IMPDH1;PAICS;PPAT
+c5	8.33	0.0425153	stabilization_of_membrane_potential	CHCHD10;KCNK1;KCNK3
+c5	8.33	0.0425153	vocalization_behavior	BRINP1;EXT1;NRXN3
+
