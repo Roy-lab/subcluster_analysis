@@ -1,0 +1,47 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset23
+
+clusterset24
+
+clusterset28	4.79	0.0205562	positive_regulation_of_transcription_by_RNA_polymerase_II	LPIN2;PPARGC1A;RIT2
+
+clusterset29
+
+clusterset30	25.66	0.000652757	extracellular_matrix_organization	NDNF;THSD4;VTN
+clusterset30	14.64	0.00169571	negative_regulation_of_cell_population_proliferation	ACKR3;INHBA;INSM1
+clusterset30	10.28	0.00313805	nervous_system_development	INHBA;INSM1;NDNF
+clusterset30	3.86	0.0351597	signal_transduction	ACKR3;INHBA;PROKR1
+
+clusterset31
+
+clusterset32
+
+clusterset33
+
+clusterset34	11.11	0.00655264	positive_regulation_of_transcription,_DNA-templated	AR;FOXA2;RORB
+clusterset34	7.18	0.0114635	positive_regulation_of_transcription_by_RNA_polymerase_II	AR;FOXA2;RORB
+clusterset34	5.71	0.0145837	regulation_of_transcription,_DNA-templated	AR;FOXA2;RORB
+clusterset34	5.07	0.0152601	regulation_of_transcription_by_RNA_polymerase_II	AR;FOXA2;RORB
+
+clusterset35	15.71	0.00392271	response_to_lipopolysaccharide	FOXP1;OPRM1;PTGFR
+clusterset35	14.10	0.00392271	neuron_differentiation	ANOS1;IRX3;LMX1B
+clusterset35	5.07	0.0136487	G_protein-coupled_receptor_signaling_pathway	GHRH;OPRM1;PTGFR;PTH2R
+clusterset35	4.00	0.00392271	regulation_of_transcription,_DNA-templated	DLX1;FEV;FOXP1;GBX2;IRX3;LMX1B;NKX6-1
+clusterset35	3.81	0.0136487	multicellular_organism_development	DLX1;FEV;IRX3;LMX1B;NKX6-1
+clusterset35	3.55	0.00547857	regulation_of_transcription_by_RNA_polymerase_II	DLX1;FEV;FOXP1;GBX2;IRX3;LMX1B;NKX6-1
+
+clusterset36
+
+clusterset37
+
+clusterset38
+
+clusterset39
+
+clusterset40	25.36	0.000121984	G_protein-coupled_receptor_signaling_pathway	P2RY1;PRLHR;VIP
+clusterset40	10.31	0.00091157	signal_transduction	P2RY1;PRLHR;VIP
+
+clusterset41	10.13	0.000959319	regulation_of_transcription_by_RNA_polymerase_II	BCL6;HOXB5;TOX
+
+clusterset43
+

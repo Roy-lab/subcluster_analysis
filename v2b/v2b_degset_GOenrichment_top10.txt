@@ -1,0 +1,45 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+c1	49.36	0.000359618	mammary_gland_alveolus_development	CCND1;ID2;SOCS2
+c1	24.68	0.00177536	cell-cell_adhesion_via_plasma-membrane_adhesion_molecules	CDH11;FLRT3;UNC5D
+c1	11.75	0.00789952	negative_regulation_of_neuron_projection_development	DCC;RIT2;TNR
+c1	9.37	0.01093	positive_regulation_of_neuron_differentiation	BRINP3;SOCS2;VWC2
+c1	8.39	0.000359618	axon_guidance	ALCAM;DCC;FLRT3;NRP1;NRXN3;TNR;UNC5D
+c1	8.03	0.00767452	potassium_ion_transport	KCND2;KCNJ6;KCNK10;KCNN1
+c1	7.05	0.00821136	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH11;FAT1;PCDH17;PCDH19
+c1	6.81	0.00839052	cell-cell_adhesion	CDH11;FAT1;NEGR1;PDLIM1
+c1	6.12	0.0298916	potassium_ion_transmembrane_transport	KCND2;KCNK10;KCNN1
+c1	5.56	0.00789952	chemical_synaptic_transmission	GABRB2;GAD2;KCND2;KCNN1;RIT2
+
+c2	26.08	0.00591786	positive_regulation_of_neuron_migration	MDK;SEMA6A;ZNF609
+c2	17.78	0.00644606	regulation_of_synapse_organization	CDH8;PTPRT;SLITRK2
+c2	16.30	0.00644606	gamma-aminobutyric_acid_signaling_pathway	GABRA2;GNAI2;PLCL1
+c2	13.04	0.00591786	negative_regulation_of_cell_adhesion	CDH13;DUSP1;MDK;PLXNA1
+c2	11.50	0.0154519	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	ALCAM;GRID2;IGSF21
+c2	7.82	0.0324252	response_to_glucocorticoid	CCND1;DUSP1;PAM
+c2	5.59	0.00644606	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	CDH13;CDH8;IGSF21;PCDH7;PCDHGB6;PTPRT
+c2	3.80	0.0288242	axon_guidance	ALCAM;ANOS1;DCC;EFNA5;EFNB3;SEMA6A
+c2	3.04	0.00644606	cell_adhesion	ALCAM;ANOS1;CD47;CDH13;CDH8;NTM;OPCML;PCDH7;PCDHGB6;PTPRT;RGMB;SSX2IP
+c2	2.59	0.0288242	nervous_system_development	DCC;DLG4;EFNA5;EFNB3;ENC1;ISLR2;MDK;RBFOX1;RBFOX3;SEMA6A
+
+c3	84.97	7.89206e-05	glycine_transport	SLC32A1;SLC6A17;SLC6A5
+c3	39.98	0.000465773	sodium_ion_import_across_plasma_membrane	HCN2;SLC12A2;SLC6A1
+c3	21.08	0.000434693	neurotransmitter_transport	SLC32A1;SLC6A1;SLC6A17;SLC6A5
+c3	16.58	5.42764e-05	sodium_ion_transmembrane_transport	ASIC4;HCN2;SLC12A2;SLC6A1;SLC6A17;SLC6A5
+c3	13.87	0.00760923	neurotransmitter_secretion	GAD1;GAD2;SLC32A1
+c3	9.06	0.0171419	transport_across_blood-brain_barrier	SLC12A2;SLC6A1;SLC6A17
+c3	7.90	0.0205406	ephrin_receptor_signaling_pathway	EPHA5;EPHA8;EPHB6
+c3	7.49	0.00922113	potassium_ion_transmembrane_transport	HCN2;KCNIP4;SLC12A2;TMEM38A
+c3	7.37	0.00922113	potassium_ion_transport	HCN2;KCNIP4;SLC12A2;TMEM38A
+c3	6.66	0.0273225	sodium_ion_transport	ASIC4;HCN2;SLC12A2
+
+c4	33.41	0.000644843	positive_regulation_of_cell_migration_involved_in_sprouting_angiogenesis	HDAC9;PLK2;VEGFA
+c4	18.93	0.000644843	embryonic_skeletal_system_morphogenesis	HOXB3;HOXB4;HOXB5;HOXC4
+c4	16.23	0.00433176	positive_regulation_of_axonogenesis	METRN;PLXNA1;ROBO2
+c4	9.96	0.0124759	forebrain_development	DLC1;DRAXIN;SOX2
+c4	9.16	0.0143864	positive_regulation_of_endothelial_cell_proliferation	NRP2;SEMA5A;VEGFA
+c4	8.81	0.00507349	anterior/posterior_pattern_specification	HOXB3;HOXB4;HOXB5;HOXC4
+c4	8.00	0.0192669	memory	ATXN1;PLK2;SORCS3
+c4	6.60	0.027954	ephrin_receptor_signaling_pathway	EFNB2;EPHA5;EPHA8
+c4	6.60	0.027954	positive_regulation_of_cold-induced_thermogenesis	DECR1;ESRRG;VEGFA
+c4	6.43	0.000644843	axon_guidance	DRAXIN;EFNB2;EPHA5;EPHA8;NRP2;ROBO2;SEMA5A
+
