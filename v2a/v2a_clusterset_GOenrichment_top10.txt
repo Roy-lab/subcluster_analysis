@@ -1,0 +1,277 @@
+clusterset_ID	fc(observed/expected)	p-value	GO_term	gene_IDs
+clusterset112	41.93	2.56106e-05	proteasome_assembly	ADRM1;PSMD13;PSMD4;PSMG2
+clusterset112	23.59	0.000950468	positive_regulation_of_translational_initiation	CDC123;KHDRBS1;YTHDF2
+clusterset112	17.97	0.00201745	import_into_nucleus	SNRPD1;SNRPD3;SNRPF
+clusterset112	14.80	3.66284e-05	regulation_of_cellular_amino_acid_metabolic_process	PSMA1;PSMB2;PSMD13;PSMD3;PSMD4;PSMD6
+clusterset112	14.44	1.11099e-05	NIK/NF-kappaB_signaling	PPP4C;PSMA1;PSMB2;PSMD13;PSMD3;PSMD4;PSMD6
+clusterset112	13.72	5.02742e-05	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMA1;PSMB2;PSMD13;PSMD3;PSMD4;PSMD6
+clusterset112	13.48	0.00420645	spliceosomal_snRNP_assembly	SNRPD1;SNRPD3;SNRPF
+clusterset112	13.14	1.68672e-05	regulation_of_hematopoietic_stem_cell_differentiation	PSMA1;PSMB2;PSMD13;PSMD3;PSMD4;PSMD6;YTHDF2
+clusterset112	12.58	0.00487186	mRNA_catabolic_process	LSM5;RNH1;YTHDF2
+clusterset112	11.44	1.11099e-05	mitochondrial_translational_elongation	MRPL15;MRPL18;MRPL20;MRPL40;MRPL51;MRPS12;MRPS15;MRPS23
+
+clusterset113	38.81	0.000163824	anterior/posterior_pattern_specification	HOXB6;HOXD3;TSHZ1
+clusterset113	4.95	0.00977933	multicellular_organism_development	FRZB;HOXB6;HOXD3;TSHZ1
+clusterset113	3.37	0.0246477	regulation_of_transcription_by_RNA_polymerase_II	HOXB6;HOXD3;LDB2;TSHZ1
+
+clusterset114	12.56	0.00395151	response_to_estradiol	HPGD;HTR5A;OPRL1;RBBP8
+clusterset114	8.57	0.0179459	response_to_ethanol	GRIN1;HPGD;TRH
+clusterset114	6.37	0.00753532	brain_development	AFF2;BOK;GRIN1;HTR5A;SLC6A11
+clusterset114	5.84	0.025617	cell-cell_signaling	ADORA1;EDN3;TRH
+clusterset114	4.45	0.025617	regulation_of_gene_expression	AFF2;EDN3;HMG20B;MAPK13
+clusterset114	3.52	0.0157223	G_protein-coupled_receptor_signaling_pathway	ADORA1;EDN3;GPR26;HTR5A;OPRL1;RGS16;TRH
+clusterset114	3.14	0.025617	ion_transport	CACNA1I;GRIN1;KCNK4;KCNN3;SLC30A10;TRPC3
+clusterset114	2.16	0.025617	signal_transduction	ADORA1;CACNA1I;EDN3;GPR26;HTR5A;NFKBIB;OPRL1;PLCE1;PLPP2;TRH
+
+clusterset115	25.89	0.00106041	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL9;RPS27A;RPSA
+clusterset115	21.14	0.00106041	viral_transcription	RPL9;RPS27A;RPSA
+clusterset115	19.53	0.00106041	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	RPL9;RPS27A;RPSA
+clusterset115	16.23	0.00136481	translational_initiation	RPL9;RPS27A;RPSA
+clusterset115	7.97	0.00824496	translation	RPL9;RPS27A;RPSA
+clusterset115	4.19	0.0384101	viral_process	HNRNPA1;RPSA;VPS29
+clusterset115	3.65	0.0465542	G_protein-coupled_receptor_signaling_pathway	ADGRG2;GAL;PREX2
+
+clusterset116	4.96	0.0161834	signal_transduction	ARHGAP36;CCK;CRHBP
+
+clusterset118
+
+clusterset119	14.86	0.000303914	multicellular_organism_development	EPHA5;HOXB7;HOXB8
+
+clusterset120
+
+clusterset121
+
+clusterset123
+
+clusterset126
+
+clusterset129
+
+clusterset131
+
+clusterset133
+
+clusterset145
+
+clusterset146	63.44	7.64328e-05	mitochondrial_acetyl-CoA_biosynthetic_process_from_pyruvate	DLD;MPC2;PDHA1
+clusterset146	39.65	0.00032936	box_C/D_snoRNP_assembly	PIH1D1;RUVBL2;TAF9
+clusterset146	31.72	0.000609026	protein_deneddylation	COPS2;COPS4;COPS6
+clusterset146	30.21	7.33614e-05	ribosomal_small_subunit_assembly	MRPS7;RPS14;RPS15;RPS5
+clusterset146	27.33	9.85682e-26	SRP-dependent_cotranslational_protein_targeting_to_membrane	RPL10;RPL10A;RPL13;RPL13A;RPL19;RPL28;RPL3;RPL37;RPL37A;RPL38;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS15;RPS16;RPS23;RPS24;RPS3;RPS5;SRP72
+clusterset146	26.43	0.00010953	formation_of_cytoplasmic_translation_initiation_complex	EIF3G;EIF3K;EIF3L;EIF3M
+clusterset146	24.88	0.000131246	cytoplasmic_translational_initiation	EIF3G;EIF3K;EIF3L;EIF3M
+clusterset146	22.66	0.00159716	positive_regulation_of_exosomal_secretion	RAB7A;SNF8;VPS4A
+clusterset146	22.03	2.9613e-05	ribosomal_large_subunit_assembly	RPL10;RPL3;RPL5;RPL6;RSL24D1
+clusterset146	21.34	3.27379e-22	viral_transcription	RPL10;RPL10A;RPL13;RPL13A;RPL19;RPL28;RPL3;RPL37;RPL37A;RPL38;RPL5;RPL6;RPL7A;RPLP2;RPS13;RPS14;RPS15;RPS16;RPS23;RPS24;RPS3;RPS5
+
+clusterset148	16.63	0.0165825	regulation_of_synaptic_transmission,_GABAergic	PHF24;PLCL2;USP46
+clusterset148	13.70	0.0236246	regulation_of_calcium_ion-dependent_exocytosis	DOC2A;SYT3;SYT5
+clusterset148	12.26	0.0289041	cortical_cytoskeleton_organization	PPP2R3C;RHOBTB2;WDR1
+clusterset148	11.94	0.0165825	regulation_of_dopamine_secretion	DTNBP1;KCNA2;SYT3;SYT5
+clusterset148	10.12	0.0338794	synaptic_vesicle_exocytosis	DNAJC5;DOC2A;TRIM9
+clusterset148	8.96	0.0362961	peripheral_nervous_system_development	ALDH3A2;ASIC2;SCN8A
+clusterset148	8.96	0.0362961	phosphatidylinositol_metabolic_process	IPMK;MTMR2;SYNJ1
+clusterset148	8.32	0.0398929	regulation_of_intracellular_pH	SLC4A10;SLC9A7;TM9SF4
+clusterset148	8.32	0.0398929	calcium-ion_regulated_exocytosis	SYN2;SYT3;SYT5
+clusterset148	7.92	0.0165825	neurotransmitter_secretion	APBA1;DGKI;DNAJC5;SYN2;UNC13A
+
+clusterset149
+
+clusterset150	4.63	0.0248243	G_protein-coupled_receptor_signaling_pathway	ADRA2C;AKAP12;HCRTR1
+clusterset150	3.31	0.0248243	signal_transduction	ADRA2C;AKAP12;ARHGAP10;HCRTR1;KITLG
+
+clusterset151	46.32	0.000813699	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1B;ATP5PO;COX5B
+clusterset151	37.42	0.000813699	oxidative_phosphorylation	COX5A;COX5B;UQCRC2
+clusterset151	13.70	0.00649437	regulation_of_transcription_from_RNA_polymerase_II_promoter_in_response_to_hypoxia	ELOC;PSMD7;UBA52
+clusterset151	12.47	0.00231848	proton_transmembrane_transport	ATP5F1B;ATP5PO;COX5A;COX5B
+clusterset151	12.31	0.00677769	electron_transport_chain	COX5A;COX5B;NDUFA12
+clusterset151	12.01	0.00677769	anaphase-promoting_complex-dependent_catabolic_process	PSMD7;RNF7;UBA52
+clusterset151	9.75	0.00441464	membrane_organization	ARPC1A;CHRM2;UBA52;YWHAH
+clusterset151	6.85	0.0253336	translational_initiation	COPS5;RPL27;UBA52
+clusterset151	5.43	0.0185375	protein_deubiquitination	COPS5;PSMD7;UBA52;USP11
+clusterset151	4.49	0.0284936	translation	COPS5;EEF1A1;RPL27;UBA52
+
+clusterset152	12.86	0.0085917	sodium_ion_transmembrane_transport	SCN7A;SCN9A;SLC6A17
+clusterset152	7.92	0.00542864	brain_development	EPHA7;PCDH19;PTN;PTPRG;SLC6A17
+clusterset152	4.53	0.0085917	nervous_system_development	ATXN10;CIT;EPHA7;GAS7;NBL1;PTN
+clusterset152	3.44	0.0494117	transmembrane_transport	AQP5;RYR2;SCN7A;SCN9A;SV2B
+clusterset152	3.25	0.0494117	ion_transport	AKAP7;NIPAL1;RYR2;SCN7A;SCN9A
+
+clusterset153	673.48	2.75921e-08	electron_transport_coupled_proton_transport	MT-CO1;MT-CYB;MT-ND5
+clusterset153	198.08	8.84832e-07	respiratory_electron_transport_chain	MT-CO1;MT-CO3;MT-CYB
+clusterset153	177.23	8.84832e-07	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	MT-CO1;MT-CO2;MT-CO3
+clusterset153	32.38	0.000119375	proton_transmembrane_transport	MT-CO1;MT-CO2;MT-CO3
+clusterset153	6.96	0.00196424	oxidation-reduction_process	MT-CO1;MT-CO2;MT-CYB;MT-ND5
+
+clusterset154	28.03	0.000413614	proteasomal_ubiquitin-independent_protein_catabolic_process	PSMA5;PSMB3;PSMB4
+clusterset154	21.41	8.08925e-05	mitochondrial_electron_transport,_NADH_to_ubiquinone	NDUFA2;NDUFC2;NDUFS2;NDUFS4;NDUFS7
+clusterset154	20.15	8.08925e-05	regulation_of_cellular_amino_acid_metabolic_process	PSMA5;PSMB3;PSMB4;PSMC6;PSMD11
+clusterset154	18.68	0.00024122	proteolysis_involved_in_cellular_protein_catabolic_process	CLPP;PSMA5;PSMB3;PSMB4
+clusterset154	18.68	8.85022e-05	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMA5;PSMB3;PSMB4;PSMC6;PSMD11
+clusterset154	18.13	0.0011372	mitochondrial_translation	MRPL43;MRPL47;MRPS35
+clusterset154	16.85	0.00011742	NIK/NF-kappaB_signaling	PSMA5;PSMB3;PSMB4;PSMC6;PSMD11
+clusterset154	15.34	0.00011742	regulation_of_hematopoietic_stem_cell_differentiation	PSMA5;PSMB3;PSMB4;PSMC6;PSMD11
+clusterset154	15.34	0.00011742	mitochondrial_respiratory_chain_complex_I_assembly	NDUFA2;NDUFC2;NDUFS2;NDUFS4;NDUFS7
+clusterset154	14.47	0.000133552	regulation_of_transcription_from_RNA_polymerase_II_promoter_in_response_to_hypoxia	PSMA5;PSMB3;PSMB4;PSMC6;PSMD11
+
+clusterset155
+
+clusterset156	87.51	4.47646e-07	proximal/distal_pattern_formation	HOXA9;HOXB9;HOXC9;HOXD9
+clusterset156	83.86	4.64315e-10	embryonic_skeletal_system_development	HOXA6;HOXA9;HOXB9;HOXC6;HOXC9;HOXD9
+clusterset156	78.27	5.06829e-11	embryonic_skeletal_system_morphogenesis	HOXA6;HOXA7;HOXA9;HOXB1;HOXB9;HOXC9;HOXD9
+clusterset156	62.90	1.14256e-06	mammary_gland_development	HOXA9;HOXB9;HOXD9;SOX9
+clusterset156	42.82	8.82927e-11	anterior/posterior_pattern_specification	HOXA6;HOXA7;HOXA9;HOXB1;HOXB9;HOXC6;HOXC9;HOXD9
+clusterset156	23.59	0.000569179	retina_development_in_camera-type_eye	NEUROD4;SERPINF1;SOX9
+clusterset156	23.08	5.09391e-06	transcription,_DNA-templated	HOXA9;HOXB9;HOXC9;HOXD9;SLC39A8
+clusterset156	15.56	0.00160623	male_gonad_development	HOXA9;LHCGR;SOX9
+clusterset156	11.35	0.00367409	central_nervous_system_development	NES;PPP1R17;SOX9
+clusterset156	9.68	0.00500026	cell-cell_adhesion	COL14A1;SOX9;TTYH1
+
+clusterset157
+
+clusterset158
+
+clusterset159	10.48	0.00341279	nervous_system_development	NDUFV2;SERPINE2;TRPC5
+clusterset159	9.53	0.00341279	transmembrane_transport	PSMB5;SCN1A;TRPC5
+clusterset159	9.03	0.00341279	ion_transport	ATP5MG;SCN1A;TRPC5
+
+clusterset160	124.72	1.83667e-10	oxidative_phosphorylation	ATP5F1C;COX6B1;COX6C;COX7C;UQCRB;UQCRH
+clusterset160	102.94	6.71481e-07	ATP_synthesis_coupled_proton_transport	ATP5F1C;ATP5MC3;ATP5PB;ATP5PF
+clusterset160	102.94	6.71481e-07	mitochondrial_ATP_synthesis_coupled_proton_transport	ATP5F1C;ATP5MC3;ATP5PB;ATP5PF
+clusterset160	85.33	3.30993e-05	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	COX6B1;COX6C;COX7C
+clusterset160	74.54	1.82397e-06	cristae_formation	ATP5F1C;ATP5MC3;ATP5PB;ATP5PF
+clusterset160	72.06	1.82397e-06	ATP_biosynthetic_process	ATP5F1C;ATP5MC3;ATP5PB;ATP5PF
+clusterset160	37.71	0.000306937	substantia_nigra_development	ATP5PB;ATP5PF;COX6B1
+clusterset160	31.79	0.000455877	regulation_of_cellular_amino_acid_metabolic_process	PSMB6;PSMC5;PSMD2
+clusterset160	29.48	0.000514333	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMB6;PSMC5;PSMD2
+clusterset160	26.58	0.000636708	NIK/NF-kappaB_signaling	PSMB6;PSMC5;PSMD2
+
+clusterset161	4.97	0.0206772	viral_process	DYNLT1;HNRNPA2B1;PSMA3
+
+clusterset163
+
+clusterset164
+
+clusterset165	76.13	9.22989e-05	proximal/distal_pattern_formation	HOXA10;HOXC10;SP8
+clusterset165	38.07	0.00038541	embryonic_limb_morphogenesis	HOXA10;HOXC10;SP8
+clusterset165	18.63	0.00214908	anterior/posterior_pattern_specification	HOXA10;HOXC10;HOXD8
+clusterset165	11.22	0.00695834	neuron_differentiation	IRX2;NEUROG2;RET
+clusterset165	7.55	0.0140956	chemical_synaptic_transmission	CHRNA2;HTR1A;SYT10
+clusterset165	3.57	0.0128432	multicellular_organism_development	HOXA10;HOXC10;HOXD8;MFNG;NEUROG2;RET
+clusterset165	2.75	0.0311892	regulation_of_transcription,_DNA-templated	HOXA10;HOXC10;HOXD8;IRX2;NEUROG2;SFMBT2
+clusterset165	2.43	0.04756	regulation_of_transcription_by_RNA_polymerase_II	HOXA10;HOXC10;HOXD8;IRX2;NEUROG2;SP8
+
+clusterset166	16.83	0.000591142	translation	MRPS21;RPL36AL;RPS26
+
+clusterset167	4.32	0.0319663	proteolysis	ADAMTS8;ECEL1;PRSS23;XPNPEP3
+clusterset167	3.71	0.0102087	positive_regulation_of_transcription_by_RNA_polymerase_II	EGR1;FOXJ2;HLF;NPAS4;PPARGC1B;SIRT7;ZNF585A
+clusterset167	3.31	0.0384534	positive_regulation_of_transcription,_DNA-templated	EGR1;FOXJ2;NPAS4;PPARGC1B
+clusterset167	2.55	0.0384534	regulation_of_transcription,_DNA-templated	EGR1;FOXJ2;HLF;PPARGC1B;ZNF585A;ZNF699
+clusterset167	2.25	0.0447742	regulation_of_transcription_by_RNA_polymerase_II	EGR1;FOXJ2;HLF;NPAS4;ZNF585A;ZNF699
+
+clusterset168	4.25	0.0262187	signal_transduction	ARHGAP18;CXCL9;GABRB2
+
+clusterset169
+
+clusterset170	5.32	0.011359	oxidation-reduction_process	COX4I1;GPX4;NDUFAB1;TXNL1
+clusterset170	4.25	0.0313878	ion_transport	ATP5F1D;ATP6V1G1;VDAC2
+
+clusterset171	26.04	0.00293951	adherens_junction_organization	CADM1;CDH4;EPHA4
+clusterset171	12.06	0.00293951	transmembrane_receptor_protein_tyrosine_kinase_signaling_pathway	ANGPT1;EPHA4;EPHB6;GFRA2
+clusterset171	6.56	0.0134544	axon_guidance	CDH4;EPHA4;GFRA2;SLIT1
+clusterset171	6.24	0.0134544	angiogenesis	ANGPT1;CCBE1;MEIS1;PRKX
+clusterset171	3.79	0.0138413	cell_adhesion	CADM1;CDH4;EPHA4;ITGA8;PRKX;RND3
+clusterset171	3.41	0.0382986	nervous_system_development	EPHA4;GFRA2;ITGA8;RAPGEF5;SLIT1
+clusterset171	3.26	0.00809175	multicellular_organism_development	ANGPT1;CADM1;CCBE1;EPHA4;IRX3;ITGA8;MEIS1;PRKX;SLIT1
+
+clusterset172	17.88	0.00380594	female_pregnancy	FOSB;PNOC;TAC3
+clusterset172	16.23	0.00380594	neuropeptide_signaling_pathway	PENK;PNOC;TAC3
+clusterset172	6.71	5.99065e-05	G_protein-coupled_receptor_signaling_pathway	ADGRG4;BRS3;FFAR4;HTR4;MTNR1A;NGEF;PENK;PNOC;TAC3
+clusterset172	6.09	0.0359699	chemical_synaptic_transmission	HTR4;PENK;PNOC
+clusterset172	5.38	0.0214824	innate_immune_response	IFI6;LGALS3;S100B;SH2D1B
+
+clusterset173
+
+clusterset174	9.83	1.41276e-05	regulation_of_transcription,_DNA-templated	FOXA2;NKX2-2;NR3C2;PITX2;POU3F1;SIM1
+clusterset174	8.67	1.48442e-05	regulation_of_transcription_by_RNA_polymerase_II	FOXA2;NKX2-2;NR3C2;PITX2;POU3F1;SIM1
+clusterset174	8.49	0.00100873	multicellular_organism_development	FOXA2;NKX2-2;PITX2;SIM1
+clusterset174	7.45	0.00695807	cell_differentiation	FOXA2;NKX2-2;SIM1
+clusterset174	6.14	0.00960262	positive_regulation_of_transcription_by_RNA_polymerase_II	FOXA2;NKX2-2;PITX2
+
+clusterset175
+
+clusterset176	18.29	0.0021859	neuron_projection_development	BTBD8;CNTN1;GPM6A
+clusterset176	6.21	0.00664217	nervous_system_development	CNTN1;GPM6A;ISLR2;OLFM1
+clusterset176	5.98	0.0171621	positive_regulation_of_gene_expression	CNTN1;MAF;OLFM1
+clusterset176	4.31	0.0304092	cell_adhesion	ANOS1;CADM2;CNTN1
+
+clusterset177	117.05	6.38461e-06	proteasomal_ubiquitin-independent_protein_catabolic_process	PSMA4;PSMB1;PSMB7
+clusterset177	67.32	6.38461e-06	regulation_of_cellular_amino_acid_metabolic_process	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	62.43	6.38461e-06	negative_regulation_of_G2/M_transition_of_mitotic_cell_cycle	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	58.52	2.70223e-05	proteolysis_involved_in_cellular_protein_catabolic_process	PSMA4;PSMB1;PSMB7
+clusterset177	56.29	6.38461e-06	NIK/NF-kappaB_signaling	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	51.24	6.38461e-06	regulation_of_hematopoietic_stem_cell_differentiation	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	48.36	6.38461e-06	regulation_of_transcription_from_RNA_polymerase_II_promoter_in_response_to_hypoxia	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	47.69	6.38461e-06	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_I,_TAP-dependent	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	43.46	6.38461e-06	regulation_of_mitotic_cell_cycle_phase_transition	PSMA4;PSMB1;PSMB7;PSMC1
+clusterset177	42.39	6.38461e-06	anaphase-promoting_complex-dependent_catabolic_process	PSMA4;PSMB1;PSMB7;PSMC1
+
+clusterset178	21.05	0.00224495	cellular_response_to_glucose_stimulus	LIN28A;NEUROD1;SLC29A1
+clusterset178	13.19	0.0052722	positive_regulation_of_neuron_differentiation	LIN28A;NEUROD1;TCF4
+clusterset178	7.34	0.0218963	regulation_of_translation	EIF4EBP1;EIF4G2;ZNF385A
+clusterset178	5.04	0.0499294	axon_guidance	EFNA5;RELN;ROBO1
+clusterset178	4.89	0.00224495	nervous_system_development	CRIM1;EFNA5;NAP1L1;NEUROD1;ROBO1;TCF4;VXN
+clusterset178	3.91	0.00224495	cell_differentiation	EFNA5;NAP1L1;NEUROD1;NHSL1;RAI14;ROBO1;ROR2;RXRG;TCF4
+
+clusterset179	182.40	9.97588e-07	mitochondrial_electron_transport,_NADH_to_ubiquinone	MT-ND1;MT-ND2;MT-ND4
+clusterset179	130.68	1.37881e-06	mitochondrial_respiratory_chain_complex_I_assembly	MT-ND1;MT-ND2;MT-ND4
+clusterset179	13.57	0.000804051	oxidation-reduction_process	MT-ND1;MT-ND2;MT-ND4
+
+clusterset180
+
+clusterset184
+
+clusterset185
+
+clusterset186	30.40	0.000637111	mitochondrial_electron_transport,_NADH_to_ubiquinone	NDUFB11;NDUFB2;NDUFB4
+clusterset186	21.78	0.000859376	mitochondrial_respiratory_chain_complex_I_assembly	NDUFB11;NDUFB2;NDUFB4
+clusterset186	6.40	0.0186678	angiogenesis	ATP5IF1;NCL;VEGFA
+
+clusterset187
+
+clusterset188
+
+clusterset189	13.93	0.000122662	immune_system_process	C1QA;CD3D;CD5L;LTF
+
+clusterset190
+
+clusterset191
+
+clusterset192	44.49	9.52087e-05	positive_regulation_of_cytosolic_calcium_ion_concentration	ADRA1D;CD36;PTGER4
+clusterset192	8.67	0.00574248	G_protein-coupled_receptor_signaling_pathway	ADRA1D;PDYN;PTGER4
+clusterset192	3.72	0.0388542	signal_transduction	ADRA1D;PLPP3;PTGER4
+
+clusterset195
+
+clusterset196
+
+clusterset197
+
+clusterset198
+
+clusterset199
+
+clusterset200
+
+clusterset201
+
+clusterset202
+
+clusterset203
+
+clusterset204
+
+clusterset205
+
+clusterset208
+
