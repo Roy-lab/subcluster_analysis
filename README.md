@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Subcluster analysis
 
-You can use the [editor on GitHub](https://github.com/Roy-lab/fine_grained_cluster_analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We reorganized 25 primary clusters into 17 different groups to isolate finer populations by re-clustering subsets of the primary clusters.
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Primary 25 clusters
+* [Overview of the primary clusters](src)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Roy-lab/fine_grained_cluster_analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 17 subgroups
+1. [v2a/v3](https://roy-lab.github.io/subcluster_analysis/v2a/ordered_clusterset_means.svg)
+2. [v2b](https://roy-lab.github.io/subcluster_analysis/v2b/ordered_clusterset_means.svg)
+<br/>
