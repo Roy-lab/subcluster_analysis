@@ -7,7 +7,7 @@ We reorganized 25 primary clusters into 17 different groups to isolate finer pop
 * [Overview of the primary clusters](src)
 
 ## 17 subpopulations and those subclusters
-1. [all MN(Motorneuron)](https://roy-lab.github.io/subcluster_analysis/allMN2/ordered_clusterset_means.svg)
+1. [all MN(Motorneuron)](https://roy-lab.github.io/subcluster_analysis/allMN2/htmls/index.html)
 2. [somatic MN](https://roy-lab.github.io/subcluster_analysis/somaticMN/ordered_clusterset_means.svg)
 3. [visceral MN](https://roy-lab.github.io/subcluster_analysis/visceralMN/ordered_clusterset_means.svg)
 4. [dl1](https://roy-lab.github.io/subcluster_analysis/dl1/ordered_clusterset_means.svg)
