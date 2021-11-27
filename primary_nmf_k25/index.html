@@ -1,0 +1,94 @@
+<!DOCTYPE html><html>
+<head>
+<style>
+table {
+  border: 0px solid black;
+  border-collapse: separate;
+  border-spacing: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+tr, th {
+  border: 1px solid grey;
+  border-collapse: separate;
+  padding: 5px;
+  text-align: center;
+  vertical-align: top;
+}
+tr.noBorder th {
+  border: 0px;
+  border-collapse: separate;
+  text-align: left;
+  vertical-align: top;
+}
+</style>
+</head>
+<body>
+<h2>Primary Clusters Overview</h2>
+<table style="width:100%">
+<tr class="noBorder">
+  <th>[t-SNE]<br>Cardinal clusters</th>
+  <th><br>Samples distribution</th>
+  <th><br>HOX profile distribution</th>
+</tr>
+<tr>
+  <th><a href="primary_nmf_k25_marked.png"><img src="primary_nmf_k25_marked.png" width="400"></a></th>
+  <th><a href="primary_samples_legend.png"><img src="primary_samples_legend.png" width="400"></a></th>
+  <th><a href="primary_hox_louvain_legend.png"><img src="primary_hox_louvain_legend.png" width="400"></a></th>
+</tr>
+<tr class="noBorder">
+  <th><br>[Distributions]<br>Clusters-Samples</th>
+  <th><br><br>Clusters-HOX profiles</th>
+  <th><br><br>HOX profiles-Samples</th>
+</tr>
+<tr>
+  <th><a href="NMFcl_k25_vs_samples_1.hmawk.svg"><img src="NMFcl_k25_vs_samples_1.hmawk.svg" height="300"></a></th>
+  <th><a href="NMFcl_k25_vs_HOX_louvain_k13_1.hmawk.svg"><img src="NMFcl_k25_vs_HOX_louvain_k13_1.hmawk.svg" height="300"></a></th>
+  <th><a href="HOX_louvain_k13_vs_samples_1.hmawk.svg"><img src="HOX_louvain_k13_vs_samples_1.hmawk.svg" height="300"></a></th>
+</tr>
+<tr class="noBorder">
+  <th>Samples-Clusters</th>
+  <th>HOX profiles-Clusters</th>
+  <th>Samples-HOX profiles</th>
+</tr>
+<tr>
+  <th><a href="NMFcl_k25_vs_samples_2.hmawk.svg"><img src="NMFcl_k25_vs_samples_2.hmawk.svg" width="400"></a></th>
+  <th><a href="NMFcl_k25_vs_HOX_louvain_k13_2.hmawk.svg"><img src="NMFcl_k25_vs_HOX_louvain_k13_2.hmawk.svg" width="400"></a></th>
+  <th><a href="HOX_louvain_k13_vs_samples_2.hmawk.svg"><img src="HOX_louvain_k13_vs_samples_2.hmawk.svg" height="300"></a></th>
+</tr>
+</table>
+<hr>
+<table style="width:100%">
+<tr class="noBorder">
+  <th>[Marker Genes expressions]<br><br>&nbsp;1. HOX genes and cardinal markers<br>&nbsp;&nbsp;&nbsp;- Cardinal clusters</th>
+  <th><br><br><br>&nbsp;&nbsp;&nbsp;- Samples</th>
+</tr>
+<tr>
+  <th><a href="HOX-CARDINAL-NEW-CLUSTER.png"><img src="HOX-CARDINAL-NEW-CLUSTER.png" height="410"></a></th>
+  <th><a href="HOX-CARDINAL-NEW-SAMPLE.png"><img src="HOX-CARDINAL-NEW-SAMPLE.png" height="300"></a></th>
+</tr>
+<tr class="noBorder">
+  <th><br>&nbsp;2. Anterior-Posterior markers<br>&nbsp;&nbsp;&nbsp;- Cardinal clusters</th>
+  <th><br><br>&nbsp;&nbsp;&nbsp;- Samples</th>
+</tr>
+<tr>
+  <th><a href="ANTERIOR-POSTERIOR-NEW-CLUSTER.png"><img src="ANTERIOR-POSTERIOR-NEW-CLUSTER.png" height="410"></a></th>
+  <th><a href="ANTERIOR-POSTERIOR-NEW-SAMPLE.png"><img src="ANTERIOR-POSTERIOR-NEW-SAMPLE.png" height="300"></a></th>
+</tr>
+<tr class="noBorder">
+  <th><br>&nbsp;3. Tissue type markers<br>&nbsp;&nbsp;&nbsp;- Cardinal clusters</th>
+  <th><br><br>&nbsp;&nbsp;&nbsp;- Samples</th>
+</tr>
+<tr>
+  <th><a href="TISSUE-TYPE-NEW-CLUSTER.png"><img src="TISSUE-TYPE-NEW-CLUSTER.png" height="410"></a></th>
+  <th><a href="TISSUE-TYPE-NEW-SAMPLE.png"><img src="TISSUE-TYPE-NEW-SAMPLE.png" height="300"></a></th>
+</tr>
+<tr class="noBorder">
+  <th><br>&nbsp;4. Adhesion-/Neurotransmission-related markers<br>&nbsp;&nbsp;&nbsp;- Cardinal clusters</th>
+  <th><br><br>&nbsp;&nbsp;&nbsp;- Samples</th>
+</tr>
+<tr>
+  <th><a href="Adhesion-Neurotransmission-NEW-CLUSTER.png"><img src="Adhesion-Neurotransmission-NEW-CLUSTER.png" height="410"></a></th>
+  <th><a href="Adhesion-Neurotransmission-NEW-SAMPLE.png"><img src="Adhesion-Neurotransmission-NEW-SAMPLE.png" height="300"></a></th>
+</tr>
+</table>
+</body></html>
