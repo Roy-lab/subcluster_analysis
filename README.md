@@ -4,7 +4,7 @@ We reorganized 25 primary clusters into 17 different groups to isolate finer pop
 <br/>
 
 ## Primary 25 clusters
-* [Overview of the primary clusters](src)
+* [Overview of the primary clusters](https://roy-lab.github.io/subcluster_analysis/primary_nmf_k25/index.html)
 
 ## 17 subpopulations and those subclusters
 1. [FP-cranial MN(Motorneuron)](https://roy-lab.github.io/subcluster_analysis/FPcranialMN/htmls/index.html)
