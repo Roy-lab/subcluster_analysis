@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset150	positive_regulation_of_transcription,_DNA-templated	0.0217023	7.99948	HES1;SMAD3;TEAD2;TGFB1
+clusterset150	negative_regulation_of_transcription_by_RNA_polymerase_II	0.0217023	6.48634	HES1;SMAD3;TGFB1;TGIF2
+clusterset150	sequence-specific_double-stranded_DNA_binding	0.0217023	8.8278	HES1;TEAD2;TGIF2
+clusterset150	positive_regulation_of_transcription_by_RNA_polymerase_II	0.0217023	5.16432	HES1;SMAD3;TEAD2;TGFB1
+clusterset150	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.0217023	5.08267	HES1;SMAD3;TEAD2;TGIF2
+clusterset150	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.0217023	4.95536	HES1;SMAD3;TEAD2;TGIF2
+clusterset150	DNA-binding_transcription_factor_activity	0.0240652	6.73255	SMAD3;TEAD2;TGIF2
+clusterset150	protein_homodimerization_activity	0.0240652	6.49453	EFEMP2;HES1;SMAD3
+clusterset150	regulation_of_transcription,_DNA-templated	0.0272559	4.13811	HES1;SMAD3;TEAD2;TGIF2
+clusterset150	regulation_of_transcription_by_RNA_polymerase_II	0.037793	3.64799	HES1;SMAD3;TEAD2;TGIF2

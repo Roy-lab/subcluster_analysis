@@ -1,0 +1,15 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset92	nuclear_receptor_activity	0.0111296	24.6985	NR3C1;NR6A1;RXRA
+clusterset92	syntaxin_binding	0.0111296	20.2446	BAIAP3;SYT17;SYT6
+clusterset92	SNARE_binding	0.0111296	18.9988	BAIAP3;SYT17;SYT6
+clusterset92	axon_guidance	0.0296548	7.45052	ALCAM;EPHA3;SHC1;TNR
+clusterset92	extracellular_matrix	0.0296548	6.72067	LRRTM1;MMP17;TNR;VEGFA
+clusterset92	positive_regulation_of_transcription_by_RNA_polymerase_II	0.0296548	3.17563	CITED1;DPF3;ETS2;NR3C1;NR6A1;RXRA;TOX2;VEGFA
+clusterset92	potassium_ion_transmembrane_transport	0.0296548	9.57305	KCNJ2;KCNK12;KCNN3
+clusterset92	potassium_ion_transport	0.0296548	9.42689	KCNJ2;KCNK12;KCNN3
+clusterset92	cell_differentiation	0.0296548	3.35838	CITED1;ETS2;METRN;RXRA;SHB;SYT17;VEGFA
+clusterset92	integral_component_of_plasma_membrane	0.035107	2.8389	ALCAM;ASIC4;CCR10;EPHA3;GRM7;KCNJ2;KCNK12;SLCO3A1
+clusterset92	transcription_initiation_from_RNA_polymerase_II_promoter	0.035107	8.07139	NR3C1;NR6A1;RXRA
+clusterset92	plasma_membrane	0.0419931	1.75079	ALCAM;BAIAP3;CCR10;EPHA3;ETS2;GRM7;GSG1L;KCNJ2;KCNN3;LRRTM1;MMP17;SHB;SHC1;SLCO3A1;SYT17;SYT6;UNC80
+clusterset92	glutamatergic_synapse	0.0419931	4.92983	GSG1L;LRRTM1;SYT6;TNR
+clusterset92	receptor_complex	0.0484573	6.56874	EPHA3;GRM7;RXRA

@@ -1,0 +1,5 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset27	synapse	0.000613238	13.7214	GABRR1;GAD1;NOS1;SLC30A3
+clusterset27	cell_junction	0.011143	9.11599	GABRR1;NOS1;SLC30A3
+clusterset27	plasma_membrane	0.011143	3.40631	GABRR1;GAD1;KIT;NOS1;SLC30A3
+clusterset27	integral_component_of_plasma_membrane	0.0115331	7.16871	GABRR1;KIT;SLC30A3

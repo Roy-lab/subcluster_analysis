@@ -1,0 +1,9 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset191	DNA_repair	0.00197146	19.9883	MCM8;POLD1;WDHD1
+clusterset191	chromatin_binding	0.00197146	18.6816	MCM8;POLD1;WDHD1
+clusterset191	DNA_binding	0.00855507	5.45169	MCM8;POLD1;PSMC3IP;WDHD1
+clusterset191	nucleoplasm	0.00855507	3.62434	MCM8;POLD1;PSMC3IP;SHMT1;WDHD1
+clusterset191	hydrolase_activity	0.0284758	5.37666	MCM8;POLD1;SHMT1
+clusterset191	nucleotide_binding	0.0316295	4.66193	CDC42BPG;MCM8;POLD1
+clusterset191	transferase_activity	0.0316295	4.58165	CDC42BPG;POLD1;SHMT1
+clusterset191	nucleus	0.0417093	2.22592	MCM8;POLD1;PSMC3IP;SHMT1;WDHD1

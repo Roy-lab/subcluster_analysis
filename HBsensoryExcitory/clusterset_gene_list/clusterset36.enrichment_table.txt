@@ -1,0 +1,16 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset36	extracellular_exosome	0.000163213	5.00033	ATP5F1A;DNAJA1;GAPDH;HNRNPK;HSPA8;IGFBP2;MEST;MYL12B;PPIA;VDAC1
+clusterset36	unfolded_protein_binding	0.00374246	24.1587	DNAJA1;HSPA8;PPIA
+clusterset36	protein_folding	0.00603265	16.5795	DNAJA1;HSPA8;PPIA
+clusterset36	mRNA_processing	0.00603265	9.21586	AURKAIP1;HNRNPK;HSPA8;SAP18
+clusterset36	focal_adhesion	0.00611419	8.65018	HNRNPK;HSPA8;PPIA;RPL19
+clusterset36	mitochondrial_inner_membrane	0.00718805	7.88397	ATP5F1A;ATP5F1E;AURKAIP1;UQCR10
+clusterset36	ATPase_activity	0.00953161	11.3752	ATP5F1A;ATP5F1E;HSPA8
+clusterset36	mRNA_splicing,_via_spliceosome	0.0106448	10.439	HNRNPK;HSPA8;UBL5
+clusterset36	viral_process	0.0112574	6.24026	HNRNPK;HSPA8;PPIA;VDAC1
+clusterset36	RNA_binding	0.0127974	3.59047	ATP5F1A;HNRNPK;HSPA8;PPIA;RPL19;SAP18
+clusterset36	RNA_splicing	0.0127974	8.71707	HNRNPK;HSPA8;SAP18
+clusterset36	mitochondrion	0.0127974	3.50853	ATP5F1A;ATP5F1E;AURKAIP1;DNAJA1;UQCR10;VDAC1
+clusterset36	perinuclear_region_of_cytoplasm	0.0145803	5.23564	DCTN3;DNAJA1;GAPDH;HSPA8
+clusterset36	negative_regulation_of_apoptotic_process	0.0345358	5.56287	DNAJA1;HNRNPK;VDAC1
+clusterset36	intracellular_membrane-bounded_organelle	0.0371768	3.82604	AURKAIP1;DNAJA1;GAPDH;PPIA

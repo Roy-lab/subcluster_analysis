@@ -1,0 +1,8 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset377	keratinization	2.68608e-05	106.94	KRTAP13-2;KRTAP19-1;KRTAP26-1
+clusterset377	intermediate_filament	4.10716e-05	74.0354	KRTAP13-2;KRTAP19-1;KRTAP26-1
+clusterset377	positive_regulation_of_transcription,_DNA-templated	0.0245602	7.29136	BMP4;NDP;TP63
+clusterset377	negative_regulation_of_transcription_by_RNA_polymerase_II	0.0301428	5.89743	BMP4;MSC;TP63
+clusterset377	cell_differentiation	0.0301428	5.62185	BMP4;DMBT1;TP63
+clusterset377	multicellular_organism_development	0.0385866	4.79313	BMP4;DMBT1;TP63
+clusterset377	extracellular_space	0.0473359	4.18461	BMP4;DMBT1;NDP

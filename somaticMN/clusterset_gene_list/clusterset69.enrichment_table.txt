@@ -1,0 +1,15 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset69	NADH_dehydrogenase_(ubiquinone)_activity	2.40886e-07	119.341	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	mitochondrial_electron_transport,_NADH_to_ubiquinone	2.40886e-07	109.396	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	mitochondrial_respiratory_chain_complex_I	2.40886e-07	107.163	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	respirasome	5.19038e-07	82.0469	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	mitochondrial_respiratory_chain_complex_I_assembly	5.19038e-07	78.3731	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	mitochondrial_membrane	0.000601311	24.4612	MT-ND1;MT-ND3;MT-ND4
+clusterset69	mitochondrial_inner_membrane	0.000601311	12.127	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	oxidation-reduction_process	0.00228826	8.23041	MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	mitochondrion	0.0062448	4.48344	HSPA5;MT-ND1;MT-ND2;MT-ND3;MT-ND4
+clusterset69	calcium_ion_binding	0.0177707	6.43505	HSPA5;SLIT2;SYT1
+clusterset69	cell_differentiation	0.0345939	4.7506	MDK;SLIT2;SYT1
+clusterset69	integral_component_of_membrane	0.0345939	2.13902	ATP1B1;MT-ND1;MT-ND2;MT-ND3;MT-ND4;PTPRD;SYT1
+clusterset69	membrane	0.0379674	1.72882	ATP1B1;HSPA5;MT-ND1;MT-ND2;MT-ND3;MT-ND4;PTPRD;SLIT2;SYT1
+clusterset69	extracellular_exosome	0.0470986	2.98862	ATP1B1;HSPA5;PTPRD;SLIT2

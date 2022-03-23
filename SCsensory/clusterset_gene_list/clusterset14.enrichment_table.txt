@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset14	voltage-gated_potassium_channel_activity	0.0281007	18.2046	HCN1;KCNAB1;KCNE4
+clusterset14	ion_transport	0.0281007	4.13371	ATP2B3;HCN1;KCNAB1;KCNE4;SFXN2;SLC5A1;SLCO4A1
+clusterset14	PDZ_domain_binding	0.0281007	12.5698	ATP2B3;FZD1;NKD1
+clusterset14	transmembrane_transporter_activity	0.0281007	7.52846	SFXN2;SLC35F2;SLC5A1;SLCO4A1
+clusterset14	glutamatergic_synapse	0.0281007	5.31655	ATP2B3;DLGAP1;FRMPD4;GUCY1A1;OPHN1
+clusterset14	transmembrane_transport	0.0421297	3.7048	HCN1;KCNAB1;SFXN2;SLC35F2;SLC5A1;SLCO4A1
+clusterset14	potassium_ion_transmembrane_transport	0.0421297	8.24896	HCN1;KCNAB1;KCNE4
+clusterset14	potassium_ion_transport	0.0421297	8.24896	HCN1;KCNAB1;KCNE4
+clusterset14	voltage-gated_ion_channel_activity	0.0448707	7.70706	HCN1;KCNAB1;KCNE4
+clusterset14	regulation_of_ion_transmembrane_transport	0.0448707	7.43568	HCN1;KCNAB1;KCNE4

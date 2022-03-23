@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset72	extracellular_region	0.000997381	4.16614	ABI3BP;CBLN4;F2RL2;IL17B;IL7R;MMP1;MMP12;NYX;PNLIP;PROK2
+clusterset72	extracellular_matrix	0.00376819	11.5111	ABI3BP;MMP1;MMP12;NYX
+clusterset72	immune_response	0.01784	9.33972	CD28;IL17B;IL7R
+clusterset72	extracellular_matrix_organization	0.01784	9.21408	ABI3BP;MMP1;MMP12
+clusterset72	extracellular_space	0.01784	3.71227	ABI3BP;CBLN4;IL17B;MMP12;NYX;PNLIP
+clusterset72	inflammatory_response	0.0254409	7.44471	IL17B;PROK2;PTGER2
+clusterset72	signal_transduction	0.0462181	2.83608	DIRAS3;F2RL2;IL17B;IL7R;NR3C2;PTGER2
+clusterset72	positive_regulation_of_gene_expression	0.0476874	5.14972	CD28;IL7R;MMP12
+clusterset72	integral_component_of_plasma_membrane	0.0476874	3.06586	CD28;F2RL2;PTGER2;RASGRP3;TRPC7

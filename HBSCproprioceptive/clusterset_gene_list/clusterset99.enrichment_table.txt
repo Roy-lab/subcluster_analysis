@@ -1,0 +1,7 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset99	DNA-binding_transcription_repressor_activity,_RNA_polymerase_II-specific	0.00163706	24.2264	IRX1;IRX2;PRDM16
+clusterset99	sequence-specific_DNA_binding	0.00168238	17.3745	IRX1;IRX2;PRDM16
+clusterset99	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.00168238	8.66262	IRX1;IRX2;MECOM;PRDM16
+clusterset99	regulation_of_transcription_by_RNA_polymerase_II	0.00441848	6.23214	IRX1;IRX2;MECOM;PRDM16
+clusterset99	negative_regulation_of_transcription_by_RNA_polymerase_II	0.00706534	8.43172	IRX1;IRX2;PRDM16
+clusterset99	DNA_binding	0.00840391	4.70447	IRX1;IRX2;MECOM;PRDM16

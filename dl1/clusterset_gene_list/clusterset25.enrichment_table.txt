@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset25	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.000510592	12.3454	EVX1;EVX2;LHX2;ZIC1
+clusterset25	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.000510592	12.0055	EVX1;EVX2;LHX2;ZIC1
+clusterset25	sequence-specific_double-stranded_DNA_binding	0.000759364	21.4958	EVX1;EVX2;ZIC1
+clusterset25	regulation_of_transcription_by_RNA_polymerase_II	0.00086894	8.79654	EVX1;EVX2;LHX2;ZIC1
+clusterset25	DNA_binding	0.00216148	6.58199	EVX1;EVX2;LHX2;ZIC1
+clusterset25	multicellular_organism_development	0.00377968	9.83588	EVX1;EVX2;ZIC1
+clusterset25	chromatin	0.00452965	8.76287	EVX1;EVX2;LHX2
+clusterset25	regulation_of_transcription,_DNA-templated	0.0062692	7.47527	EVX1;EVX2;LHX2
+clusterset25	nucleus	0.00895731	2.67239	EVX1;EVX2;LHX2;PRDM6;ZIC1

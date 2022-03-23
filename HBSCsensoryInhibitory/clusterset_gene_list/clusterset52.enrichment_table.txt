@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset52	postsynaptic_membrane	0.00129113	19.2757	ERBB4;GABRG3;GRIK3;LRRC4C
+clusterset52	synapse	0.00166135	7.11303	GABRG3;GRIK3;LRRC4C;PDZRN3;PNOC;SYT2
+clusterset52	glutamatergic_synapse	0.00413165	10.7087	CDH8;ERBB4;GRIK3;LRRC4C
+clusterset52	neuron_differentiation	0.00525371	16.408	IRX1;IRX2;LHX5
+clusterset52	sequence-specific_double-stranded_DNA_binding	0.00847096	7.44468	HOXB4;IRX1;LHX5;ONECUT3
+clusterset52	chemical_synaptic_transmission	0.00847096	11.7819	CDH8;GABRG3;PNOC
+clusterset52	cell_junction	0.00847096	5.16512	GABRG3;GRIK3;LRRC4C;PDZRN3;SYT2
+clusterset52	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.020717	4.07078	HOXB4;IRX1;IRX2;LHX5;ONECUT3
+clusterset52	chromatin	0.020717	3.96222	HOXB4;IRX1;IRX2;LHX5;ONECUT3
+clusterset52	dendrite	0.0368027	5.93016	DNER;GRIK3;PNOC
+clusterset52	DNA_binding	0.0412238	2.74448	HOXB4;IRX1;IRX2;LHX5;ONECUT3;PRDM13
+clusterset52	regulation_of_transcription_by_RNA_polymerase_II	0.046403	3.03438	HOXB4;IRX1;IRX2;LHX5;ONECUT3

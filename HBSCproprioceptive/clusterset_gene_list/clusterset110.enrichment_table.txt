@@ -1,0 +1,7 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset110	extracellular_region	0.00122044	4.65333	ALKAL2;CFC1;COL24A1;CST6;INHA;PRSS33;PTH2;WNT2
+clusterset110	signaling_receptor_binding	0.0197251	8.57585	CFC1;INHA;WNT2
+clusterset110	cytoplasmic_vesicle	0.0197251	5.51305	C5AR1;LAPTM5;RESP18;SLC18A2
+clusterset110	G_protein-coupled_receptor_signaling_pathway	0.0499336	4.72547	C5AR1;GPR101;PTH2
+clusterset110	integral_component_of_plasma_membrane	0.0499336	3.45991	C5AR1;GPR101;LAPTM5;SLC18A2
+clusterset110	extracellular_space	0.0499336	3.43916	COL24A1;INHA;PRSS33;WNT2

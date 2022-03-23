@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset134	extracellular_exosome	0.000723226	5.67614	ADGRV1;ANGPTL2;ITGA1;PDGFC;RHOJ;TMEM63A;VASN
+clusterset134	cell_surface	0.00214679	11.3589	ADGRV1;ITGA1;PDGFC;VASN
+clusterset134	signaling_receptor_binding	0.00673547	12.9491	ANGPTL2;AR;ITGA1
+clusterset134	extracellular_space	0.0194308	5.22465	ANGPTL2;BMP1;PDGFC;VASN
+clusterset134	plasma_membrane	0.0202123	2.59438	ADGRV1;AR;ITGA1;PDGFC;RHOJ;TMEM63A;VASN

@@ -1,0 +1,9 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset108	extracellular_matrix	0.00110409	9.58925	ADAMTSL2;COL22A1;FCGBP;MMP2;MUC4;TGFB1
+clusterset108	extracellular_region	0.00110409	3.17789	ADAMTSL2;AEBP1;BTBD17;CCL3L1;COL22A1;FCGBP;GHRH;IL7;KISS1;LYPD6;MMP2;MUC4;S100B;TGFB1
+clusterset108	extracellular_space	0.00740191	3.35528	AEBP1;CCL3L1;COL22A1;FCGBP;GHRH;IL7;MMP2;MUC4;S100B;TGFB1
+clusterset108	ion_channel_activity	0.00847385	9.37871	CHRNB4;GABRA1;KCNH3;SCNN1G
+clusterset108	regulation_of_membrane_potential	0.0163557	11.8655	CHRNB4;GABRA1;KCNH3
+clusterset108	cytokine-mediated_signaling_pathway	0.0163557	7.02352	CCL3L1;IL7;INPPL1;MMP2
+clusterset108	G_protein-coupled_receptor_signaling_pathway	0.029975	3.68817	CCL3L1;GHRH;GNG11;GNG12;KISS1;PTGER1
+clusterset108	collagen-containing_extracellular_matrix	0.0425125	4.94083	AEBP1;IL7;MMP2;TGFB1

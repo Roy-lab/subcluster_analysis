@@ -1,0 +1,7 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset95	chemical_synaptic_transmission	0.00245519	26.214	DOC2B;GABRA5;GABRB2
+clusterset95	signal_transduction	0.0261126	5.4412	EPAS1;GABRA5;GABRB2;RARB
+clusterset95	synapse	0.0261126	7.95099	DOC2B;GABRA5;GABRB2
+clusterset95	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.0424894	5.70627	EPAS1;RARB;SALL3
+clusterset95	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.0424894	5.49725	EPAS1;RARB;SALL3
+clusterset95	integral_component_of_plasma_membrane	0.0424894	5.1974	GABRA5;GABRB2;MUC4

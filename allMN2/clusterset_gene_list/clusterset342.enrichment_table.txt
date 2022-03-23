@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset342	extracellular_exosome	0.000351589	5.05777	ARPC2;CCT6A;CCT8;CDC42;RAB2A;SERBP1;VDAC1;VPS28;YWHAZ
+clusterset342	regulation_of_mRNA_stability	0.00228748	26.3832	PSMD8;SERBP1;YWHAZ
+clusterset342	GTPase_activity	0.0180419	10.4072	CDC42;RAB2A;TUBB2B
+clusterset342	cadherin_binding	0.0180419	10.1956	CCT8;SERBP1;YWHAZ
+clusterset342	GTP_binding	0.0182377	8.97817	CDC42;RAB2A;TUBB2B
+clusterset342	microtubule	0.0182377	8.79441	CCT6A;CCT8;TUBB2B
+clusterset342	focal_adhesion	0.0258776	7.33582	ARPC2;CDC42;YWHAZ
+clusterset342	protein_kinase_binding	0.0292352	6.68375	CDC42;VDAC1;YWHAZ
+clusterset342	endoplasmic_reticulum_membrane	0.0322759	4.31674	CDC42;RAB2A;RTN1;SARAF

@@ -1,0 +1,15 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset31	DNA-binding_transcription_factor_activity	0.00207186	8.34391	EBF3;EGR1;HOXD10;POU3F3;SOX15
+clusterset31	positive_regulation_of_transcription_by_RNA_polymerase_II	0.00207186	5.81975	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.00207186	5.71474	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.00207186	5.49555	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	chromatin	0.00207186	5.349	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	DNA-binding_transcription_activator_activity,_RNA_polymerase_II-specific	0.00207186	10.0545	EBF3;EGR1;HOXC10;HOXD10
+clusterset31	regulation_of_transcription,_DNA-templated	0.00351185	4.654	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	DNA_binding	0.00467446	3.60214	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SAMD11;SOX15
+clusterset31	regulation_of_transcription_by_RNA_polymerase_II	0.00532344	4.09641	EBF3;EGR1;HOXC10;HOXD10;POU3F3;SOX15
+clusterset31	RNA_polymerase_II_transcription_regulatory_region_sequence-specific_DNA_binding	0.00997456	8.8235	EGR1;HOXC10;HOXD10
+clusterset31	chromatin_binding	0.0171435	7.01355	HOXD10;SAMD11;SOX15
+clusterset31	sequence-specific_double-stranded_DNA_binding	0.0212336	6.28145	EGR1;HOXC10;HOXD10
+clusterset31	multicellular_organism_development	0.026763	3.99577	EBF3;HOXC10;HOXD10;POU3F3
+clusterset31	positive_regulation_of_transcription,_DNA-templated	0.0428757	4.55191	EBF3;EGR1;POU3F3

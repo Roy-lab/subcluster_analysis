@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset52	DNA_damage_response,_signal_transduction_by_p53_class_mediator_resulting_in_cell_cycle_arrest	0.000176799	71.1711	BTG2;PCNA;TRIAP1
+clusterset52	apoptotic_process	0.000543702	10.7492	PERP;SQSTM1;TNFRSF10B;TRIAP1;ZMAT3
+clusterset52	negative_regulation_of_apoptotic_process	0.00213189	11.1756	BTG2;HSPB1;SQSTM1;TRIAP1
+clusterset52	regulation_of_apoptotic_process	0.00270705	17.8711	PERP;TNFRSF10B;TRIAP1
+clusterset52	positive_regulation_of_apoptotic_process	0.00720906	11.7929	SQSTM1;TNFRSF10B;ZMAT3
+clusterset52	negative_regulation_of_transcription_by_RNA_polymerase_II	0.00802345	6.52473	BTG2;CEBPB;PCNA;SQSTM1
+clusterset52	identical_protein_binding	0.00843345	4.5408	CEBPB;HSPB1;MAT2A;PCNA;SQSTM1
+clusterset52	cellular_response_to_DNA_damage_stimulus	0.0125626	8.21204	BTG2;PCNA;ZMAT3
+clusterset52	mitochondrion	0.0421189	3.64488	FDXR;PERP;SQSTM1;TRIAP1

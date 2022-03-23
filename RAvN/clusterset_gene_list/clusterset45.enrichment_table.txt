@@ -1,0 +1,9 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset45	neuropeptide_signaling_pathway	0.00334272	25.5795	CALCA;OPRK1;TAC3
+clusterset45	extracellular_space	0.00334272	4.74895	CALCA;COL28A1;EGFL6;FGF10;LRRC3B;SEMA3D;TAC3
+clusterset45	integral_component_of_plasma_membrane	0.00334272	4.68122	HCN1;KIRREL3;OPRK1;P2RX5;SEMA3D;SLC18A2;TMC3
+clusterset45	extracellular_region	0.00463956	3.65126	CALCA;COL28A1;EGFL6;EYS;FGF10;KIRREL3;SEMA3D;TAC3
+clusterset45	axon	0.00714857	7.7354	CALCA;HCN1;KIRREL3;NRGN
+clusterset45	dendrite	0.0105684	6.61087	HCN1;KIRREL3;NRGN;OPRK1
+clusterset45	extracellular_matrix	0.012018	9.49789	COL28A1;EGFL6;LRRC3B
+clusterset45	neuronal_cell_body	0.0401957	5.83161	CALCA;NRGN;OPRK1

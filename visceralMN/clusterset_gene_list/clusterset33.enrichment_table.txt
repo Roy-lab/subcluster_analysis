@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset33	integral_component_of_membrane	0.00913845	2.61037	CLIC1;FAR2;HCN1;MET;MOXD1;OPRK1;RET;SLC18A3;TMC3;TMEFF2
+clusterset33	chemical_synaptic_transmission	0.00913845	14.5632	OPRK1;SLC18A3;TAC1
+clusterset33	plasma_membrane	0.00985102	2.58629	CLIC1;HCN1;MET;MSN;OPRK1;RET;SLC18A3;TAC1;TMEFF2
+clusterset33	integral_component_of_plasma_membrane	0.00985102	4.97393	HCN1;MET;OPRK1;RET;TMC3
+clusterset33	neuronal_cell_body	0.0132264	8.79071	OPRK1;RET;TAC1
+clusterset33	axon	0.0132264	8.70055	HCN1;RET;TAC1
+clusterset33	dendrite	0.0174186	7.45761	HCN1;OPRK1;RET
+clusterset33	membrane	0.0185351	1.81024	CLIC1;FAR2;HCN1;MET;MOXD1;MSN;OPRK1;RET;SLC18A3;TMC3;TMEFF2
+clusterset33	extracellular_space	0.0254889	4.03594	CLIC1;MOXD1;MSN;TAC1
+clusterset33	ion_transport	0.0254889	5.69331	CLIC1;HCN1;TMC3

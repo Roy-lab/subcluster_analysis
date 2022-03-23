@@ -1,0 +1,14 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset53	cytosolic_large_ribosomal_subunit	0.000475463	54.7057	RPL19;RPL21;RPLP2
+clusterset53	SRP-dependent_cotranslational_protein_targeting_to_membrane	0.00100801	33.8069	RPL19;RPL21;RPLP2
+clusterset53	viral_transcription	0.00113497	27.6038	RPL19;RPL21;RPLP2
+clusterset53	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	0.00113497	25.7163	RPL19;RPL21;RPLP2
+clusterset53	translational_initiation	0.00160606	21.1888	RPL19;RPL21;RPLP2
+clusterset53	structural_constituent_of_ribosome	0.00189829	18.8051	RPL19;RPL21;RPLP2
+clusterset53	ribosome	0.0029364	15.3511	RPL19;RPL21;RPLP2
+clusterset53	nervous_system_development	0.00427048	7.67065	EFNB3;OLFM1;SLC1A2;SMARCD3
+clusterset53	translation	0.00674997	10.5203	RPL19;RPL21;RPLP2
+clusterset53	transcription_factor_binding	0.00715374	9.93007	DDIT3;SAP18;SMARCD3
+clusterset53	cytosol	0.0140726	2.09776	ANKS1B;CEP57;DDIT3;JAZF1;RPL19;RPL21;RPLP2;SAP18;SCOC;TPM1
+clusterset53	protein_binding	0.0192068	1.33314	ANKS1B;ATP6V0B;CEP57;DDIT3;EFNB3;JAZF1;OLFM1;RAMP2;RPL19;RPL21;RPLP2;SAP18;SCOC;SLC1A2;SMARCD3;TPM1
+clusterset53	protein_homodimerization_activity	0.0379085	4.90834	CEP57;DDIT3;TPM1

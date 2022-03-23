@@ -1,0 +1,12 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset42	DNA-binding_transcription_factor_activity	1.76806e-05	19.5529	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	multicellular_organism_development	7.151e-05	11.8554	EBF1;LMX1B;POU4F1;TLX3;VEGFC
+clusterset42	sequence-specific_double-stranded_DNA_binding	7.151e-05	20.4639	LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	7.151e-05	10.5753	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	chromatin	7.151e-05	10.2852	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	neuron_differentiation	7.151e-05	44.0734	LMX1B;POU4F1;TLX3
+clusterset42	regulation_of_transcription,_DNA-templated	0.000126073	8.82421	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	regulation_of_transcription_by_RNA_polymerase_II	0.000200918	7.79873	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	DNA_binding	0.000728513	5.82294	EBF1;LMX1B;PHOX2A;POU4F1;TLX3
+clusterset42	positive_regulation_of_transcription_by_RNA_polymerase_II	0.0101095	6.69698	LMX1B;PHOX2A;POU4F1
+clusterset42	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.0101095	6.56884	EBF1;POU4F1;TLX3

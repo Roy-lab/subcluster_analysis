@@ -1,0 +1,16 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset41	translational_initiation	1.93416e-09	32.9794	COPS5;RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	SRP-dependent_cotranslational_protein_targeting_to_membrane	1.93416e-09	46.0415	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	viral_transcription	5.45508e-09	37.5935	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	6.75014e-09	35.023	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	structural_constituent_of_ribosome	5.05692e-08	25.4515	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	translation	9.32107e-08	16.4318	COPS5;RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	ribosome	1.46096e-07	20.8005	RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;UBA52
+clusterset41	cytosolic_large_ribosomal_subunit	1.52406e-07	52.2665	RPL21;RPL27;RPL38;RPLP2;UBA52
+clusterset41	focal_adhesion	1.17388e-05	10.48	ARF1;ARPC3;RAC1;RPL27;RPL38;RPLP2;RPS5
+clusterset41	extracellular_exosome	0.000152233	3.80794	ARF1;ARPC3;ATP6V1G1;PSMA7;RAC1;RPL27;RPLP2;RPS26;RPS5;SUB1;UBA52
+clusterset41	cytosol	0.000152233	2.27924	ARF1;ARPC3;ATP6V1G1;COPE;COPS5;HSBP1;PDAP1;POMP;PSMA7;RAC1;RPL21;RPL27;RPL38;RPLP2;RPS26;RPS5;RTRAF;UBA52
+clusterset41	cytosolic_small_ribosomal_subunit	0.000152233	40.8408	RPS26;RPS5;UBA52
+clusterset41	RNA_binding	0.000164081	4.14285	ARF1;PDAP1;RPL21;RPL27;RPL38;RPS26;RPS5;RTRAF;SUB1;TRIR
+clusterset41	proton_transmembrane_transport	0.00151106	17.9199	ATP5MF;ATP6V1G1;COX7A2L
+clusterset41	protein_deubiquitination	0.0169625	7.473	COPS5;PSMA7;UBA52

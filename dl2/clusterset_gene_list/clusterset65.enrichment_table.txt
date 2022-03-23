@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset65	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.000120749	14.9892	DLX1;DLX6;EBF2;TFAP2D
+clusterset65	chromatin	0.000120749	14.5895	DLX1;DLX6;EBF2;TFAP2D
+clusterset65	regulation_of_transcription,_DNA-templated	0.000151712	12.4545	DLX1;DLX6;EBF2;TFAP2D
+clusterset65	regulation_of_transcription_by_RNA_polymerase_II	0.000186215	11.0129	DLX1;DLX6;EBF2;TFAP2D
+clusterset65	DNA-binding_transcription_factor_activity	0.000398175	20.7387	DLX6;EBF2;TFAP2D
+clusterset65	DNA_binding	0.000398175	8.2316	DLX1;DLX6;EBF2;TFAP2D
+clusterset65	multicellular_organism_development	0.00126345	12.3275	DLX1;DLX6;EBF2
+clusterset65	positive_regulation_of_transcription_by_RNA_polymerase_II	0.00126345	11.7118	DLX1;EBF2;TFAP2D
+clusterset65	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.00126345	11.5702	DLX1;DLX6;EBF2
+clusterset65	nucleus	0.0214431	2.67581	DLX1;DLX6;EBF2;TFAP2D

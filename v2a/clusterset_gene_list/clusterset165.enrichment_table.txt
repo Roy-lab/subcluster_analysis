@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset165	proximal/distal_pattern_formation	0.000271667	76.8599	HOXA10;HOXC10;SP8
+clusterset165	embryonic_limb_morphogenesis	0.00113438	38.43	HOXA10;HOXC10;SP8
+clusterset165	anterior/posterior_pattern_specification	0.00632534	18.8061	HOXA10;HOXC10;HOXD8
+clusterset165	sequence-specific_double-stranded_DNA_binding	0.00799864	6.48964	HOXA10;HOXC10;HOXD8;NEUROG2;SP8
+clusterset165	neuron_differentiation	0.015085	11.3319	IRX2;NEUROG2;RET
+clusterset165	integral_component_of_plasma_membrane	0.015085	3.58057	CHRNA2;GHR;GYPC;HTR1A;PMEL;RET;STRA6
+clusterset165	multicellular_organism_development	0.0270454	3.60036	HOXA10;HOXC10;HOXD8;MFNG;NEUROG2;RET
+clusterset165	chemical_synaptic_transmission	0.0311165	7.61973	CHRNA2;HTR1A;SYT10
+clusterset165	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.031392	3.31355	HOXA10;HOXC10;HOXD8;IRX2;NEUROG2;SP8
+clusterset165	chromatin	0.0327925	3.21122	HOXA10;HOXC10;HOXD8;IRX2;NEUROG2;SP8

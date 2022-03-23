@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset30	negative_regulation_of_transcription,_DNA-templated	0.00474483	14.7317	ID4;PTPRK;ZNF503
+clusterset30	DNA-binding_transcription_factor_activity	0.00474483	13.8494	EBF1;HOXB7;POU2F2
+clusterset30	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.0120381	7.71587	EBF1;HOXB7;POU2F2
+clusterset30	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.0120381	7.50344	EBF1;HOXB7;POU2F2
+clusterset30	chromatin	0.0120381	7.30239	EBF1;HOXB7;POU2F2
+clusterset30	regulation_of_transcription,_DNA-templated	0.0157223	6.22939	EBF1;HOXB7;POU2F2
+clusterset30	regulation_of_transcription_by_RNA_polymerase_II	0.0191165	5.49784	EBF1;HOXB7;POU2F2
+clusterset30	DNA_binding	0.036994	4.11375	EBF1;HOXB7;POU2F2
+clusterset30	nucleus	0.036994	2.22699	EBF1;HOXB7;ID4;POU2F2;ZNF503

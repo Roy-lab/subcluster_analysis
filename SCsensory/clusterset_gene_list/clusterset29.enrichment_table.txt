@@ -1,0 +1,17 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset29	intrinsic_apoptotic_signaling_pathway_in_response_to_DNA_damage_by_p53_class_mediator	6.38492e-05	84.8464	AEN;CDKN1A;RPS27L
+clusterset29	cyclin-dependent_protein_kinase_holoenzyme_complex	6.38492e-05	81.9207	CCNG1;CDKN1A;PCNA
+clusterset29	liver_regeneration	6.38492e-05	79.19	PCNA;SRSF1;TYMS
+clusterset29	DNA_damage_response,_signal_transduction_by_p53_class_mediator_resulting_in_cell_cycle_arrest	0.000299668	42.4232	CDKN1A;GADD45A;PCNA
+clusterset29	regulation_of_cyclin-dependent_protein_serine/threonine_kinase_activity	0.000299668	40.2661	CCNG1;CDKN1A;GADD45A
+clusterset29	cellular_response_to_DNA_damage_stimulus	0.00141921	8.01518	AEN;CDKN1A;GADD45A;PCNA;SLF2
+clusterset29	regulation_of_cell_cycle	0.00293649	16.6133	CCNG1;CDKN1A;GADD45A
+clusterset29	mRNA_binding	0.00685169	11.8194	CSTF3;SRSF1;TYMS
+clusterset29	mRNA_splicing,_via_spliceosome	0.0104311	9.77654	CSTF3;PNN;SRSF1
+clusterset29	mitochondrial_matrix	0.0237408	6.65462	FDXR;MTHFD2L;TYMS
+clusterset29	nucleus	0.0237408	1.7643	AEN;CCNG1;CDKN1A;CSTF3;GADD45A;LENG8;PCNA;PNN;RNF165;RPS27L;SLF2;SRSF1;TYMS
+clusterset29	mRNA_processing	0.0237408	6.45571	CSTF3;PNN;SRSF1
+clusterset29	protein-containing_complex_binding	0.0237408	6.23543	CDKN1A;PCNA;SLF2
+clusterset29	DNA_repair	0.0237408	6.13876	GADD45A;PCNA;SLF2
+clusterset29	nuclear_speck	0.0237408	6.0297	GADD45A;PNN;SRSF1
+clusterset29	mitochondrial_inner_membrane	0.0288271	5.47396	FDXR;MTHFD2L;TYMS

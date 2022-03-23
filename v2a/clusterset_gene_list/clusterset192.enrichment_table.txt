@@ -1,0 +1,7 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset192	positive_regulation_of_cytosolic_calcium_ion_concentration	0.000196375	48.5061	ADRA1D;CD36;PTGER4
+clusterset192	plasma_membrane	0.00147598	3.51547	ADRA1D;CD36;CNGB1;KCNJ5;PDYN;PLPP3;PTGER4
+clusterset192	G_protein-coupled_receptor_signaling_pathway	0.00798447	9.45523	ADRA1D;PDYN;PTGER4
+clusterset192	integral_component_of_membrane	0.0138853	2.73681	ADRA1D;CD36;CNGB1;KCNJ5;PLPP3;PTGER4
+clusterset192	integral_component_of_plasma_membrane	0.0257401	5.17904	ADRA1D;CD36;PLPP3
+clusterset192	signal_transduction	0.0413054	4.05591	ADRA1D;PLPP3;PTGER4

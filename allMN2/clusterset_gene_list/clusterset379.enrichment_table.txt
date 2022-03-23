@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset379	RNA_binding	0.00127172	4.28743	EIF3K;EIF3L;EIF4E;FKBP3;HNRNPA0;ILF2;NOP10;PCBP2;RBM3;RPL26L1
+clusterset379	translation_initiation_factor_activity	0.0013129	33.6524	EIF3K;EIF3L;EIF4E
+clusterset379	antigen_processing_and_presentation_of_exogenous_peptide_antigen_via_MHC_class_II	0.00377478	20.5654	CAPZB;DCTN2;DYNC1I2
+clusterset379	translation	0.00789798	8.53926	EIF3K;EIF3L;EIF4E;RPL26L1
+clusterset379	translational_initiation	0.00851774	13.0344	EIF3K;EIF3L;EIF4E
+clusterset379	vesicle	0.0107105	11.2859	DCTN2;DYNC1I2;GNB2
+clusterset379	endoplasmic_reticulum_to_Golgi_vesicle-mediated_transport	0.0112158	10.5164	CAPZB;DCTN2;DYNC1I2
+clusterset379	extracellular_exosome	0.02001	2.76664	CAPZB;DCTN2;EIF4E;GNB2;PCBP2;RAB5C;RPL26L1;SOD1
+clusterset379	viral_process	0.0353418	4.47074	DYNC1I2;EIF4E;PCBP2;RTN3
+clusterset379	microtubule	0.048643	5.41194	DCTN2;DYNC1I2;TBCB

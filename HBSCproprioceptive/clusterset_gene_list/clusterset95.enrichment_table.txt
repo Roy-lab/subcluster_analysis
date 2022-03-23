@@ -1,0 +1,14 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset95	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	0.00263856	38.2238	CDH4;NECTIN3;TENM1
+clusterset95	nervous_system_development	0.00740803	6.11581	CRIM1;EFNB2;MDGA1;NPAS4;TENM1;TOX
+clusterset95	cell_adhesion	0.00771797	5.62312	CDH4;EFNB2;LAMB3;NECTIN3;PCDH19;PTPRK
+clusterset95	multicellular_organism_development	0.021578	3.69421	BMP7;CSRP2;EBF3;EFNB2;HOXB8;MDGA1;POU6F2
+clusterset95	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	0.021578	10.5618	CDH4;NECTIN3;PCDH19
+clusterset95	adherens_junction	0.021578	10.0337	EFNB2;NECTIN3;PTPRK
+clusterset95	molecular_function	0.021578	4.7024	CA10;CSRP2;KLHL4;MDGA1;VWC2
+clusterset95	integral_component_of_plasma_membrane	0.021578	3.22925	CDH4;EFNB2;KCNQ3;PCDH19;PLXNA2;PTPRK;TENM1
+clusterset95	negative_regulation_of_cell_population_proliferation	0.021578	5.78523	BMP7;PTPRK;TENM1;ZNF503
+clusterset95	plasma_membrane	0.0296123	1.87437	CDH4;CRIM1;EFNB2;KCNQ3;MDGA1;NECTIN3;PCDH19;PDZD7;PLXNA2;PTPRK;RIT2;SGK1;SH3GL2;TENM1
+clusterset95	axon_guidance	0.0296123	7.26425	BMP7;CDH4;EFNB2
+clusterset95	brain_development	0.038367	6.27109	CA10;MDGA1;PCDH19
+clusterset95	synapse	0.038367	3.54393	KCNQ3;NECTIN3;RIT2;SH3GL2;VWC2

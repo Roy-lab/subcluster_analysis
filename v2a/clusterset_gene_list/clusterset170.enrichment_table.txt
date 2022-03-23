@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset170	mitochondrion	0.00743967	4.18905	ATP5F1D;COX4I1;GPX4;MAP2K2;NDUFAB1;TUFM;VDAC2
+clusterset170	mitochondrial_membrane	0.00743967	16.1687	COX4I1;NDUFAB1;VDAC2
+clusterset170	extracellular_exosome	0.013926	3.49166	ATP6V1G1;GPX4;MYL12B;PSMA7;RAC1;SUB1;TUFM
+clusterset170	oxidation-reduction_process	0.0246975	5.48148	COX4I1;GPX4;NDUFAB1;TXNL1
+clusterset170	mitochondrial_inner_membrane	0.0463712	6.09579	ATP5F1D;COX4I1;NDUFAB1

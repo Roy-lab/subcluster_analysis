@@ -1,0 +1,17 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset50	clathrin-sculpted_gamma-aminobutyric_acid_transport_vesicle_membrane	3.21456e-07	547.057	GAD1;GAD2;SLC32A1
+clusterset50	inhibitory_synapse	8.19327e-07	336.65	GAD1;GAD2;SLC32A1
+clusterset50	neurotransmitter_secretion	3.47162e-05	89.3154	GAD1;GAD2;SLC32A1
+clusterset50	synaptic_vesicle_membrane	0.00011477	54.7057	GAD2;SLC30A3;SLC32A1
+clusterset50	chemical_synaptic_transmission	0.00203448	19.2795	GAD1;GAD2;SLC6A5
+clusterset50	synapse	0.00484797	7.75967	GAD1;GAD2;SLC30A3;SLC32A1
+clusterset50	cell_differentiation	0.00649722	6.88122	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	sequence-specific_double-stranded_DNA_binding	0.0109399	9.13665	LBX1;LHX1;PAX2
+clusterset50	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.0127662	5.32902	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	chromatin	0.0127662	5.18691	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	DNA-binding_transcription_factor_activity	0.0150248	7.28195	LBX1;LHX1;PAX2
+clusterset50	regulation_of_transcription,_DNA-templated	0.0166785	4.51297	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	protein-containing_complex	0.0166785	6.60099	LHX1;PAX2;PCP4
+clusterset50	cytoplasmic_vesicle	0.0199362	6.01988	GAD2;SLC30A3;SLC32A1
+clusterset50	regulation_of_transcription_by_RNA_polymerase_II	0.0218425	3.97228	LBX1;LHX1;NKX1-1;PAX2
+clusterset50	multicellular_organism_development	0.0413847	4.35902	LBX1;LHX1;PAX2

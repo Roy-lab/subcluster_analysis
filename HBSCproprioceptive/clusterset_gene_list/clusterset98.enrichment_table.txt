@@ -1,0 +1,12 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset98	adaptive_immune_response	0.0167456	17.6418	ARG1;HLA-DQB1;THEMIS
+clusterset98	neuron_projection	0.0180962	7.2981	ARG1;CALB1;GLRA3;KLHL14
+clusterset98	signal_transduction	0.0180962	3.62311	AGTR2;ALK;CRHBP;CXCL12;DIRAS3;FZD1;GLRA3
+clusterset98	brain_development	0.0290898	8.95871	AGTR2;ALK;CXCL12
+clusterset98	inflammatory_response	0.0332389	7.8812	AGTR2;CRHBP;IL22
+clusterset98	signaling_receptor_binding	0.0463039	6.53398	CXCL12;FZD1;RSPO3
+clusterset98	neuronal_cell_body	0.0499424	5.8957	ARG1;CALB1;KLHL14
+clusterset98	extracellular_space	0.0499424	3.27539	ARG1;CRHBP;CXCL12;IL22;NDNF
+clusterset98	immune_system_process	0.0499424	5.3963	ARG1;HLA-DQB1;THEMIS
+clusterset98	extracellular_region	0.0499424	2.65905	ARG1;CRHBP;CXCL12;IL22;NDNF;RSPO3
+clusterset98	dendrite	0.0499424	5.06276	CALB1;CRHBP;GLRA3

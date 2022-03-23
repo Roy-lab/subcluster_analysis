@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset366	extracellular_exosome	0.000496152	4.4958	CEMIP2;CIB1;COL18A1;DDR1;EZR;ITGB8;KRT8;NPC2;TIMP1
+clusterset366	cell_periphery	0.000496152	41.1308	CIB1;EZR;KRT8
+clusterset366	collagen_trimer	0.000570856	34.2756	COL18A1;P4HA1;TIMP1
+clusterset366	endoplasmic_reticulum_lumen	0.000969096	13.301	COL18A1;P4HA1;SDC2;TIMP1
+clusterset366	extracellular_matrix_organization	0.006918	11.7259	COL18A1;DDR1;ITGB8
+clusterset366	angiogenesis	0.006918	11.5237	CEMIP2;CIB1;COL18A1
+clusterset366	cell_adhesion	0.00956559	6.19942	CIB1;COL18A1;DDR1;ITGB8
+clusterset366	extracellular_space	0.0175752	3.87464	COL18A1;DDR1;EZR;NPC2;TIMP1
+clusterset366	negative_regulation_of_cell_population_proliferation	0.0175752	7.1484	CIB1;COL18A1;DDR1
+clusterset366	cell_division	0.017866	6.8376	CIB1;KLHDC8B;SPART

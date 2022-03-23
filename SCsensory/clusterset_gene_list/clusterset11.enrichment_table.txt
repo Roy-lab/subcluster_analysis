@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset11	negative_regulation_of_cytokine_production	0.00168679	44.9943	AXL;EPHA2;GPNMB
+clusterset11	spermatogenesis	0.0127635	7.05793	AXL;MEIOC;PTTG1;SPOCD1;TSSK3
+clusterset11	cell_adhesion	0.0127635	5.18853	EPHA2;GPNMB;MADCAM1;MFGE8;PERP;TNFRSF12A
+clusterset11	angiogenesis	0.0136928	8.34677	EPHA2;MFGE8;SERPINE1;TNFRSF12A
+clusterset11	collagen-containing_extracellular_matrix	0.0309143	6.27372	GDF15;MATN4;MFGE8;SERPINE1

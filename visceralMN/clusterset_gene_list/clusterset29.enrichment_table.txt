@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset29	positive_regulation_of_apoptotic_process	0.00573594	9.23324	ALDH1A2;DUSP6;GAL;PHLDA2;STK17A
+clusterset29	interleukin-1-mediated_signaling_pathway	0.00573594	20.4323	IL1RAP;PSMA7;PSMB1
+clusterset29	Fc-epsilon_receptor_signaling_pathway	0.00573594	17.7589	MAP3K1;PSMA7;PSMB1
+clusterset29	MAPK_cascade	0.00573594	9.78224	DUSP6;MAP3K1;PSMA7;PSMB1
+clusterset29	inflammatory_response	0.0061403	9.04857	GAL;HRH1;IFI16;IL1RAP

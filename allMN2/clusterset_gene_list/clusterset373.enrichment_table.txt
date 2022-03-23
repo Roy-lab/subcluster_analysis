@@ -1,0 +1,14 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset373	translational_initiation	4.95524e-13	98.8442	EIF3G;RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	SRP-dependent_cotranslational_protein_targeting_to_membrane	5.79857e-12	135.177	RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	viral_transcription	1.34422e-11	110.374	RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	1.53557e-11	101.956	RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	translation	1.53557e-11	48.567	EIF3G;RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	structural_constituent_of_ribosome	7.54423e-11	74.2639	RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	ribosome	2.18448e-10	60.7614	RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	cytosolic_large_ribosomal_subunit	1.96066e-08	143.223	RPL10;RPL38;RPL6;RPL7A
+clusterset373	RNA_binding	6.42666e-07	9.75391	EIF3G;RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	polysomal_ribosome	8.22274e-07	176.923	RPL38;RPL6;RPL7A
+clusterset373	focal_adhesion	8.64864e-07	24.4527	RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	cytosol	0.0017676	2.93025	EIF3G;RPL10;RPL38;RPL6;RPL7A;RPS15;RPS5
+clusterset373	synapse	0.00638937	7.95685	RPL38;RPL6;RPL7A

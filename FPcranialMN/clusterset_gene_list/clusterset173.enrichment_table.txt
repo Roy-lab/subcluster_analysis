@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset173	positive_regulation_of_gene_expression	0.00138618	11.4033	F3;HEY2;NOS3;TREM2;WNT7A
+clusterset173	cytokine_activity	0.00442517	20.6297	CCL18;TSLP;WNT7A
+clusterset173	plasma_membrane	0.00442517	2.63798	ACKR3;AIF1;CLDN4;F3;HTR1D;IFITM1;NOS3;S100P;SGCG;TREM2;WNT7A
+clusterset173	positive_regulation_of_ERK1_and_ERK2_cascade	0.00442517	16.9138	ACKR3;CCL18;TREM2
+clusterset173	negative_regulation_of_apoptotic_process	0.00680371	7.85893	AIF1;TREM2;TSLP;WNT7A
+clusterset173	positive_regulation_of_cell_migration	0.00680371	12.6657	AIF1;CLDN4;F3
+clusterset173	regulation_of_gene_expression	0.0126138	9.65645	AIF1;HEY2;TREM2
+clusterset173	extracellular_region	0.0176793	3.41885	CCL18;F3;S100P;TREM2;TSLP;WNT7A
+clusterset173	negative_regulation_of_cell_population_proliferation	0.0201519	7.4606	ACKR3;IFITM1;NOS3
+clusterset173	positive_regulation_of_cell_population_proliferation	0.0307911	6.14699	AIF1;TSLP;WNT7A
+clusterset173	cell_surface	0.037515	5.51238	ACKR3;F3;WNT7A
+clusterset173	G_protein-coupled_receptor_signaling_pathway	0.0479258	4.86271	ACKR3;CCL18;HTR1D

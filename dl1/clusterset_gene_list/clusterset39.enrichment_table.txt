@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset39	RNA_binding	0.00572047	5.96685	ERH;HNRNPK;PPIA;RPL14;STRAP
+clusterset39	viral_process	0.0139635	9.43847	HNRNPK;PPIA;SET
+clusterset39	cytosol	0.0139635	2.55829	CCT2;HSBP1;OAZ1;PPIA;RPL14;SET;STRAP
+clusterset39	extracellular_exosome	0.0273053	3.99477	CCT2;HNRNPK;PPIA;RPL14
+clusterset39	nucleus	0.030179	2.07852	ERH;HNRNPK;HSBP1;OAZ1;PPIA;SET;STRAP

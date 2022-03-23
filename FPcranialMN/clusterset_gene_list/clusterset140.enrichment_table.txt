@@ -1,0 +1,15 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset140	extracellular_space	0.00243712	3.59195	ASIP;COL23A1;COL4A2;CPA1;INHBE;LRRC32;MICB;MMP3;PPY;PRSS57;SLPI;TIMP3;TNFSF9
+clusterset140	cardiac_muscle_contraction	0.00826458	23.4276	ATP1B1;NKX2-5;TNNI2
+clusterset140	adaptive_immune_response	0.0103497	10.6937	CD79B;IL4I1;LAMP3;MICB
+clusterset140	extracellular_matrix	0.0152654	6.45109	COL23A1;COL4A2;LRRC32;MMP3;TIMP3
+clusterset140	negative_regulation_of_peptidase_activity	0.0165443	12.7179	SLPI;TIMP3;WFIKKN1
+clusterset140	peptidase_inhibitor_activity	0.0165443	12.7179	SLPI;TIMP3;WFIKKN1
+clusterset140	immune_system_process	0.0165443	4.54209	CD79B;IL4I1;LAMP3;MICB;SLPI;TRIM38
+clusterset140	negative_regulation_of_endopeptidase_activity	0.0216848	10.2328	SLPI;TIMP3;WFIKKN1
+clusterset140	collagen-containing_extracellular_matrix	0.0216848	4.94583	COL23A1;COL4A2;INHBE;SLPI;TIMP3
+clusterset140	multicellular_organism_development	0.0237179	2.82022	CATSPERB;FZD10;HES5;MSX2;NEUROG3;NKX2-5;NNAT;PRICKLE3;UNC5B
+clusterset140	integral_component_of_membrane	0.0272963	1.64543	ATP1B1;CATSPERB;CD79B;CLRN1;COL23A1;CXCR2;FXYD5;FZD10;GCNT3;ICAM2;LAMP3;LRRC25;LRRC32;METTL7A;MICB;NNAT;SLAMF9;SLC52A1;STEAP1;STRA6;SYT8;TNFSF9;UNC5B
+clusterset140	extracellular_region	0.0272963	2.2354	ASIP;COL4A2;CPA1;IL4I1;INHBE;METTL7A;MMP3;PPY;PRSS57;SLPI;TIMP3;WFIKKN1
+clusterset140	immune_response	0.0272963	5.47005	CD79B;CXCR2;SLPI;TNFSF9
+clusterset140	extracellular_matrix_organization	0.0272963	5.37104	COL23A1;COL4A2;ICAM2;MMP3

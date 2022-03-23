@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset58	heterophilic_cell-cell_adhesion_via_plasma_membrane_cell_adhesion_molecules	0.000156103	37.3186	CDH2;CDH4;IGSF21;NECTIN1
+clusterset58	homophilic_cell_adhesion_via_plasma_membrane_adhesion_molecules	0.000714055	13.2839	CDH2;CDH4;IGSF21;NECTIN1;PTPRT
+clusterset58	adherens_junction_organization	0.0021044	28.6554	CDH2;CDH4;NECTIN1
+clusterset58	cell-cell_adhesion	0.00478063	10.1563	CDH2;CDH4;NECTIN1;NEGR1
+clusterset58	adherens_junction	0.00478063	10.0925	CDH2;FRMD4B;IGSF21;NECTIN1
+clusterset58	presynaptic_membrane	0.00478063	17.1932	IGSF21;NECTIN1;RIMS1
+clusterset58	cell_junction	0.00656459	3.71889	CDH2;FRMD4B;GSG1L;IGSF21;IQSEC1;NECTIN1;PATJ;RIMS1
+clusterset58	synapse	0.011921	3.73434	APBB2;CDH2;GSG1L;IGSF21;IQSEC1;NECTIN1;RIMS1
+clusterset58	cell_adhesion	0.0129977	4.17166	AATF;CDH2;CDH4;NECTIN1;NEGR1;PTPRT
+clusterset58	protein-containing_complex_assembly	0.0135032	10.0294	CHCHD10;RIMS1;WASF3
+clusterset58	cell_surface	0.0347932	3.82801	CD63;CDH2;HLA-C;PTPRT;SULF2
+clusterset58	lamellipodium	0.0356076	6.61277	APBB2;CDH2;WASF3

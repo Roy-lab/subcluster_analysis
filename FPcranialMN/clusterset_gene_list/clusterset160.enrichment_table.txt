@@ -1,0 +1,16 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset160	positive_regulation_of_substrate_adhesion-dependent_cell_spreading	0.000568704	58.0113	DOCK1;FLNA;NEDD9
+clusterset160	basement_membrane	0.00273002	25.0503	COL5A1;HSPG2;LAMC1
+clusterset160	cell_migration	0.00273002	12.5074	COL5A1;DOCK1;LAMC1;NEDD9
+clusterset160	extracellular_matrix_structural_constituent	0.00369008	18.6816	COL5A1;LAMC1;LTBP1
+clusterset160	collagen-containing_extracellular_matrix	0.00369008	9.79746	COL5A1;HSPG2;LAMC1;LTBP1
+clusterset160	cell_adhesion	0.00369008	6.72902	BOC;COL5A1;LAMC1;NEDD9;TRIP6
+clusterset160	cellular_protein_metabolic_process	0.00539073	14.131	HSPG2;LAMC1;LTBP1
+clusterset160	focal_adhesion	0.00771162	7.29339	FLNA;HSPG2;NEDD9;TRIP6
+clusterset160	extracellular_matrix_organization	0.0113269	9.97479	COL5A1;HSPG2;LAMC1
+clusterset160	extracellular_matrix	0.0114072	9.58447	COL5A1;LAMC1;LTBP1
+clusterset160	endoplasmic_reticulum_lumen	0.0150892	8.38186	COL5A1;LAMC1;LTBP1
+clusterset160	cytoskeleton	0.0168774	3.39404	CDK6;FLNA;MAP7D3;NEDD9;NEK6;TRIP6
+clusterset160	calcium_ion_binding	0.0193308	4.92335	CUBN;HSPG2;LTBP1;MYL9
+clusterset160	cell_division	0.0344968	5.66691	CDK6;NEDD9;NEK6
+clusterset160	extracellular_region	0.035544	2.76764	COL5A1;FLNA;HSPG2;LAMC1;LCAT;LTBP1

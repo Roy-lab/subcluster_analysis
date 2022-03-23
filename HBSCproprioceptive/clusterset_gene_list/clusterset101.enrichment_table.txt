@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset101	growth_cone	0.00939916	15.7084	AUTS2;PTPRO;TSHZ3
+clusterset101	regulation_of_transcription,_DNA-templated	0.00939916	4.11641	AFF3;ATXN1;HOXA1;HOXC5;PBX3;SOX4;TLE4
+clusterset101	neuron_projection	0.00939916	7.2981	GLUL;LZTS1;PTPRO;SLC12A5
+clusterset101	DNA_binding	0.00939916	3.13631	AFF3;ATXN1;HOXA1;HOXC5;PBX3;SOX4;TSHZ2;TSHZ3
+clusterset101	transcription_regulator_complex	0.00939916	11.3536	PBX3;SOX4;TLE4
+clusterset101	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.00939916	4.17366	HOXA1;HOXC5;PBX3;SOX4;TSHZ2;TSHZ3
+clusterset101	regulation_of_gene_expression	0.022659	7.77433	AFF3;TSHZ2;TSHZ3
+clusterset101	DNA-binding_transcription_factor_activity	0.022659	5.03773	AFF3;HOXC5;PBX3;SOX4
+clusterset101	cell_projection	0.0294476	3.58909	AUTS2;GLUL;KIAA1549;LZTS1;TSHZ3
+clusterset101	chromatin	0.0338523	3.37965	HOXC5;PBX3;SOX4;TSHZ2;TSHZ3

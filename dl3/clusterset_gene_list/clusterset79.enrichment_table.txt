@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset79	extracellular_region	0.00171264	3.80945	ANG;CFC1;COL24A1;CST6;FGF1;INHA;LIPC;PLA2G10;PRSS33;RNASE1;TFPI2
+clusterset79	extracellular_space	0.00769262	4.09949	ANG;COL24A1;FGF1;INHA;LIPC;PLA2G10;PRSS33;TFPI2
+clusterset79	anatomical_structure_morphogenesis	0.0105077	15.3333	CASR;CST6;FGF1
+clusterset79	heparin_binding	0.0124665	13.0784	ANG;FGF1;LIPC
+clusterset79	G_protein-coupled_receptor_activity	0.0159062	6.95471	AVPR1A;CASR;GPR101;KISS1R
+clusterset79	response_to_hypoxia	0.0162229	10.3411	ANG;CA9;HK2
+clusterset79	extracellular_matrix	0.0364041	7.31962	COL24A1;FGF1;TFPI2
+clusterset79	cell_surface	0.0454828	4.51725	CASR;CFC1;KISS1R;SCN5A
+clusterset79	cell_differentiation	0.0476851	3.46719	ANG;FGF1;GALNTL5;HEMGN;INHA

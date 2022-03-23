@@ -1,0 +1,14 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset55	regulation_of_translational_initiation	0.000337484	67.6125	EIF1B;EIF4A2;EIF5
+clusterset55	RNA_binding	0.000337484	4.6888	EIF1B;EIF4A2;EIF5;NPM1;PEG10;PNN;RPS19;RPS27L;RTN4;SLC3A2
+clusterset55	translational_initiation	0.000490499	19.0458	EIF1B;EIF4A2;EIF5;RPS19
+clusterset55	translation	0.000490499	11.8204	EIF1B;EIF4A2;EIF5;RPS19;RPS27L
+clusterset55	translation_initiation_factor_activity	0.000524705	36.8795	EIF1B;EIF4A2;EIF5
+clusterset55	regulation_of_cell_cycle	0.00775287	13.893	BAX;CCNG1;GADD45A
+clusterset55	protein_homodimerization_activity	0.00969813	5.47027	B2M;BAX;GADD45A;NPM1;RTN4
+clusterset55	nervous_system_development	0.0320279	5.14163	BAX;HES6;RTN4;SERPINE2
+clusterset55	protein_binding	0.0340146	1.27791	B2M;BAX;BLOC1S2;CCNG1;EIF1B;EIF4A2;EIF5;FBXO22;GADD45A;HES6;HOXC8;ID4;ITM2C;NPM1;PEG10;PNN;RPS19;RPS27L;RTN4;SARAF;SERPINE2;SLC3A2;VMP1
+clusterset55	cadherin_binding	0.0340146	6.82955	EIF5;RTN4;SLC3A2
+clusterset55	lysosomal_membrane	0.0340146	6.60708	BLOC1S2;ITM2C;SLC3A2
+clusterset55	apoptotic_process	0.0395026	4.29968	BAX;GADD45A;PEG10;RTN4
+clusterset55	negative_regulation_of_cell_population_proliferation	0.0495606	5.39461	BAX;NPM1;SERPINE2

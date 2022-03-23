@@ -1,0 +1,11 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset111	neuron_projection	0.0177772	10.4496	KCNC2;MCHR1;RHOC
+clusterset111	protein_kinase_binding	0.0177772	9.7297	ACTA2;MSN;RHOC
+clusterset111	extracellular_exosome	0.0177772	4.08582	ACTA2;FAS;MSN;RHOC;TUBB6
+clusterset111	cell_surface	0.0177772	8.32389	FAS;MSN;TRPV2
+clusterset111	transmembrane_transport	0.0180689	7.64112	KCNC2;SLC18A3;TRPV2
+clusterset111	plasma_membrane	0.0184011	2.55596	FAS;KCNC2;MCHR1;MSN;RHOC;SLC18A3;TRPV2
+clusterset111	cytoskeleton	0.0196255	4.45295	ACTA2;MSN;RHOC;TUBB6
+clusterset111	membrane	0.020677	1.88858	DRAM1;FAS;KCNC2;LRP10;MCHR1;MSN;RHOC;SLC18A3;TRPV2
+clusterset111	integral_component_of_membrane	0.0214722	2.32239	DRAM1;FAS;KCNC2;LRP10;MCHR1;SLC18A3;TRPV2
+clusterset111	cell_projection	0.0482089	4.11114	KCNC2;MSN;RHOC

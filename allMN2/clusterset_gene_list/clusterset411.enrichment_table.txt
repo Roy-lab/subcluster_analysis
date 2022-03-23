@@ -1,0 +1,5 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset411	multicellular_organism_development	0.016395	7.10093	BMP2;CDH18;EPHA4;SEMA5A
+clusterset411	cell_adhesion	0.0180067	9.29913	CDH18;EPHA4;SEMA5A
+clusterset411	synapse	0.0259381	7.07275	EPHA4;LIN7A;WHRN
+clusterset411	cell_junction	0.0284347	6.16724	EPHA4;LIN7A;WHRN

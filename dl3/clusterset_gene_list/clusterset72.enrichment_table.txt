@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset72	signal_transduction	0.000973787	4.35296	CMTM3;FAM83G;GABRQ;OPN3;PIDD1;RAP2B;RASL10A;RIN1;TNFSF9;TRH
+clusterset72	cytokine_activity	0.0188056	13.248	CMTM3;LIF;TNFSF9
+clusterset72	transcription_regulator_complex	0.0308327	9.65307	ATF5;LMO4;POU3F1
+clusterset72	cytosol	0.030922	1.87698	ATF5;CMTM3;CPEB1;CTNNAL1;DYRK3;FAM83G;HSD17B14;LIF;NGEF;PIDD1;RAP2B;RIN1;SEC24D;SH3BGR
+clusterset72	negative_regulation_of_apoptotic_process	0.030922	5.38084	ATF5;DYRK3;OPN3;PIDD1

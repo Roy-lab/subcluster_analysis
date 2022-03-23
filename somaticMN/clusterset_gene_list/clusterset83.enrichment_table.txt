@@ -1,0 +1,8 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset83	G_protein-coupled_receptor_activity	0.0026163	19.8567	ADGRL4;GPR50;HTR2C
+clusterset83	G_protein-coupled_receptor_signaling_pathway	0.00587048	10.9421	ADGRL4;GPR50;HTR2C
+clusterset83	integral_component_of_membrane	0.00587048	3.14306	ABCB1;ADGRL4;ANO3;GPR50;HTR2C;RTL1
+clusterset83	integral_component_of_plasma_membrane	0.0198542	6.04412	ADGRL4;GPR50;HTR2C
+clusterset83	plasma_membrane	0.0198542	2.88	ABCB1;ADGRL4;ANO3;GPR50;HTR2C
+clusterset83	signal_transduction	0.0273099	4.65927	ADGRL4;GPR50;HTR2C
+clusterset83	membrane	0.0334667	1.97579	ABCB1;ADGRL4;ANO3;GPR50;HTR2C;RTL1

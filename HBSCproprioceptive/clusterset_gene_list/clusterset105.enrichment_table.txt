@@ -1,0 +1,16 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset105	cortical_cytoskeleton_organization	0.000593001	58.9498	RND2;RND3;WDR1
+clusterset105	nucleoside_metabolic_process	0.000593001	56.0023	APRT;HPRT1;PRPS1
+clusterset105	establishment_or_maintenance_of_cell_polarity	0.00569257	23.3343	RND2;RND3;STK25
+clusterset105	regulation_of_cell_shape	0.00737989	10.8217	RHOQ;RND2;RND3;WDR1
+clusterset105	growth_cone	0.00737989	10.2287	CNR1;FGF13;ORAI2;SNCA
+clusterset105	regulation_of_actin_cytoskeleton_organization	0.00938548	15.5562	RHOQ;RND2;RND3
+clusterset105	positive_regulation_of_apoptotic_process	0.0174108	5.50662	CNR1;ITGB1;LDHA;PHLDA3;SNCA
+clusterset105	protein_N-terminus_binding	0.0205385	10.4677	RND2;SDCBP;SNCA
+clusterset105	membrane_raft	0.0205385	6.49302	CNR1;ITGB1;RHOQ;SDCBP
+clusterset105	cell_migration	0.0205385	6.24852	ITGB1;RHOQ;RND2;RND3
+clusterset105	small_GTPase_mediated_signal_transduction	0.0205385	9.57305	RHOQ;RND2;RND3
+clusterset105	extracellular_exosome	0.030974	2.29946	APRT;CAPNS1;EEA1;HEBP2;HPRT1;ITGB1;LDHA;RHOQ;SDCBP;STK25;WDR1
+clusterset105	cytoplasm	0.0341383	1.50447	APRT;ASRGL1;BCAT1;CAPNS1;CCNG1;CLNS1A;CNR1;EEA1;FGF13;HEBP2;HPRT1;ITGB1;LDHA;LRPAP1;PHLDA3;PHYHIPL;PNKD;PRPS1;RHOQ;SDCBP;SNCA;STK25;TPD52;TSC22D3;WDR1
+clusterset105	cell_cortex	0.03645	7.13405	RND2;RND3;SNCA
+clusterset105	actin_cytoskeleton_organization	0.0376785	6.87145	RND3;SDCBP;WDR1

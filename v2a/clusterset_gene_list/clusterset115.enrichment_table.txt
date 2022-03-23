@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset115	extracellular_exosome	0.00252088	4.04035	ADGRG2;ATP6V1D;HNRNPA1;OLA1;RAB11A;RAB27B;RFTN1;RPS27A;RPSA
+clusterset115	SRP-dependent_cotranslational_protein_targeting_to_membrane	0.00252088	26.8146	RPL9;RPS27A;RPSA
+clusterset115	viral_transcription	0.00289442	21.8945	RPL9;RPS27A;RPSA
+clusterset115	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	0.00289442	20.2246	RPL9;RPS27A;RPSA
+clusterset115	translational_initiation	0.00397565	16.8063	RPL9;RPS27A;RPSA
+clusterset115	structural_constituent_of_ribosome	0.00485391	14.7315	RPL9;RPS27A;RPSA
+clusterset115	ribosome	0.00740535	12.053	RPL9;RPS27A;RPSA
+clusterset115	cytosol	0.0167316	2.00588	ADGRG2;ATP6V1D;DNAJB6;NECAB1;OLA1;PREX2;RAB11A;RPL9;RPS27A;RPSA;TERF2IP;VPS29
+clusterset115	translation	0.0167316	8.25779	RPL9;RPS27A;RPSA
+clusterset115	GTP_binding	0.0220872	7.18825	OLA1;RAB11A;RAB27B
+clusterset115	endosome	0.0221977	4.76347	RAB11A;RAB27B;RFTN1;VPS29
+clusterset115	extracellular_space	0.0264811	3.5168	COL19A1;GAL;LGI1;RPS27A;VWC2L

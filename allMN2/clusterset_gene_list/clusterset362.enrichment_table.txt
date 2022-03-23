@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset362	SRP-dependent_cotranslational_protein_targeting_to_membrane	7.53261e-05	77.244	RPL27;RPS4X;UBA52
+clusterset362	viral_transcription	7.53261e-05	63.0708	RPL27;RPS4X;UBA52
+clusterset362	nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	7.53261e-05	58.2603	RPL27;RPS4X;UBA52
+clusterset362	translational_initiation	9.84367e-05	48.4135	RPL27;RPS4X;UBA52
+clusterset362	structural_constituent_of_ribosome	0.000116799	42.4365	RPL27;RPS4X;UBA52
+clusterset362	ribosome	0.000177109	34.7208	RPL27;RPS4X;UBA52
+clusterset362	translation	0.000466249	23.7879	RPL27;RPS4X;UBA52
+clusterset362	endoplasmic_reticulum	0.00350149	6.52869	RDH10;RPL27;SEC61B;UBA52
+clusterset362	endoplasmic_reticulum_membrane	0.0107338	7.40012	RDH10;SEC61B;UBA52
+clusterset362	RNA_binding	0.0325328	4.77742	RPL27;RPS4X;SEC61B
+clusterset362	cytosol	0.0435696	2.39204	PFDN5;RPL27;RPS4X;SEC61B;UBA52
+clusterset362	extracellular_exosome	0.048256	3.85354	RPL27;RPS4X;UBA52

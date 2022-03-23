@@ -1,0 +1,4 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset97	apoptotic_process	0.000659843	10.7235	DRAM1;FAS;GADD45G;IER3;TNFRSF10D
+clusterset97	negative_regulation_of_apoptotic_process	0.001896	11.2101	FAS;IER3;TNFRSF10D;YBX3
+clusterset97	positive_regulation_of_apoptotic_process	0.00712604	11.8402	FAS;GADD45G;JUN

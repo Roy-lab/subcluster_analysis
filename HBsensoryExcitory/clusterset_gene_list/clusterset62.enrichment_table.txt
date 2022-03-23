@@ -1,0 +1,6 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset62	mitochondrial_ATP_synthesis_coupled_proton_transport	9.93324e-07	253.667	ATP5F1B;ATP5MC3;COX5B
+clusterset62	proton_transmembrane_transport	9.93324e-07	69.0249	ATP5F1B;ATP5MC3;COX5B;COX6C
+clusterset62	mitochondrial_inner_membrane	0.00548566	11.826	ATP5F1B;COX5B;COX6C
+clusterset62	calcium_ion_binding	0.00987695	8.70212	CDH7;FAT4;S100A10
+clusterset62	mitochondrion	0.0138292	4.67804	ATP5F1B;ATP5MC3;COX5B;COX6C

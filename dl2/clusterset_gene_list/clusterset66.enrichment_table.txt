@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset66	DNA-binding_transcription_activator_activity,_RNA_polymerase_II-specific	0.00929169	10.3228	BCL11B;FOSB;HOXD10;NPAS4
+clusterset66	sequence-specific_double-stranded_DNA_binding	0.00929169	8.96897	BCL11B;FOSB;HOXD10;SKOR2
+clusterset66	cell_surface	0.00929169	7.92909	CA4;KIT;MRC1;SLITRK6
+clusterset66	protein_heterodimerization_activity	0.00929169	12.5979	ADCY8;ADRB1;NPAS4
+clusterset66	regulation_of_transcription_by_RNA_polymerase_II	0.00929169	4.12985	BCL11B;CGA;FOSB;HOXD10;KIT;NPAS4
+clusterset66	positive_regulation_of_transcription_by_RNA_polymerase_II	0.00929169	4.87991	BCL11B;CGA;FOSB;HOXD10;NPAS4
+clusterset66	RNA_polymerase_II_cis-regulatory_region_sequence-specific_DNA_binding	0.00929169	4.82093	BCL11B;FOSB;HOXD10;NPAS4;SKOR2
+clusterset66	integral_component_of_plasma_membrane	0.0109945	4.49924	ADCY8;ADRB1;KIT;MRC1;SLITRK6
+clusterset66	metal_ion_binding	0.0298543	2.31755	ADCY8;BCL11B;CA4;EYA4;KIT;PRICKLE1;TNNI1;ZNF804B
+clusterset66	DNA-binding_transcription_factor_activity	0.0383295	5.18468	BCL11B;FOSB;HOXD10
+clusterset66	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.0383295	3.74731	FOSB;HOXD10;NPAS4;SKOR2
+clusterset66	G_protein-coupled_receptor_signaling_pathway	0.0383295	5.11999	ADCY8;ADRB1;CGA

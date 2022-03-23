@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset393	vesicle	0.0405518	12.758	CALM3;GDI2;VAPA
+clusterset393	RNA_binding	0.0405518	3.39266	EEF2;GDI2;MKRN1;NONO;RSL24D1;SRP72;STAU1
+clusterset393	centrosome	0.0405518	5.48082	ARL2;BOD1;CALM3;DYNC1LI2
+clusterset393	viral_process	0.0405518	5.05388	EIF3M;FKBP8;STAU1;VAPA
+clusterset393	GTPase_activity	0.0405518	7.23981	ARL2;EEF2;RHEB
+clusterset393	translation	0.0405518	7.23981	EEF2;EIF3M;RSL24D1
+clusterset393	GTP_binding	0.0473857	6.24568	ARL2;EEF2;RHEB
+clusterset393	endoplasmic_reticulum	0.0473857	2.98049	CTDNEP1;FKBP8;RHEB;SRP72;STAU1;VAPA
+clusterset393	protein-containing_complex	0.0473857	4.20141	CALM3;FKBP8;MFF;VPS72

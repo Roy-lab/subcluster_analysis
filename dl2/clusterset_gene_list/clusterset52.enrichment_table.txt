@@ -1,0 +1,16 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset52	mitochondrial_ATP_synthesis_coupled_proton_transport	8.75376e-08	191.487	ATP5F1A;ATP5F1B;ATP5F1C;COX5B
+clusterset52	proton-transporting_ATP_synthase_complex,_catalytic_core_F(1)	2.14601e-07	478.719	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	mitochondrial_inner_membrane	9.06916e-07	15.6225	ATP5F1A;ATP5F1B;ATP5F1C;AURKAIP1;COX5B;COX6B1;NDUFB11
+clusterset52	mitochondrial_proton-transporting_ATP_synthase_complex	4.04122e-06	159.573	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	proton-transporting_ATP_synthase_activity,_rotational_mechanism	4.04122e-06	151.174	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	ATP_synthesis_coupled_proton_transport	4.04122e-06	143.616	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	oxidative_phosphorylation	6.96636e-06	114.893	ATP5F1C;COX5B;COX6B1
+clusterset52	proton_transmembrane_transport	7.72748e-06	39.0791	ATP5F1A;ATP5F1B;COX5B;COX6B1
+clusterset52	ATP_biosynthetic_process	7.72748e-06	99.0453	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	cristae_formation	7.72748e-06	99.0453	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	mitochondrion	0.000766712	4.59991	ATP5F1A;ATP5F1B;ATP5F1C;AURKAIP1;COX5B;COX6B1;NDUFB11
+clusterset52	ATPase_activity	0.00298838	12.6534	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	mitochondrial_matrix	0.00969334	8.11388	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	ion_transport	0.0331432	5.02153	ATP5F1A;ATP5F1B;ATP5F1C
+clusterset52	extracellular_exosome	0.0403425	2.79789	ATP5F1A;ATP5F1B;CHMP5;DSTN;MYL12B

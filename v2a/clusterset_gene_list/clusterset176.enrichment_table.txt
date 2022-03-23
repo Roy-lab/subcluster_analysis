@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset176	axon	6.31226e-05	13.4945	BTBD8;CADM2;GABRA2;GPM6A;OLFM1;VSTM2L
+clusterset176	integral_component_of_synaptic_vesicle_membrane	7.0623e-05	77.9902	GABRA2;SLC17A6;TMEM163
+clusterset176	synapse	7.0623e-05	8.195	BTBD8;CADM2;GABRA2;GPM6A;OLFM1;SLC17A6;TMEM163
+clusterset176	cell_junction	0.00012473	7.18609	BTBD8;CADM2;GABRA2;GPM6A;OLFM1;SLC17A6;TMEM163
+clusterset176	neuron_projection_development	0.00170047	19.9373	BTBD8;CNTN1;GPM6A
+clusterset176	neuronal_cell_body	0.00273456	9.08883	GABRA2;GPM6A;OLFM1;SERPINI1
+clusterset176	cytoplasmic_vesicle	0.00281801	6.1296	BTBD8;GABRA2;SERPINI1;SLC17A6;TMEM163
+clusterset176	nervous_system_development	0.00607392	6.77309	CNTN1;GPM6A;ISLR2;OLFM1
+clusterset176	cell_projection	0.0118737	4.17322	BTBD8;CADM2;GABRA2;GPM6A;OLFM1
+clusterset176	positive_regulation_of_gene_expression	0.0199188	6.51515	CNTN1;MAF;OLFM1
+clusterset176	neuron_projection	0.0199188	6.3437	GABRA2;GPM6A;SLC17A6
+clusterset176	cell_adhesion	0.0405271	4.70154	ANOS1;CADM2;CNTN1

@@ -1,0 +1,9 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset35	neuron_migration	0.00012185	65.4086	BARHL1;BARHL2;RELN
+clusterset35	multicellular_organism_development	0.00269727	9.3675	ADAMTS9;EYA4;HOXC9;RELN
+clusterset35	sequence-specific_double-stranded_DNA_binding	0.00301219	15.3541	BARHL1;BARHL2;HOXC9
+clusterset35	DNA-binding_transcription_factor_activity,_RNA_polymerase_II-specific	0.0236356	6.43152	BARHL1;BARHL2;HOXC9
+clusterset35	chromatin	0.0236356	6.25919	BARHL1;BARHL2;HOXC9
+clusterset35	regulation_of_transcription,_DNA-templated	0.0305884	5.33948	BARHL1;BARHL2;HOXC9
+clusterset35	regulation_of_transcription_by_RNA_polymerase_II	0.0349227	4.71243	BARHL1;BARHL2;HOXC9
+clusterset35	hydrolase_activity	0.0349227	4.57723	ADAMTS9;EYA4;RELN

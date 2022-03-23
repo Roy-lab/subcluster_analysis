@@ -1,0 +1,7 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset186	mitochondrial_electron_transport,_NADH_to_ubiquinone	0.0026214	31.0742	NDUFB11;NDUFB2;NDUFB4
+clusterset186	mitochondrial_respiratory_chain_complex_I	0.0026214	30.4401	NDUFB11;NDUFB2;NDUFB4
+clusterset186	respirasome	0.00266023	23.3057	NDUFB11;NDUFB2;NDUFB4
+clusterset186	membrane	0.00266023	1.7276	ACTR3;ARL3;CLTC;COX8A;CUTA;EIF4A1;GNAS;HK2;LEMD1;MAGED2;MARCKS;NCL;NDUFB11;NDUFB2;NDUFB4;PCDH10;PCSK1;PJA2;PLD3;PRKAR1A;SEC62;SLC16A3;TUSC3;VEGFA
+clusterset186	mitochondrial_respiratory_chain_complex_I_assembly	0.00266023	22.2621	NDUFB11;NDUFB2;NDUFB4
+clusterset186	extracellular_exosome	0.0125565	2.8058	ACTR3;ARL3;CLTC;CUTA;EIF4A1;GNAS;MARCKS;NCL;PLD3;ST13

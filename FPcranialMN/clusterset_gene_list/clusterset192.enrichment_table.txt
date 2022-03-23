@@ -1,0 +1,13 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset192	negative_regulation_of_endopeptidase_activity	8.11347e-06	59.1226	ANXA2;CRB2;ITIH5;SERPINH1
+clusterset192	collagen_fibril_organization	4.20671e-05	87.6761	ANXA2;FKBP10;SERPINH1
+clusterset192	serine-type_endopeptidase_inhibitor_activity	5.83905e-05	68.8884	ANXA2;ITIH5;SERPINH1
+clusterset192	endoplasmic_reticulum_lumen	0.000164963	19.5577	COL4A6;FKBP10;SERPINH1;STC2
+clusterset192	calcium_ion_binding	0.000183395	10.7698	ANXA2;CRB2;EGF;FKBP10;LRP2
+clusterset192	extracellular_region	0.000183395	5.65061	ANXA2;COL4A6;CRB2;EGF;FTL;ITIH5;STC2
+clusterset192	extracellular_space	0.0021793	5.98658	ANXA2;COL4A6;EGF;SERPINH1;STC2
+clusterset192	extracellular_exosome	0.00224663	4.45983	ANXA2;CRB2;EGF;FTL;GPRC5C;LRP2
+clusterset192	lysosomal_membrane	0.00252915	12.9022	ANXA2;EGF;LRP2
+clusterset192	collagen-containing_extracellular_matrix	0.00252915	12.8592	ANXA2;COL4A6;SERPINH1
+clusterset192	endoplasmic_reticulum	0.0283904	3.74085	FKBP10;LRP2;SERPINH1;STC2
+clusterset192	membrane	0.0401195	1.73486	ANXA2;CDC42EP1;COL4A6;CRB2;EGF;FKBP10;FTL;GPRC5C;LRP2

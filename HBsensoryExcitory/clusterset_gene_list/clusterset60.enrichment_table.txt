@@ -1,0 +1,8 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset60	oxidative_phosphorylation	2.7801e-08	221.382	ATP5F1C;COX4I1;COX6A1;COX6B1
+clusterset60	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	2.02825e-06	218.469	COX4I1;COX6A1;COX6B1
+clusterset60	cytochrome-c_oxidase_activity	2.4674e-06	180.474	COX4I1;COX6A1;COX6B1
+clusterset60	mitochondrial_inner_membrane	2.61748e-05	16.1263	ATP5F1C;COX4I1;COX6A1;COX6B1;NDUFB11
+clusterset60	proton_transmembrane_transport	0.000123431	42.3562	COX4I1;COX6A1;COX6B1
+clusterset60	mitochondrion	0.000552065	5.74123	ATP5F1C;COX4I1;COX6A1;COX6B1;GLRX5;NDUFB11
+clusterset60	oxidation-reduction_process	0.00148737	8.99926	COX4I1;COX6A1;GLRX5;NDUFB11

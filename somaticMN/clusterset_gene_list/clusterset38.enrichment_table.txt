@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset38	respiratory_chain_complex_IV	4.85033e-07	429.627	MT-CO1;MT-CO2;MT-CO3
+clusterset38	respiratory_electron_transport_chain	1.30108e-06	252.722	MT-CO1;MT-CO3;MT-CYB
+clusterset38	mitochondrial_electron_transport,_cytochrome_c_to_oxygen	1.30108e-06	226.12	MT-CO1;MT-CO2;MT-CO3
+clusterset38	cytochrome-c_oxidase_activity	2.03434e-06	179.011	MT-CO1;MT-CO2;MT-CO3
+clusterset38	respirasome	3.29942e-05	67.1293	MT-CO1;MT-CO2;MT-CYB
+clusterset38	proton_transmembrane_transport	0.000114984	41.7114	MT-CO1;MT-CO2;MT-CO3
+clusterset38	mitochondrial_inner_membrane	0.00036422	13.2295	MT-CO1;MT-CO2;MT-CO3;MT-CYB
+clusterset38	mitochondrion	0.00394275	4.89102	MT-CO1;MT-CO2;MT-CO3;MT-CYB;SOX4
+clusterset38	oxidation-reduction_process	0.015201	6.73397	MT-CO1;MT-CO2;MT-CYB

@@ -1,0 +1,12 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset205	rhythmic_process	0.00012157	54.3345	CDK1;DTL;TOP2A
+clusterset205	DNA_replication	0.00012157	50.4281	CDC45;CDK1;DTL
+clusterset205	chromatin_binding	0.00155327	18.6816	CDC45;CDK1;TOP2A
+clusterset205	centrosome	0.00211586	15.248	CDC45;CDK1;DTL
+clusterset205	cell_cycle	0.00316648	12.3054	CDC45;CDK1;DLGAP5
+clusterset205	cytoplasm	0.00794402	2.54595	CDC45;CDK1;DLGAP5;DTL;TK1;TOP2A
+clusterset205	cytoskeleton	0.0180746	5.93957	CDK1;DLGAP5;DTL
+clusterset205	ATP_binding	0.0180746	5.67734	CDK1;TK1;TOP2A
+clusterset205	nucleotide_binding	0.0277221	4.66193	CDK1;TK1;TOP2A
+clusterset205	nucleoplasm	0.0358493	2.89947	CDC45;CDK1;DTL;TOP2A
+clusterset205	nucleus	0.0358493	2.22592	CDC45;CDK1;DLGAP5;DTL;TOP2A

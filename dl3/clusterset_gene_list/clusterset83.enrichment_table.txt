@@ -1,0 +1,15 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset83	cell_junction	0.00933577	5.30593	DTNA;KCTD16;NTRK2;RAI14;TES;VASP
+clusterset83	early_endosome_membrane	0.00933577	15.5569	NTRK2;PLPP2;RAB31
+clusterset83	positive_regulation_of_protein_kinase_B_signaling	0.00933577	15.0451	IGFBP5;IRS2;SPRY2
+clusterset83	cellular_protein_metabolic_process	0.00933577	14.0298	IGFBP5;LGALS1;RCN1
+clusterset83	cell_differentiation	0.0227831	4.45781	ETV4;HTATIP2;ID2;NTRK2;RAI14
+clusterset83	early_endosome	0.0227831	8.56501	NTRK2;PLPP2;RAB31
+clusterset83	endoplasmic_reticulum_lumen	0.0227831	8.40756	IGFBP5;LGALS1;RCN1
+clusterset83	post-translational_protein_modification	0.0296937	7.0582	IGFBP5;LGALS1;RCN1
+clusterset83	multicellular_organism_development	0.0296937	3.77369	DISP1;HTATIP2;ID2;NTRK2;SPRY2
+clusterset83	protein-containing_complex	0.0298814	4.61991	DTNA;ID2;IRS2;TES
+clusterset83	cell_projection	0.0298814	3.58892	DTNA;KCTD16;NTRK2;SPRY2;VASP
+clusterset83	negative_regulation_of_cell_population_proliferation	0.0308956	6.18069	SMARCA2;SPRY2;TES
+clusterset83	positive_regulation_of_gene_expression	0.0385342	5.52381	ID2;NTRK2;SPRY2
+clusterset83	plasma_membrane	0.0443577	1.91193	DTNA;IRS2;KCTD16;NTRK2;PLPP2;RAB31;SPRY2;STK17A;TES;VASP

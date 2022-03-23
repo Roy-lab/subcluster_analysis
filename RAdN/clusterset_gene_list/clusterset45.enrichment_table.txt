@@ -1,0 +1,7 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset45	positive_regulation_of_apoptotic_process	0.000738128	13.1032	ADM;FAS;GADD45B;NGF;PMAIP1
+clusterset45	activation_of_cysteine-type_endopeptidase_activity_involved_in_apoptotic_process	0.00134204	32.1964	FAS;NGF;PMAIP1
+clusterset45	receptor_complex	0.00952089	14.3856	EPHA2;GPRC5C;IL6R
+clusterset45	apoptotic_process	0.0288139	5.73291	EPHA2;FAS;GADD45B;PMAIP1
+clusterset45	signaling_receptor_binding	0.0336957	7.63983	ADM;NGF;SERPINE1
+clusterset45	negative_regulation_of_cell_population_proliferation	0.0336957	7.19282	ADM;E2F7;NGF

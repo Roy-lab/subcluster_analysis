@@ -1,0 +1,10 @@
+cluster	GOterm	FDR	fold_enrich	GeneIDs
+clusterset157	beta-catenin_binding	0.00253114	19.4261	CTNNA1;CTNNA2;FOXO3;GRIP1
+clusterset157	adherens_junction	0.0154481	10.1354	CNN3;CTNNA1;CTNNA2;PDLIM4
+clusterset157	postsynaptic_membrane	0.018361	8.67976	GRIP1;KCTD8;PDLIM4;TENM2
+clusterset157	structural_molecule_activity	0.0362102	9.63658	CTNNA1;CTNNA2;NEFM
+clusterset157	calcium_ion_binding	0.0362102	3.95427	CAPNS1;NELL2;PCDH17;RCN1;RHBDL3;TENM2
+clusterset157	cell_junction	0.0364711	3.31666	CTNNA1;CTNNA2;GRIP1;KCTD8;PDLIM4;SLC5A7;TENM2
+clusterset157	cell-cell_adhesion	0.040681	7.84517	CNN3;CTNNA2;TENM2
+clusterset157	dendritic_spine	0.040681	7.7952	CNN3;PDLIM4;TENM2
+clusterset157	multicellular_organism_development	0.0492595	2.90798	CRABP1;CSRP2;CTNNA2;DRAXIN;NHLH2;SHB;TLE1
